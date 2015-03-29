@@ -1,0 +1,172 @@
+<div class="works row">
+		<h3 class="align-left">Our Works</h3>
+		<a href="portfolio-3-columns.html" class="button small solid align-right works-more">VIEW MORE WORKS</a>
+		<div class="works-carousel-container">
+			<div class="works-direction-nav">
+				<a class="works2-prev" href="#">Previous</a>
+				<a class="works2-next" href="#">Next</a>
+			</div>
+			<ul class="works-carousel2">
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-1.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-play"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-play"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-2.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-puzzle"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full2.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-puzzle"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-3.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-pictures"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full3.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-pictures"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-4.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-code"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full4.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-code"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-5.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-play"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full5.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-play"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-6.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-puzzle"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full6.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-puzzle"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-7.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-code"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full7.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-code"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="columns one-fourth">
+					<div class="works-thumb">
+						<img src="img/works/works-8.jpg" alt="Project Name">
+						<div class="works-title">
+							<h4><a href="single-project-image.html">Project Name</a></h4>
+						</div>
+						<a href="portfolio-3-columns.html" title="Category Name" class="works-icon"><i class="icon-pictures"></i></a>
+						<div class="overlay">
+							<h4>Project Name</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+							</p>
+							<div class="overlay-icons">
+								<a href="img/works/works-full8.jpg" title="Preview" class="works-preview fancybox tooltips"><i class="icon-eye"></i></a>
+								<a href="single-project-image.html" title="Permalink" class="works-link tooltips"><i class="icon-link"></i></a>
+								<a href="portfolio-3-columns.html" title="Category Name" class="works-cat tooltips"><i class="icon-pictures"></i></a>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>

@@ -1,0 +1,92 @@
+﻿<div class="widget">
+	<div class="widget-tabs">
+		<ul class="tabs-head">
+			<li>
+				<h4><a href="#tabs-recent">Recent</a></h4>
+			</li>
+			<li>
+				<h4><a href="#tabs-popular">Popular</a></h4>
+			</li>
+			<li>
+				<h4><a href="#tabs-comments"><i class="icon-comments-2"></i></a></h4>
+			</li>
+		</ul>
+		<div class="tabs-wrapper">
+			<div id="tabs-recent" class="tabs-content">
+				<ul class="post-small">
+					<li>
+						<a href="#"><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/photos/photo-6.jpg" alt="Blog Image"></a>
+						<p>
+							<a href="#">Morbi tincidunt, dui sit amet facilisis</a>
+						</p>
+						<span>20 November 2012</span>
+					</li>
+					<li>
+						<a href="#"><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/photos/photo-6.jpg" alt="Blog Image"></a>
+						<p>
+							<a href="#">Morbi tincidunt, dui sit amet facilisis</a>
+						</p>
+						<span>20 November 2012</span>
+					</li>
+					<li>
+						<a href="#"><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/photos/photo-6.jpg" alt="Blog Image"></a>
+						<p>
+							<a href="#">Morbi tincidunt, dui sit amet facilisis</a>
+						</p>
+						<span>20 November 2012</span>
+					</li>
+				</ul>
+			</div>
+			<div id="tabs-popular">
+				<ul class="post-small">
+					<li>
+						<a href="#"><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/photos/photo-6.jpg" alt="Blog Image"></a>
+						<p>
+							<a href="#">Morbi tincidunt, dui sit amet facilisis</a>
+						</p>
+						<span>20 November 2012</span>
+					</li>
+					<li>
+						<a href="#"><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/photos/photo-6.jpg" alt="Blog Image"></a>
+						<p>
+							<a href="#">Morbi tincidunt, dui sit amet facilisis</a>
+						</p>
+						<span>20 November 2012</span>
+					</li>
+					<li>
+						<a href="#"><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/photos/photo-6.jpg" alt="Blog Image"></a>
+						<p>
+							<a href="#">Morbi tincidunt, dui sit amet facilisis</a>
+						</p>
+						<span>20 November 2012</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div><!-- End Widget Tabs -->
+</div>
+<div class="widget">
+	<div class="widget-text">
+		<h4>Text Widget</h4>
+		<div class="widget-content">
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+		</div>
+	</div><!-- End Widget Text -->
+</div>
+<div class="widget">
+	<div class="widget-slide">
+		<h4>Latest Photo</h4>
+		<div class="widget-content">
+			<ul class="slides">
+				<li><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/works/works-1.jpg" alt="Latest Photo">
+				</li>
+				<li><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/works/works-1.jpg" alt="Latest Photo">
+				</li>
+				<li><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/works/works-1.jpg" alt="Latest Photo">
+				</li>
+				<li><img src="http://demo.ideacorners.com/bangpleecontainer/html/img/works/works-1.jpg" alt="Latest Photo">
+				</li>
+			</ul>
+		</div>
+	</div><!-- End Widget Slide -->
+</div>
